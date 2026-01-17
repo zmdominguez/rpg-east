@@ -1,0 +1,25 @@
+/* Makes all selected normal tables and dataview tables in the vault the same size in preview */
+.markdown-rendered table {
+  width: 100% !important;
+}
+
+.even-table-col-2.markdown-rendered td,
+.even-table-col-2.markdown-rendered th {
+  width: 50% !important;
+}
+.even-table-col-3.markdown-rendered td,
+.even-table-col-3.markdown-rendered th {
+  width: 33.33% !important;
+}
+.even-table-col-4.markdown-rendered td,
+.even-table-col-4.markdown-rendered th {
+  width: 25% !important;
+}
+.even-table-col-5.markdown-rendered td,
+.even-table-col-5.markdown-rendered th {
+  width: 20% !important;
+}
+.even-table-col-6.markdown-rendered td,
+.even-table-col-6.markdown-rendered th {
+  width: 16.67% !important;
+}

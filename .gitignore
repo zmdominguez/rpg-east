@@ -1,0 +1,24 @@
+# Ignore Obsidian workspace and cache files
+.obsidian/workspace
+.obsidian/usage-data.json
+.obsidian/cache
+.obsidian/themes/*.css-mobile-theme
+
+# Ignore plugin-specific data that might be large or volatile
+# This is optional; some users prefer to sync plugin settings
+# If you want to sync plugin settings, remove the .obsidian/plugins line
+# .obsidian/plugins/
+
+# Ignore files used by specific community plugins (examples)
+.smart-connections/
+.pro/copilot-index-*.json
+
+# Ignore OS-specific files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Ignore trash folder
+.trash/
+
+# IDEA
+.idea/
