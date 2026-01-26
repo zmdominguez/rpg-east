@@ -11,5 +11,5 @@ tags:
 - Any defining characteristics?
 
 ## 📝 Notes
-- Daughter of [[Grewdil]]
+- Daughter of [[Grewdil Pierce]]
 - Faked her kidnapping to get funding for her adventuring

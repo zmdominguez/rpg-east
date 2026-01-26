@@ -24,9 +24,24 @@ SORT file.name ASC
 ```dataview
 LIST
 FROM "Campaign Journal"
-WHERE contains(file.name, "Session")
+WHERE regexmatch("^S\d{2}", file.name)
 SORT file.name ASC
 ```
 
+### Cross Bones
+```dataview
+LIST
+FROM "Campaign Journal"
+WHERE regexmatch("^X\d{2}", file.name)
+SORT file.name ASC
+```
+
+### One Shots
+```dataview
+LIST
+FROM "Campaign Journal"
+WHERE regexmatch("^O\d{2}", file.name)
+SORT file.name ASC
+```
 ---
 

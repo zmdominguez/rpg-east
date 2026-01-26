@@ -1,7 +1,7 @@
 ---
 name: Eman
-species:
-occupation:
+species: Aasimar
+occupation: Mayor
 location:
 tags:
   - npc
@@ -11,3 +11,5 @@ tags:
 - Any defining characteristics?
 
 ## 📝 Notes
+
+Unknow to public knowledge, Eman is a Druid from the Owl Cult.

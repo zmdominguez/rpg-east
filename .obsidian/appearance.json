@@ -3,5 +3,7 @@
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
     "tables"
-  ]
+  ],
+  "accentColor": "#8940ba",
+  "baseFontSize": 20
 }

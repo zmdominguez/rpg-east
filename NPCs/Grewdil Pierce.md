@@ -1,6 +1,6 @@
 ---
 name: Grewdil
-species:
+species: Dragonborn
 occupation: Village leader
 location:
 tags:
@@ -11,4 +11,5 @@ tags:
 - Any defining characteristics?
 
 ## 📝 Notes
-- Daughter ([[Yeni]]) was kidnapped
+- Daughter ([[Yeni Pierce]]) was kidnapped
+- Lives on [[Aussen]]
