@@ -7,7 +7,7 @@ tags:
   - npc
 ---
 ## 👨‍🎤 Description
-- How does this creature look like?
-- Any defining characteristics?
 
 ## 📝 Notes
+- Fights zombies with her priests
+- Works at the [[Rat Temple]]

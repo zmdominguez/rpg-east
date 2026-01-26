@@ -9,8 +9,6 @@ tags:
 
 
 ## 👨‍🎤 Description
-- How does this creature look like?
-- Any defining characteristics?
 
 ## 📝 Notes
 - Runs the tavern [[Cross Bones Pub]]

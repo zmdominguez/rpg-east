@@ -1,15 +1,13 @@
 ---
-name: Grewdil
+name: Grewdil Pierce
 species: Dragonborn
 occupation: Village leader
-location:
+location: Aussen
 tags:
   - npc
 ---
 ## 👨‍🎤 Description
-- How does this creature look like?
-- Any defining characteristics?
 
 ## 📝 Notes
 - Daughter ([[Yeni Pierce]]) was kidnapped
-- Lives on [[Aussen]]
+- Lives in [[Aussen]]

@@ -1,15 +1,14 @@
 ---
-name: Yeni
-species:
-occupation:
-location:
+name: Yeni Pierce
+species: Dragonborn
+occupation: Adventurer
+location: Village
 tags:
   - npc
 ---
 ## 👨‍🎤 Description
-- How does this creature look like?
-- Any defining characteristics?
 
 ## 📝 Notes
 - Daughter of [[Grewdil Pierce]]
 - Faked her kidnapping to get funding for her adventuring
+- Lives in [[Aussen]]

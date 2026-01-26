@@ -2,7 +2,7 @@
 name: Anni
 species: Dragonborn
 occupation: Librarian
-location:
+location: Village
 tags:
   - npc
 ---

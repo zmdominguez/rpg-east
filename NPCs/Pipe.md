@@ -8,7 +8,8 @@ tags:
 status: disappeared
 ---
 ## 👨‍🎤 Description
-- How does this creature look like?
-- Any defining characteristics?
 
 ## 📝 Notes
+- Knew of a place nearby with good wood
+- Mother died during the Quiet Year
+- Disappeared mysteriously

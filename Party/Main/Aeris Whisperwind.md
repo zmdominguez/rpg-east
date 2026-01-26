@@ -8,7 +8,6 @@ tags:
   - party
 ---
 ## 👨‍🎤 Description
-- How does this creature look like?
-- Any defining characteristics?
 
 ## 📝 Notes
+- Default musician at [[Cross Bones Pub]]
