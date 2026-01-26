@@ -1,9 +1,12 @@
 ---
 player: Ju
 name: Salune
-class: 
+class:
   - Druid
 species:
 tags:
   - party
 ---
+## 👨‍🎤 Description
+
+## 📝 Notes

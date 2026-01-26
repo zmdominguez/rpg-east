@@ -2,6 +2,7 @@
 player: Canato
 name: Reverend Aldric
 class:
+  - Cleric
 species: Human
 tags:
   - party
@@ -11,3 +12,5 @@ tags:
 - Any defining characteristics?
 
 ## 📝 Notes
+
+![[reverend-aldric.png|400]]

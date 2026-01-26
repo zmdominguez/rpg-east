@@ -34,7 +34,7 @@ Villagers
 - [lore:: Good omen: Green-tinged sunrise]
 - [question:: Name of town?]
 - [question:: Adventuring party name?]
-- [[Piper]] -> there's a place nearby with good wood
+- [[Pipe]] -> there's a place nearby with good wood
 - Children are important to the village
 	- Rebuild the community
 	- This generation: gods?
@@ -51,9 +51,9 @@ Villagers
 	- Are they connected to [[Eman]]?
 - Discovered a cave
 	- Bats with guano for crops
-- [[Piper]]'s mother dies
+- [[Pipe]]'s mother dies
 - Village witch starts growing [[Blood root]]
-- [[Piper]] goes missing
+- [[Pipe]] goes missing
 - People living in trees near the lake
 	- Know more about [[Blood root]]
 
