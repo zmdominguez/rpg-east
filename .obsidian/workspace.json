@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Village/Cross Bones Pub.md",
+                "file": "Party/CrossBonesInc/Reverend Aldric.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cross Bones Pub"
+              "title": "Reverend Aldric"
             }
           }
         ]
@@ -197,8 +197,21 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "07ee59bea022de48",
+  "active": "6b1ef8d3623aa621",
   "lastOpenFiles": [
+    "Party/imgs/reverend-aldric.png",
+    "Party/imgs",
+    "ClaudeBook/00 Index.md",
+    "ClaudeBook/06 Epilogue - Mysteries Unresolved.md",
+    "ClaudeBook/05 The Truth About Eman.md",
+    "ClaudeBook/04 The Cross Bones Expedition.md",
+    "ClaudeBook/03 The Hostage Hoax.md",
+    "ClaudeBook/02 The Festival of Victory.md",
+    "ClaudeBook/01 Prologue - The Quiet Year.md",
+    "CLAUDE.md",
+    "ClaudeBook",
+    "Campaign Journal/ClaudeSummary.md",
+    "World/Village/Cross Bones Pub.md",
     "World/Village/Aussen.md",
     "World/Village/Army Building.md",
     "World/Village/Apothecary.md",
@@ -214,17 +227,6 @@
     "NPCs/Nell.md",
     "NPCs/Naven.md",
     "NPCs/Mills Senior.md",
-    "NPCs/Mills.md",
-    "NPCs/Grewdil Pierce.md",
-    "NPCs/Gravy.md",
-    "NPCs/Eman.md",
-    "NPCs/Dr Clair Bucklebub.md",
-    "NPCs/Anni.md",
-    "Items/00 - Miscellaneous.md",
-    "Campaign Journal/🔮 Lore 🔮.md",
-    "Campaign Journal/📆 Calendar.md",
-    "Campaign Journal/❓Questions❓.md",
-    "Campaign Journal/One Shot/O00 Owl Curse.md",
     "Campaign Journal/Item",
     "World/Untitled",
     "Party/Main",
@@ -232,8 +234,6 @@
     "World/Village",
     "World",
     "Campaign Journal/One Shot",
-    "Campaign Journal/Cross Bone Inc",
-    "Campaign Journal/Main",
-    "z_Templates/CSS/tables.css"
+    "Campaign Journal/Cross Bone Inc"
   ]
 }
