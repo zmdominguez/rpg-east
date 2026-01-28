@@ -26,7 +26,7 @@ tags:
 - [[Dr Clair Bucklebub]]
 	- Excavation near the swamp
 	- Her party got attacked by the monsters
-	- Researching [question:: Thelasian (sp?)] people
+	- Researching Thelasian people
 - Grassy swamp monsters
 	- First appeared when they uncovered stone slabs
 	- Monsters eventually stopped chasing

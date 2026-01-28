@@ -5,7 +5,7 @@
 #### 👯 Party
 ```dataview
 TABLE WITHOUT ID player as Player, file.link AS Character, class as Class, species as Species
-FROM "Party"
+FROM "Party/Main"
 SORT file.name ASC
 ```
 
@@ -23,25 +23,22 @@ SORT file.name ASC
 ## 📚 Session Index
 ```dataview
 LIST
-FROM "Campaign Journal"
-WHERE regexmatch("^S\d{2}", file.name)
+FROM "Campaign Journal/Main"
 SORT file.name ASC
 ```
 
 ### Cross Bones
 ```dataview
 LIST
-FROM "Campaign Journal"
-WHERE regexmatch("^X\d{2}", file.name)
+FROM "Campaign Journal/Cross Bone Inc"
 SORT file.name ASC
 ```
 
 ### One Shots
 ```dataview
 LIST
-FROM "Campaign Journal"
-WHERE regexmatch("^O\d{2}", file.name)
+FROM "Campaign Journal/One Shot"
 SORT file.name ASC
 ```
----
 
+---
