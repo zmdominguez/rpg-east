@@ -1,9 +1,10 @@
 ---
 date: 2025-12-07
 location: Village
+dm: Canato
+party:
 tags:
   - session
-dm: Canato
 ---
 ## 🧑‍🧑‍🧒‍🧒 Party 
 

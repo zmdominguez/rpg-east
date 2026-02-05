@@ -27,14 +27,14 @@ FROM "Campaign Journal/Main"
 SORT file.name ASC
 ```
 
-### Cross Bones
+### ☠️ Cross Bones
 ```dataview
 LIST
 FROM "Campaign Journal/Cross Bone Inc"
 SORT file.name ASC
 ```
 
-### One Shots
+### 🎯 One Shots
 ```dataview
 LIST
 FROM "Campaign Journal/One Shot"
