@@ -3,14 +3,10 @@ date: 2025-12-07
 location: Village
 dm: Canato
 party:
+  - Villagers
 tags:
   - session
 ---
-## 🧑‍🧑‍🧒‍🧒 Party 
-
-Villagers
-
-
 ## 💡Key Learnings 
 
 - Description of any important information that the party learned.
