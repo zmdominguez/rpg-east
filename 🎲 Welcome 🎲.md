@@ -3,11 +3,24 @@
 📍9/53 Forsyth St, Kingsford NSW 2032
 
 #### 👯 Party
-```dataview
+
+%% DATAVIEW_PUBLISHER: start
+```
 TABLE WITHOUT ID player as Player, file.link AS Character, class as Class, species as Species
 FROM "Party/Main"
 SORT file.name ASC
 ```
+%%
+
+| Player | Character                                              | Class                                     | Species  |
+| ------ | ------------------------------------------------------ | ----------------------------------------- | -------- |
+| Zarah  | [[Party/Main/Aeris Whisperwind.md\|Aeris Whisperwind]] | <ul><li>Bard</li></ul>                    | Wood Elf |
+| Marco  | [[Party/Main/Kass.md\|Kass]]                           | \-                                        | \-       |
+| Fiona  | [[Party/Main/Mirr.md\|Mirr]]                           | <ul><li>Warlock</li><li>Fighter</li></ul> | \-       |
+| Ju     | [[Party/Main/Salune.md\|Salune]]                       | <ul><li>Druid</li></ul>                   | \-       |
+
+%% DATAVIEW_PUBLISHER: end %%
+
 
 #### 👮 House rules:
 - 💰Add expenses to the [Splitwise group](https://www.splitwise.com/join/incW2So3Dry+1mkx8?v=e)
@@ -21,24 +34,47 @@ SORT file.name ASC
 
 ---
 ## 📚 Session Index
-```dataview
+
+%% DATAVIEW_PUBLISHER: start
+```
 LIST
 FROM "Campaign Journal/Main"
 SORT file.name ASC
 ```
+%%
+
+- [[Campaign Journal/Main/S00 The Quiet Year.md|S00 The Quiet Year]]
+- [[Campaign Journal/Main/S01 Sir Alawin Van Trafford.md|S01 Sir Alawin Van Trafford]]
+- [[Campaign Journal/Main/S02 Hostage Hoax.md|S02 Hostage Hoax]]
+
+%% DATAVIEW_PUBLISHER: end %%
+
+
 
 ### ☠️ Cross Bones
-```dataview
+%% DATAVIEW_PUBLISHER: start
+```
 LIST
 FROM "Campaign Journal/Cross Bone Inc"
 SORT file.name ASC
 ```
+%%
+
+- [[Campaign Journal/Cross Bone Inc/X00 Thelasian Lost City.md|X00 Thelasian Lost City]]
+
+%% DATAVIEW_PUBLISHER: end %%
 
 ### 🎯 One Shots
-```dataview
+%% DATAVIEW_PUBLISHER: start
+```
 LIST
 FROM "Campaign Journal/One Shot"
 SORT file.name ASC
 ```
+%%
+
+- [[Campaign Journal/One Shot/O00 Owl Curse.md|O00 Owl Curse]]
+
+%% DATAVIEW_PUBLISHER: end %%
 
 ---

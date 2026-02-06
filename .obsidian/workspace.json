@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f6fa980810f1052f",
+        "id": "c96890e83eab8bc7",
         "type": "tabs",
         "children": [
           {
-            "id": "018059e4461c9f25",
+            "id": "c2f281c4faf3e3e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Dr Clair Bucklebub.md",
+                "file": "ClaudeBook/04 The Cross Bones Expedition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dr Clair Bucklebub"
+              "title": "04 The Cross Bones Expedition"
+            }
+          },
+          {
+            "id": "220f7c8a5783ed47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Journal/🔮 Lore 🔮.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🔮 Lore 🔮"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:session",
+                "query": "tag:#pioneer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,39 +209,42 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "publish:Publish changes...": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "018059e4461c9f25",
+  "active": "220f7c8a5783ed47",
   "lastOpenFiles": [
+    "Campaign Journal/📆 Calendar.md",
     "Campaign Journal/❓Questions❓.md",
-    "NPCs/Dr Clair Bucklebub.md",
-    "World/Village/Library.md",
     "Campaign Journal/Cross Bone Inc/X00 Thelasian Lost City.md",
-    "z_Templates/World/NPC.md",
-    "NPCs/Anni.md",
-    "z_Templates/World/Party.md",
-    "z_Templates/World/PC.md",
-    "z_Templates/Notes/session notes.md",
-    "Campaign Journal/Main/S02 Hostage Hoax.md",
-    "Campaign Journal/Main/S03 Test.md",
-    "Party/CrossBonesInc/Reverend Aldric.md",
     "🎲 Welcome 🎲.md",
     "readme.md",
-    "Items/00 - Miscellaneous.md",
-    "Campaign Journal/One Shot/O00 Owl Curse.md",
+    "NPCs/Yeni Pierce.md",
+    "NPCs/Vian Out.md",
+    "NPCs/Reven.md",
+    "NPCs/Pipe.md",
+    "NPCs/Nell.md",
+    "NPCs/Naven.md",
+    "NPCs/Mills Senior.md",
+    "NPCs/Mills.md",
+    "NPCs/Grewdil Pierce.md",
+    "NPCs/Gravy.md",
     "NPCs/Eman.md",
-    "2026-01-19.md",
-    "World/Village/Halfheight Forest.md",
+    "z_Templates/World/NPC.md",
+    "NPCs/Dr Clair Bucklebub.md",
+    "NPCs/Anni.md",
+    "Campaign Journal/🔮 Lore 🔮.md",
+    "z_Templates/Meta/dv_publish_end.md",
+    "z_Templates/Meta/dv_publish_start.md",
+    "z_Templates/Meta",
+    "Campaign Journal/Main/S01 Sir Alawin Van Trafford.md",
+    "Campaign Journal/One Shot/O00 Owl Curse.md",
+    "Campaign Journal/Main/S02 Hostage Hoax.md",
+    "World/Village/Rat Temple.md",
     "Party/imgs/reverend-aldric.png",
     "Party/imgs",
-    "ClaudeBook/00 Index.md",
-    "ClaudeBook/06 Epilogue - Mysteries Unresolved.md",
-    "ClaudeBook/05 The Truth About Eman.md",
-    "ClaudeBook/04 The Cross Bones Expedition.md",
-    "ClaudeBook/03 The Hostage Hoax.md",
-    "ClaudeBook/02 The Festival of Victory.md",
-    "ClaudeBook/01 Prologue - The Quiet Year.md",
     "ClaudeBook",
     "Campaign Journal/Item",
     "World/Untitled",
@@ -234,7 +252,6 @@
     "Party/CrossBonesInc",
     "World/Village",
     "World",
-    "Campaign Journal/One Shot",
-    "Campaign Journal/Cross Bone Inc"
+    "Campaign Journal/One Shot"
   ]
 }
