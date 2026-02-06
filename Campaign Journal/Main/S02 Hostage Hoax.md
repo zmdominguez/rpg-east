@@ -10,14 +10,6 @@ party:
 tags:
   - session
 ---
-## 🧑‍🧑‍🧒‍🧒 Party 
-
-[[Aeris Whisperwind]]
-[[Kass]]
-[[Mirr]]
-[[Salune]]
-
-
 ## 💡Key Learnings 
 
 - Description of any important information that the party learned.
