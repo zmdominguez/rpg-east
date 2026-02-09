@@ -60,7 +60,7 @@ tags:
 	- Well
 	- Pub
 - Outskirts:
-	- Altar of the rat god
+	- [[Scarsith Temple]]
 	- Cave
 
 

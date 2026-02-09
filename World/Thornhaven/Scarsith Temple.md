@@ -1,5 +1,5 @@
 ## Description
-Altar dedicated to the Rat God, located on the outskirts of Thornhaven.
+Temple dedicated to Scarsith, the Gnawing Hunger, located on the outskirts of Thornhaven.
 
 ## Key NPCs
 - [[Nell]] - Priestess

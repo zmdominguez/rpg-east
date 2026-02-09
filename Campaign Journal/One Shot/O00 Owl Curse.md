@@ -54,7 +54,7 @@ tags:
 	- Dinner with his family
 		- Wife Han
 		- Son Kelly
-			- Learning about the rat god in school
+			- Learning about Scarsith in school
 			- Best friend is Pete, a dragon-born (lizard people)
 	- Cursed owls live across the lake
 	- The commander of the guards is called Reven

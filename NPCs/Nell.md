@@ -10,7 +10,7 @@ tags:
 
 ## 📝 Notes
 - Fights zombies with her priests
-- Works at the [[Rat Temple]]
+- Works at the [[Scarsith Temple]]
 
 ## 🗣️ Mentioned in
 
@@ -66,7 +66,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven/Rat Temple.md|Rat Temple]]
+- [[World/Thornhaven/Scarsith Temple.md|Scarsith Temple]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
