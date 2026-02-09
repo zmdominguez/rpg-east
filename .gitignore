@@ -25,3 +25,5 @@ Thumbs.db # Windows
 
 # Personal notes
 personalNotes/
+
+.obsidian/workspace.json
