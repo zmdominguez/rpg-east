@@ -24,6 +24,12 @@ The chronicles continue, but many questions linger in the shadows. As Thornhaven
 - What caused them to abandon their settlements?
 - What price must be paid by "those unclean"?
 
+## The Weaver
+- Who or what is "the Weaver" that [[Akor]] spoke of?
+- Why is [[Blood root|Bloodroot]] being farmed with red webbing?
+- What transformation awaits [[Dr Clair Bucklebub]] and her team who accepted Akor's offer?
+- What does it mean to become a "vessel" for the Thelasian city?
+
 ## Eman
 - What will become of [[Eman]], now that the secret is out?
 - Did Eman truly betray the Owl Cult, or is there a deeper game being played?
@@ -46,4 +52,4 @@ The story is far from over.
 
 ---
 
-[[05 The Truth About Eman|Previous Chapter]] | [[00 Index|Back to Index]]
+[[06 The Thelasian Webs|Previous Chapter]] | [[00 Index|Back to Index]]

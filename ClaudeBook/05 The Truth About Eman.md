@@ -27,4 +27,4 @@ This became known as **The Saving War**—though whether it saved Thornhaven or 
 
 ---
 
-[[04 The Cross Bones Expedition|Previous Chapter]] | [[00 Index|Back to Index]] | [[06 Epilogue - Mysteries Unresolved|Next Chapter]]
+[[04 The Cross Bones Expedition|Previous Chapter]] | [[00 Index|Back to Index]] | [[06 The Thelasian Webs|Next Chapter]]
