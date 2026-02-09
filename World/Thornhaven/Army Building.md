@@ -1,5 +1,5 @@
 ## Description
-Military headquarters for the village defense force.
+Military headquarters for Thornhaven's defense force.
 
 ## Key NPCs
 - [[Reven]] - Army Commander

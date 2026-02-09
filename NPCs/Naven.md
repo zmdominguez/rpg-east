@@ -2,7 +2,7 @@
 name: Naven
 species:
 occupation: Herbalist
-location: Village
+location: Thornhaven
 tags:
   - npc
 ---
@@ -68,7 +68,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Village/Apothecary.md|Apothecary]]
+- [[World/Thornhaven/Apothecary.md|Apothecary]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

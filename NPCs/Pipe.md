@@ -2,7 +2,7 @@
 name: Pipe
 species: Human
 occupation:
-location: Village
+location: Thornhaven
 tags:
   - npc
 status: disappeared

@@ -2,7 +2,7 @@
 name: Anni
 species: Dragonborn
 occupation: Librarian
-location: Village
+location: Thornhaven
 tags:
   - npc
 ---
@@ -66,7 +66,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Village/Library.md|Library]]
+- [[World/Thornhaven/Library.md|Library]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

@@ -2,7 +2,7 @@
 name: Eman
 species: Aasimar
 occupation: Mayor
-location: Village
+location: Thornhaven
 tags:
   - npc
 ---
@@ -71,7 +71,7 @@ SORT file.name ASC
 %%
 
 - [[World/Timetable.md|Timetable]]
-- [[World/Village/TownHall.md|TownHall]]
+- [[World/Thornhaven/TownHall.md|TownHall]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

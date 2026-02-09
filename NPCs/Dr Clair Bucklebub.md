@@ -2,7 +2,7 @@
 name: Dr Clair Bucklebub
 species: Halfling
 occupation: Archaeologist
-location: Village
+location: Thornhaven
 tags:
   - npc
 ---
@@ -67,7 +67,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Village/Library.md|Library]]
+- [[World/Thornhaven/Library.md|Library]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

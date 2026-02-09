@@ -2,7 +2,7 @@
 name: Nell
 species: Human
 occupation: Priestess
-location: Village
+location: Thornhaven
 tags:
   - npc
 ---
@@ -66,7 +66,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Village/Rat Temple.md|Rat Temple]]
+- [[World/Thornhaven/Rat Temple.md|Rat Temple]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

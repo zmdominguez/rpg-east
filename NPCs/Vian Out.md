@@ -2,7 +2,7 @@
 name: Vian Out
 species: Human
 occupation: Guard
-location: Village
+location: Thornhaven
 tags:
   - npc
 ---

@@ -2,12 +2,12 @@
 
 ---
 
-The chronicles continue, but many questions linger in the shadows. As the village recovers from the Saving War and faces new challenges, these mysteries await resolution:
+The chronicles continue, but many questions linger in the shadows. As Thornhaven recovers from the Saving War and faces new challenges, these mysteries await resolution:
 
 ## The Owls
 - What is the true nature of the Owl curse?
 - Why were people transformed into predators as punishment?
-- What will become of the relationship between the village and the Owls now that war has been waged?
+- What will become of the relationship between Thornhaven and the Owls now that war has been waged?
 
 ## The Undead
 - What does the skeleton knight of the graveyard seek?
@@ -27,7 +27,7 @@ The chronicles continue, but many questions linger in the shadows. As the villag
 ## Eman
 - What will become of [[Eman]], now that the secret is out?
 - Did Eman truly betray the Owl Cult, or is there a deeper game being played?
-- Can the village trust a mayor with such hidden allegiances?
+- Can Thornhaven trust a mayor with such hidden allegiances?
 
 ## The Lost
 - Where did [[Pipe]] disappear to?
@@ -36,7 +36,7 @@ The chronicles continue, but many questions linger in the shadows. As the villag
 
 ---
 
-The village stands at a crossroads. War has come and gone, but peace remains fragile. New threats emerge from old graves, ancient civilizations stir beneath the earth, and the Owls watch from the trees with knowing eyes.
+Thornhaven stands at a crossroads. War has come and gone, but peace remains fragile. New threats emerge from old graves, ancient civilizations stir beneath the earth, and the Owls watch from the trees with knowing eyes.
 
 The story is far from over.
 

@@ -1,5 +1,5 @@
 ## Description
-Repository of knowledge and records for the village.
+Repository of knowledge and records for Thornhaven.
 
 ## Key NPCs
 - [[Anni]] - Librarian

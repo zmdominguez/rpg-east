@@ -2,7 +2,7 @@
 name: Mills Senior
 species: Human
 occupation: Ex-Tavern Owner
-location: Village
+location: Thornhaven
 tags:
   - npc
   - pioneer

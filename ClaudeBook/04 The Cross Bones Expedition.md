@@ -2,7 +2,7 @@
 
 ---
 
-While the main events unfolded in the village, another group of adventurers embarked on a different quest entirely. Three souls—[[Jinx]], [[Nyra]], and [[Reverend Aldric]]—answered a flyer seeking a party of adventurers to meet at the [[Library|library]].
+While the main events unfolded in Thornhaven, another group of adventurers embarked on a different quest entirely. Three souls—[[Jinx]], [[Nyra]], and [[Reverend Aldric]]—answered a flyer seeking a party of adventurers to meet at the [[Library|library]].
 
 There they met [[Dr Clair Bucklebub]], a scholar researching the ancient Thelasian civilization. Her excavation team had uncovered something remarkable near the swamp—and something dangerous. When they disturbed stone slabs at the dig site, monsters made of grass and swamp had attacked, driving them away.
 

@@ -1,6 +1,6 @@
 ---
 date: 2026-01-19
-location: Village
+location: Thornhaven
 dm: Canato
 party:
   - Kaepora (Fiona)
