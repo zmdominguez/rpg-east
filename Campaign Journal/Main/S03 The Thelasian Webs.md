@@ -12,7 +12,7 @@ tags:
 ## 💡Key Learnings
 
 - Something is living in the deeper Thelasian tunnels
-- Bloodroot is growing unnaturally - mixed with red webbing
+- [[Blood root]] is growing unnaturally - mixed with red webbing
 - A Drider named Akor offered a deal to access the Thelasian city
 - [[Dr Clair Bucklebub]] and her team accepted Akor's offer
 - The spiders speak of a "Weaver"

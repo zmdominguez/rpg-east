@@ -8,7 +8,7 @@ tags:
   - party
 ---
 ## 👨‍🎤 Description
-- Raised on the Royal Cord, after her dad went missing, she left too look for him, taking his lute as he main instrument. 
+- Raised on the Royal Court, after her dad went missing, she left to look for him, taking his lute as her main instrument. 
 
 ## 📝 Notes
 - Default musician at [[Cross Bones Pub]]
