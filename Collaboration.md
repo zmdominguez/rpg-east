@@ -41,12 +41,13 @@ If you don't have one already:
 1. Go to [github.com](https://github.com)
 2. Click "Sign up" and follow the steps
 3. Remember your username - you'll need it later
+4. Ask Zarah to add your to the repository
 
 ---
 
 ## 1.4: Configure Git
 
-Open Terminal (Mac) or Git Bash (Windows) and run these commands with your info:
+Open Terminal (Mac) or CMD terminal (Windows) and run these commands with your info:
 
 ```
 git config --global user.name "Your Name"
@@ -63,17 +64,25 @@ git config --global user.email "your.email@example.com"
 
 2. Open Terminal (Mac) or Git Bash (Windows)
 
-3. Navigate to your folder:
+3. Find the path to your folder:
+   - **Mac:** Open the folder in Finder, right-click (or Ctrl+click) on the folder, hold the Option key, and select "Copy as Pathname"
+   - **Windows:** Open the folder in File Explorer, click on the address bar at the top, and copy the full path (e.g., `C:\Users\YourName\Documents\RPG`)
+
+4. Navigate to your folder:
    ```
-   cd Documents/RPG
+   cd [paste the path you copied]
    ```
 
-4. Clone the repository:
+   Example:
+   - **Mac:** `cd /Users/YourName/Documents/RPG`
+   - **Windows:** `cd C:\Users\YourName\Documents\RPG`
+
+5. Clone the repository:
    ```
    git clone https://github.com/zmdominguez/rpg-east.git
    ```
 
-5. Enter the project folder:
+6. Enter the project folder:
    ```
    cd rpg-east
    ```
