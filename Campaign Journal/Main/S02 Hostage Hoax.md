@@ -6,7 +6,7 @@ party:
   - "[[Aeris Whisperwind]]"
   - "[[Kass]]"
   - "[[Mirr]]"
-  - "[[Salune]]"
+  - "[[Selune]]"
 tags:
   - session
 ---
