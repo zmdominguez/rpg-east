@@ -1,6 +1,6 @@
 ---
 player: Ju
-name: Seune
+name: Selune
 class:
   - Druid
 species: Wood Elf
@@ -28,4 +28,4 @@ She is the moon’s daughter—whether the moon wanted her or not.
 - Animals often behave strangely around her—curious, cautious, or protective.
 
 ## 📝 Notes
-![[Selune.png]]
+![[Selune.png|600]]
