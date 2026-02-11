@@ -4,7 +4,7 @@
 
 🎮 **DM**: Canato
 📆 Every Monday, 6pm-ish
-📍9/53 Forsyth St, Kingsford NSW 2032
+📍Kingsford
 
 #### 👯 Party
 
