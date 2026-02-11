@@ -48,8 +48,8 @@ Members of Dr. Clair's research team: Tarvyn, Isolde, Bram, Kesra, Dunley, Mira.
 	- Tarvyn, Isolde, Bram, Kesra, Dunley, and Mira
 	- The party did not accept
 - No combat occurred
+- [question:: Who is "the Weaver"?]
 
 
 ## 📓 Homework
 - [ ] Buy/create your character miniature
-- [ ] Who is "the Weaver"?

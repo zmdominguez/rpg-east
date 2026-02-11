@@ -27,7 +27,7 @@ SORT file.name ASC
 ```
 %%
 
-
+- [[Campaign Journal/Main/S03 The Thelasian Webs.md|S03 The Thelasian Webs]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
