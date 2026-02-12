@@ -7,6 +7,10 @@ species: Human
 tags:
   - party
 ---
+## 🧑‍🎨 Portrait
+
+![[reverend-aldric.png|400]]
+
 ## 👨‍🎤 Description
 Aldric was one of the first settlers who helped found our city. He came with his husband, his adopted daughter, and her two kids to start over. Years later, an owl attack killed his husband and daughter, and his grandkids cut ties with him in the aftermath. Aldric didn’t pursue them—he withdrew to the graveyard and lived there in isolation as its caretaker.
 
@@ -14,4 +18,3 @@ He’s calm, disciplined, and protective: more “soldier-priest” than edgy ne
 
 ## 📝 Notes
 
-![[reverend-aldric.png|400]]

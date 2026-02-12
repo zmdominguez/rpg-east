@@ -7,6 +7,10 @@ species: Human
 tags:
   - party
 ---
+## 🧑‍🎨 Portrait
+
+![[Nyra.png|400]]
+
 ## 👨‍🎤 Description
 
 ## 📝 Notes

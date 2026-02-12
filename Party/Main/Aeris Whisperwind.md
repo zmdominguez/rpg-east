@@ -7,6 +7,10 @@ species: Wood Elf
 tags:
   - party
 ---
+## 🧑‍🎨 Portrait
+
+![[Aeris-Whisperwind.png|400]]
+
 ## 👨‍🎤 Description
 
 Aeris Whisperwind is a soft-spoken half-elf whose presence is more felt than noticed. Slight and graceful, she carries a faint fragility but moves with deliberate poise. Her pale, faintly freckled skin and long silver-lavender hair frame luminous storm-gray eyes that seem to listen as much as they see.
