@@ -6,7 +6,7 @@ The zombie threat had scarcely been addressed when new trouble arrived at the [[
 
 A ransom note had been left—written in a shaky hand, demanding 500 gold pieces be left at the [[Rat Temple|altar]] by day's end. Grewdil claimed to have no enemies who would do such a thing.
 
-The adventurers—[[Mirr]], [[Kass]], [[Aeris Whisperwind]], and [[Salune]]—took up the case. Their investigation revealed a twist: while Yeni Pierce had indeed been taken, the ransom exchange itself was fake. Someone was playing a deeper game.
+The adventurers—[[Mirr]], [[Kass]], [[Aeris Whisperwind]], and [[Selune]]—took up the case. Their investigation revealed a twist: while Yeni Pierce had indeed been taken, the ransom exchange itself was fake. Someone was playing a deeper game.
 
 A captain of adventurers named Laurel Quay seemed connected to Yeni's situation. Was Yeni planning to leave with this adventuring company? Was the kidnapping staged? Or was there something more sinister at work?
 

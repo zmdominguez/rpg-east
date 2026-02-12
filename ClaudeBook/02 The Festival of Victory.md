@@ -11,7 +11,7 @@ It was the eve of a great festival, a celebration commemorating the army's victo
 - **[[Mirr]]**, a Warlock-Fighter of formidable skill
 - **[[Kass]]**, a capable warrior
 - **[[Aeris Whisperwind]]**, a Wood Elf Bard who served as the pub's regular musician
-- **[[Salune]]**, a Druid attuned to the natural world
+- **[[Selune]]**, a Druid attuned to the natural world
 
 But the festive atmosphere was disrupted by dark tidings. Mills confided in the adventurers that zombies had been attacking every night for the past week. The party overheard the priestess [[Nell]] speaking urgently with Mills about "all these attacks." Nell and her priests had been fighting the undead, and they suspected the source was the old graveyard.
 

@@ -17,7 +17,7 @@ SORT file.name ASC
 | Zarah  | [[Party/Main/Aeris Whisperwind.md\|Aeris Whisperwind]] | <ul><li>Bard</li></ul>                    | Wood Elf |
 | Marco  | [[Party/Main/Kass.md\|Kass]]                           | \-                                        | \-       |
 | Fiona  | [[Party/Main/Mirr.md\|Mirr]]                           | <ul><li>Warlock</li><li>Fighter</li></ul> | \-       |
-| Ju     | [[Party/Main/Salune.md\|Salune]]                       | <ul><li>Druid</li></ul>                   | \-       |
+| Ju     | [[Selune\|Selune]]                                     | <ul><li>Druid</li></ul>                   | \-       |
 
 %% DATAVIEW_PUBLISHER: end %%
 
