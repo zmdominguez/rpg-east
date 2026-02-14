@@ -13,6 +13,8 @@ tags:
 
 ## 👨‍🎤 Description
 
+## 🕯️ Backstory
+
 No one knows where Selune’thiel came from—not even the elves who found her. She appeared one night at the edge of the High Forest, wrapped in dark cloth stitched with strange symbols, left at the roots of an ancient white oak. The moon that night was thin and pale, almost sickly, and the woodland spirits whispered uneasily as the infant cried.
 
 The druids of the Circle of the Moon took her in reluctantly. The air around her was _wrong_, cold, as if touched by something that lived beyond the natural cycle. There were rumours—quiet, fearful ones—that she was created for a darker purpose, perhaps shaped by a cult that sought to twist moon magic into corruption.
