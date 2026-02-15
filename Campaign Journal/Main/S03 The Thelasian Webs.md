@@ -5,7 +5,7 @@ dm: Canato
 party:
   - "[[Aeris Whisperwind]]"
   - "[[Mirr]]"
-  - "[[Salune]]"
+  - "[[Selune]]"
 tags:
   - session
 ---
