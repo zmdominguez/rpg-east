@@ -2,7 +2,7 @@
 
 ---
 
-Five years passed. The village had grown and prospered. What was once a desperate settlement of refugees had become a proper town, complete with a [[Library|library]], an [[Apothecary|apothecary]], a [[TownHall|town hall]], and an [[Army Building|army building]]. The Dragonborns and Goliaths had established their own quarter called [[Aussen]], just outside the main walls.
+Five years passed. Thornhaven had grown and prospered. What was once a desperate settlement of refugees had become a proper town, complete with a [[Library|library]], an [[Apothecary|apothecary]], a [[TownHall|town hall]], and an [[Army Building|army building]]. The Dragonborns and Goliaths had established their own quarter called [[Aussen]], just outside the main walls.
 
 The [[Cross Bones Pub]], founded by [[Mills Senior]] and now run by his son [[Mills]], had become a beloved institution. Mills himself was an eccentric fellow with a peculiar hobby—collecting bones, though he could never quite tell human remains from animal.
 

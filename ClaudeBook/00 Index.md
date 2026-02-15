@@ -20,7 +20,10 @@
 5. [[05 The Truth About Eman|Chapter Three: The Truth About Eman]]
    *Revelations that spark a war*
 
-6. [[06 Epilogue - Mysteries Unresolved|Epilogue: Mysteries Unresolved]]
+6. [[06 The Thelasian Webs|Chapter Four: The Thelasian Webs]]
+   *The spiders offer a dark bargain*
+
+7. [[99 Epilogue - Mysteries Unresolved|Epilogue: Mysteries Unresolved]]
    *Questions that linger in the shadows*
 
 ---

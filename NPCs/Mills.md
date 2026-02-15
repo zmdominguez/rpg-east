@@ -2,7 +2,7 @@
 name: Mills
 species: Human
 occupation: Tavern owner
-location: Village
+location: Thornhaven
 tags:
   - npc
 ---
@@ -69,7 +69,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Village/Cross Bones Pub.md|Cross Bones Pub]]
+- [[World/Thornhaven/Cross Bones Pub.md|Cross Bones Pub]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

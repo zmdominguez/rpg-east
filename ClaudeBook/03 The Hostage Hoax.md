@@ -4,7 +4,7 @@
 
 The zombie threat had scarcely been addressed when new trouble arrived at the [[Cross Bones Pub]]. [[Grewdil Pierce]] burst through the doors, his face pale with terror. His daughter, [[Yeni Pierce]], had been kidnapped.
 
-A ransom note had been left—written in a shaky hand, demanding 500 gold pieces be left at the [[Rat Temple|altar]] by day's end. Grewdil claimed to have no enemies who would do such a thing.
+A ransom note had been left—written in a shaky hand, demanding 500 gold pieces be left at the [[Scarsith Temple|altar]] by day's end. Grewdil claimed to have no enemies who would do such a thing.
 
 The adventurers—[[Mirr]], [[Kass]], [[Aeris Whisperwind]], and [[Selune]]—took up the case. Their investigation revealed a twist: while Yeni Pierce had indeed been taken, the ransom exchange itself was fake. Someone was playing a deeper game.
 

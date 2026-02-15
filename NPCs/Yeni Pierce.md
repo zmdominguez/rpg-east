@@ -2,7 +2,7 @@
 name: Yeni Pierce
 species: Dragonborn
 occupation: Adventurer
-location: Village
+location: Thornhaven
 tags:
   - npc
 ---
@@ -67,7 +67,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Village/Aussen.md|Aussen]]
+- [[World/Thornhaven/Aussen.md|Aussen]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

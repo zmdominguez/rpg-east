@@ -2,7 +2,7 @@
 name: Nell
 species: Human
 occupation: Priestess
-location: Village
+location: Thornhaven
 tags:
   - npc
 ---
@@ -10,7 +10,7 @@ tags:
 
 ## 📝 Notes
 - Fights zombies with her priests
-- Works at the [[Rat Temple]]
+- Works at the [[Scarsith Temple]]
 
 ## 🗣️ Mentioned in
 
@@ -66,7 +66,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Village/Rat Temple.md|Rat Temple]]
+- [[World/Thornhaven/Scarsith Temple.md|Scarsith Temple]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

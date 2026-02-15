@@ -20,8 +20,8 @@ SORT file.name ASC
 | ------ | ------------------------------------------------------ | ----------------------------------------- | -------- |
 | Zarah  | [[Party/Main/Aeris Whisperwind.md\|Aeris Whisperwind]] | <ul><li>Bard</li></ul>                    | Wood Elf |
 | Marco  | [[Party/Main/Kass.md\|Kass]]                           | \-                                        | \-       |
-| Fiona  | [[Party/Main/Mirr.md\|Mirr]]                           | <ul><li>Warlock</li><li>Fighter</li></ul> | \-       |
-| Ju     | [[Selune\|Selune]]                                     | <ul><li>Druid</li></ul>                   | \-       |
+| Fiona  | [[Party/Main/Mirr.md\|Mirr]]                           | <ul><li>Warlock</li><li>Fighter</li></ul> | Goliath  |
+| Ju     | [[Party/Main/Salune.md\|Salune]]                       | <ul><li>Druid</li></ul>                   | Wood Elf |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -50,6 +50,7 @@ SORT file.name ASC
 - [[Campaign Journal/Main/S00 The Quiet Year.md|S00 The Quiet Year]]
 - [[Campaign Journal/Main/S01 Sir Alawin Van Trafford.md|S01 Sir Alawin Van Trafford]]
 - [[Campaign Journal/Main/S02 Hostage Hoax.md|S02 Hostage Hoax]]
+- [[Campaign Journal/Main/S03 The Thelasian Webs.md|S03 The Thelasian Webs]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

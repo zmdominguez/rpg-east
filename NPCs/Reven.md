@@ -2,7 +2,7 @@
 name: Reven
 species:
 occupation: Army Commander
-location: Village
+location: Thornhaven
 tags:
   - npc
 ---
@@ -65,7 +65,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Village/Army Building.md|Army Building]]
+- [[World/Thornhaven/Army Building.md|Army Building]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

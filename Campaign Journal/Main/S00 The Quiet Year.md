@@ -1,6 +1,6 @@
 ---
 date: 2025-12-07
-location: Village
+location: Thornhaven
 dm: Canato
 party:
   - Villagers
@@ -60,7 +60,7 @@ tags:
 	- Well
 	- Pub
 - Outskirts:
-	- Altar of the rat god
+	- [[Scarsith Temple]]
 	- Cave
 
 

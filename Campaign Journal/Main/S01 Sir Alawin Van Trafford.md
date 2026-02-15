@@ -1,6 +1,6 @@
 ---
 date: 2025-12-08
-location: Village
+location: Thornhaven
 dm: Canato
 party:
   - "[[Aeris Whisperwind]]"
