@@ -41,7 +41,7 @@ If you don't have one already:
 1. Go to [github.com](https://github.com)
 2. Click "Sign up" and follow the steps
 3. Remember your username - you'll need it later
-4. Ask Zarah to add your to the repository
+4. Ask Zarah to add your to the repository, give her your GitHub username.
 
 ---
 
