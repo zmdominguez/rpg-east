@@ -6,6 +6,10 @@ species:
 tags:
   - party
 ---
+## 🧑‍🎨 Portrait
+
+## 🕯️ Backstory
+
 ## 👨‍🎤 Description
 
 ## 📝 Notes

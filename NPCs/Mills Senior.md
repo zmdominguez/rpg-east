@@ -18,37 +18,58 @@ tags:
 
 #### Sessions
 
-```dataview
+%% DATAVIEW_PUBLISHER: start
+```
 LIST
 FROM "Campaign Journal"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
+%%
+
+
+
+%% DATAVIEW_PUBLISHER: end %%
 
 ##### NPCs
-
-```dataview
+%% DATAVIEW_PUBLISHER: start
+```
 LIST
 FROM "NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
+%%
+
+- [[NPCs/Mills.md|Mills]]
+
+%% DATAVIEW_PUBLISHER: end %%
 
 #### Party
-
-```dataview
+%% DATAVIEW_PUBLISHER: start
+```
 LIST
 FROM "Party"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
-#### World
+%%
 
-```dataview
+
+
+%% DATAVIEW_PUBLISHER: end %%
+#### World
+%% DATAVIEW_PUBLISHER: start
+```
 LIST
 FROM "World"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
+%%
+
+- [[World/Thornhaven/Cross Bones Pub.md|Cross Bones Pub]]
+
+%% DATAVIEW_PUBLISHER: end %%
 
 ---

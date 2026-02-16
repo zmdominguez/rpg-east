@@ -1,2 +1,2 @@
-> [!info]- Info  
+> [!info] Info  
 > TEXT

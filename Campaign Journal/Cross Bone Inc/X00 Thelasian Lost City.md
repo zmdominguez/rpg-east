@@ -12,7 +12,7 @@ tags:
 ---
 ## 💡Key Learnings 
 
-- [lore:: There is stone tablet in the swamp that opens to an ancient Thelasian settlement]
+- [lore:: There is a stone tablet in the swamp that opens to an ancient Thelasian settlement]
 
 
 ## 🤝 Who Did We Meet? 

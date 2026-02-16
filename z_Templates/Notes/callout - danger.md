@@ -1,3 +1,3 @@
-> [!danger]- Danger  
+> [!danger] Danger  
 > TEXT
 

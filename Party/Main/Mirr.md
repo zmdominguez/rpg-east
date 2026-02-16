@@ -8,6 +8,10 @@ species: Goliath
 tags:
   - party
 ---
+## 🧑‍🎨 Portrait
+
+## 🕯️ Backstory
+
 ## 👨‍🎤 Description
 
 ## 📝 Notes

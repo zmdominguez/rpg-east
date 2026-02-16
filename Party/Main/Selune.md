@@ -7,7 +7,13 @@ species: Wood Elf
 tags:
   - party
 ---
+## 🧑‍🎨 Portrait
+
+![[Selune.png|600]]
+
 ## 👨‍🎤 Description
+
+## 🕯️ Backstory
 
 No one knows where Selune’thiel came from—not even the elves who found her. She appeared one night at the edge of the High Forest, wrapped in dark cloth stitched with strange symbols, left at the roots of an ancient white oak. The moon that night was thin and pale, almost sickly, and the woodland spirits whispered uneasily as the infant cried.
 
@@ -28,4 +34,3 @@ She is the moon’s daughter—whether the moon wanted her or not.
 - Animals often behave strangely around her—curious, cautious, or protective.
 
 ## 📝 Notes
-![[Selune.png|600]]

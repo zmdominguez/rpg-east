@@ -6,6 +6,10 @@ species: Human
 tags:
   - party
 ---
+## 🧑‍🎨 Portrait
+
+## 🕯️ Backstory
+
 ## 👨‍🎤 Description
 
 ## 📝 Notes

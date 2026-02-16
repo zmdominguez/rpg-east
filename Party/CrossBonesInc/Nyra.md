@@ -7,7 +7,13 @@ species: Human
 tags:
   - party
 ---
+## 🧑‍🎨 Portrait
+
+![[Nyra.png|400]]
+
 ## 👨‍🎤 Description
+
+## 🕯️ Backstory
 
 ## 📝 Notes
 - Magical item -- cloak of Manta

@@ -1,2 +1,2 @@
-> [!question]- Question  
+> [!question] Question  
 > TEXT

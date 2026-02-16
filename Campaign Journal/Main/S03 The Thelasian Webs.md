@@ -31,7 +31,7 @@ Members of Dr. Clair's research team: Tarvyn, Isolde, Bram, Kesra, Dunley, Mira.
 	- The Cross Bones Inc party was unavailable
 	- Strange red webs found in the deeper tunnels
 	- Bloodroot growing in unnatural patterns
-- [[Naven]] joined to study the bloodroot anomaly
+- [[Naven]] joined to study the [[Blood root]] anomaly
 	- "Bloodroot doesn't grow like this. Something is farming it."
 - Met a Giant Spider named **Bri**
 	- Spoke with the party instead of attacking
@@ -40,7 +40,7 @@ Members of Dr. Clair's research team: Tarvyn, Isolde, Bram, Kesra, Dunley, Mira.
 	- Faint sweet smell in the air
 	- Temperature dropped the deeper they went
 	- Found animal carcasses wrapped in silk
-- **Bri** introduced them to **Akor**, a Drider
+- **Bri** introduced them to **[[Akor]]**, a Drider
 	- Akor spoke of "the Weaver"
 	- Offered to make them "vessels" to accept the Thelasian city
 	- Unclear what this means

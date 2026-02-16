@@ -1,2 +1,2 @@
-> [!tip]- Tip  
+> [!tip] Tip  
 > TEXT

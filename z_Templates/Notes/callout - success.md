@@ -1,2 +1,2 @@
-> [!success]- Success  
+> [!success] Success  
 > TEXT

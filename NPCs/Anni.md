@@ -17,7 +17,7 @@ tags:
 #### Sessions
 
 %% DATAVIEW_PUBLISHER: start
-```dataview
+```
 LIST
 FROM "Campaign Journal"
 WHERE contains(file.outlinks, [[]])
@@ -31,7 +31,7 @@ SORT file.name ASC
 
 ##### NPCs
 %% DATAVIEW_PUBLISHER: start
-```dataview
+```
 LIST
 FROM "NPCs"
 WHERE contains(file.outlinks, [[]])
@@ -45,7 +45,7 @@ SORT file.name ASC
 
 #### Party
 %% DATAVIEW_PUBLISHER: start
-```dataview
+```
 LIST
 FROM "Party"
 WHERE contains(file.outlinks, [[]])
