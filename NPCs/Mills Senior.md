@@ -68,7 +68,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven/Cross Bones Pub.md|Cross Bones Pub]]
+- [[World/Thornhaven City/Cross Bones Pub.md|Cross Bones Pub]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

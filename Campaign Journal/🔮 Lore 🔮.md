@@ -14,6 +14,6 @@ WHERE lore
     - [[Eman]] is a Druid from the Owl cult who should help the cult against the #pioneer but decided to rule the city
     - The Saving War was caused after this session, the group that tried to find [[Eman]] got themselves in trouble making a big scandal in the city, putting the normal folks of the city against the owls
 
-- [[World/Thornhaven/Halfheight Forest.md|Halfheight Forest]]: The owls were once people, transformed as punishment
+- [[World/Thornhaven Region/Halfheight Forest.md|Halfheight Forest]]: The owls were once people, transformed as punishment
 
 %% DATAVIEW_PUBLISHER: end %%

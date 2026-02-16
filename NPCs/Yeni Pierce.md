@@ -67,7 +67,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven/Aussen.md|Aussen]]
+- [[World/Thornhaven Region/Aussen.md|Aussen]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
