@@ -45,7 +45,7 @@ SORT file.name ASC
 ```
 %%
 
-
+- [[NPCs/Dr Clair Bucklebub.md|Dr Clair Bucklebub]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

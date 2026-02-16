@@ -1,7 +1,7 @@
-**New here? Check the [[Collaboration|Collaboration Guide]] to learn how to contribute!**
+> [!tip] Tip  
+> New here? Check the [[Collaboration|Collaboration Guide]] to learn how to contribute!
 
 ---
-
 🎮 **DM**: Canato
 📆 Every Monday, 6pm-ish
 📍Kingsford

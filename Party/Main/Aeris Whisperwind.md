@@ -38,5 +38,4 @@ Grief-stricken and betrayed by her mother’s silence, Aeris fled Elarion. With 
 - Raised on the Royal Court, after her dad went missing, she left to look for him, taking his lute as her main instrument. 
 - Sees an unknown character from her Childhood in the city
 
-![[Aeris-Whisperwind.png|400]]
 

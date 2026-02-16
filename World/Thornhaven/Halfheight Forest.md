@@ -8,4 +8,4 @@ Forest near the lake where Halflings live in tree houses.
 ## Notes
 - Home of the Owl Cult
 - Owls dwell near the body of water
-- The owls were once people, transformed as punishment
+- [lore:: The owls were once people, transformed as punishment]

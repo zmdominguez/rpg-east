@@ -29,7 +29,6 @@ tags:
 	- [lore:: The owls were once people turned as a punishment]
 	- Live near the body of water
 - [lore:: Good omen: Green-tinged sunrise]
-- [question:: Name of town?]
 - [question:: Adventuring party name?]
 - [[Pipe]] -> there's a place nearby with good wood
 - Children are important to the village
@@ -54,9 +53,9 @@ tags:
 - People living in trees near the lake
 	- Know more about [[Blood root]]
 
-📍 Village landmarks:
+📍 Thornhaven landmarks:
 - Centre:
-	- Common hall
+	- [[TownHall]]
 	- Well
 	- Pub
 - Outskirts:

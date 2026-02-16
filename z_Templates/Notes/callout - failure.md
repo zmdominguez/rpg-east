@@ -1,3 +1,3 @@
-> [!failure]- Failure
+> [!failure] Failure
 > TEXT
 

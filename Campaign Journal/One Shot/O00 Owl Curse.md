@@ -19,10 +19,10 @@ tags:
 
 ## 🤝 Who Did We Meet?
 
-**[[Gravy]]** Eldest Owl
-**[[Vian Out]]** East gate guard, father of Kele, married to Hun.
-**[[Reven]]** Army Commander
-**[[Anni]]** Librarian
+**[[Gravy]]** - Eldest Owl
+**[[Vian Out]]** - East gate guard, father of Kele, married to Hun.
+**[[Reven]]** - Army Commander
+**[[Anni]]** - Librarian
 
 
 ## 📝 Session Notes
@@ -87,8 +87,8 @@ tags:
 	- City's army starts attacking the party
 - A huge golem appears and kills everyone
 
-📍 [Village:: landmarks]:
+📍 Thornhaven landmarks:
 - South-west side of town:
-	- Owl cult
+	- [[Halfheight Forest]] - home of the Owl cult
 
 ## 📓 Homework
