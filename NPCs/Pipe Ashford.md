@@ -37,6 +37,7 @@ SORT file.name ASC
 
 - [[Campaign Journal/One Shot/O00 Owl Curse.md|O00 Owl Curse]]
 - [[Campaign Journal/Main/S00 The Quiet Year.md|S00 The Quiet Year]]
+- [[Campaign Journal/Main/S04 Finding Pipe.md|S04 Finding Pipe]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -50,7 +51,8 @@ SORT file.name ASC
 ```
 %%
 
-
+- [[NPCs/Roderick Ashford.md|Roderick Ashford]]
+- [[NPCs/Venn.md|Venn]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

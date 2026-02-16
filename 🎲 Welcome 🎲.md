@@ -51,6 +51,7 @@ SORT file.name ASC
 - [[Campaign Journal/Main/S01 Sir Alawin Van Trafford.md|S01 Sir Alawin Van Trafford]]
 - [[Campaign Journal/Main/S02 Hostage Hoax.md|S02 Hostage Hoax]]
 - [[Campaign Journal/Main/S03 The Thelasian Webs.md|S03 The Thelasian Webs]]
+- [[Campaign Journal/Main/S04 Finding Pipe.md|S04 Finding Pipe]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

@@ -33,7 +33,7 @@ SORT file.name ASC
 ```
 %%
 
-
+- [[Campaign Journal/Main/S04 Finding Pipe.md|S04 Finding Pipe]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -47,7 +47,7 @@ SORT file.name ASC
 ```
 %%
 
-
+- [[NPCs/Pipe Ashford.md|Pipe Ashford]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -74,7 +74,8 @@ SORT file.name ASC
 ```
 %%
 
-
+- [[World/Thornhaven Region/Tinkboom Grounds.md|Tinkboom Grounds]]
+- [[World/Thornhaven Region/Veiled Peaks.md|Veiled Peaks]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
