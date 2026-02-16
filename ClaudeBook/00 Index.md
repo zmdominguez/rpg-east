@@ -23,7 +23,10 @@
 6. [[06 The Thelasian Webs|Chapter Four: The Thelasian Webs]]
    *The spiders offer a dark bargain*
 
-7. [[99 Epilogue - Mysteries Unresolved|Epilogue: Mysteries Unresolved]]
+7. [[07 The Search for Pipe|Chapter Five: The Search for Pipe]]
+   *A missing woman, a desperate father, and wolves in the mist*
+
+8. [[99 Epilogue - Mysteries Unresolved|Epilogue: Mysteries Unresolved]]
    *Questions that linger in the shadows*
 
 ---
