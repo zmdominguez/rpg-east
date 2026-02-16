@@ -1,18 +1,26 @@
 ---
-name: Pipe
+name: Pipe Ashford
 species: Human
-occupation:
-location: Thornhaven
+occupation: Settler
+location: Unknown (last seen Veiled Peaks)
 tags:
   - npc
-status: disappeared
+status: missing
 ---
 ## 👨‍🎤 Description
+- Human woman, late 20s
+- Red hair
+- One of the original settlers of Thornhaven
 
 ## 📝 Notes
+- Daughter of [[Roderick Ashford]] and Maren
+- One of the first settlers - arrived during the founding of Thornhaven
 - Knew of a place nearby with good wood
-- Mother died during the Quiet Year
-- Disappeared mysteriously
+- Mother Maren died during the Quiet Year from a wasting illness
+- After her mother's death, became obsessed with understanding [[Blood root]]
+- Disappeared mysteriously three years ago
+- Recently spotted by [[Venn]] near Cloudbreak Pass in the [[World/Thornhaven Region/Veiled Peaks]]
+- [[Eman]] wants to find her
 
 ## 🗣️ Mentioned in
 

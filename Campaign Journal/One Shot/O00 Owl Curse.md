@@ -63,7 +63,7 @@ tags:
 		- Has rooms for rent
 			- 1 gold for 3 days in the house across the street
 			- 1 gold for two weeks in the inn
-		- [[Pipe]] has gone missing but our mayor-to-be found her
+		- [[Pipe Ashford]] has gone missing but our mayor-to-be found her
 			- Mayor-to-be = [[Eman]]
 		- Thinks the soldiers are training for nothing
 			- The church is paying for this training

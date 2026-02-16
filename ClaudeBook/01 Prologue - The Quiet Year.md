@@ -12,7 +12,7 @@ They learned to read the signs of this new land. A green-tinged sunrise meant go
 
 A machine was found and repaired, one that attracted wildlife to the area. Its manual was recovered, promising future benefits for the community.
 
-But the Quiet Year was not without tragedy. A settler named [[Pipe]] spoke of good wood to be found nearby, but when his mother died, something changed in him. Eventually, Pipe vanished without a trace.
+But the Quiet Year was not without tragedy. A settler named [[Pipe Ashford]] spoke of good wood to be found nearby, but when his mother died, something changed in him. Eventually, Pipe vanished without a trace.
 
 Most mysteriously, a child named [[Eman]] arrived in town. The circumstances were troubling—the child went missing shortly after arrival, and a note bearing the drawing of Blood Root was found. An old man who knew the herb's secrets fell down the well. A group of travelers appeared, and it became clear they had been chasing Eman. A witch began cultivating Blood Root, sensing its importance.
 

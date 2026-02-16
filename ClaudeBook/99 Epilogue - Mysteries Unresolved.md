@@ -36,7 +36,7 @@ The chronicles continue, but many questions linger in the shadows. As Thornhaven
 - Can Thornhaven trust a mayor with such hidden allegiances?
 
 ## The Lost
-- Where did [[Pipe]] disappear to?
+- Where did [[Pipe Ashford]] disappear to?
 - What connection does he have to the [[Blood root|Blood Root]]?
 - What happened to the old man who fell down the well?
 

@@ -30,7 +30,7 @@ tags:
 	- Live near the body of water
 - [lore:: Good omen: Green-tinged sunrise]
 - [question:: Adventuring party name?]
-- [[Pipe]] -> there's a place nearby with good wood
+- [[Pipe Ashford]] -> there's a place nearby with good wood
 - Children are important to the village
 	- Rebuild the community
 	- This generation: gods?
@@ -47,9 +47,9 @@ tags:
 	- Are they connected to [[Eman]]?
 - Discovered a cave
 	- Bats with guano for crops
-- [[Pipe]]'s mother dies
+- [[Pipe Ashford]]'s mother dies
 - Village witch starts growing [[Blood root]]
-- [[Pipe]] goes missing
+- [[Pipe Ashford]] goes missing
 - People living in trees near the lake
 	- Know more about [[Blood root]]
 
