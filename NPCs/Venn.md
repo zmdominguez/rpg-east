@@ -1,22 +1,24 @@
 ---
-name: Eman
-species: Aasimar
-occupation: Mayor
-location: Thornhaven
+name: Venn
+species: Dwarf
+occupation: Waterkeeper / Builder
+location: Veiled Peaks
 tags:
   - npc
 ---
 ## 👨‍🎤 Description
-- Dark skin with striking green eyes
-- Curly black hair, usually worn loose
-- Strong, athletic physique
-- Carries herself with confidence and authority
+- Gruff dwarf in his 250s
+- Weathered from mountain work
+- Not friendly to strangers
+- Very private about his personal life
 
 ## 📝 Notes
-- Unknown to public knowledge, Eman is a Druid from the Owl Cult
-- Was sent to help the cult against the pioneers but decided to rule the city instead
-- Arrived as a child during the Quiet Year
-- Went missing shortly after arrival with a note bearing a [[Blood root]] drawing
+- Maintains the irrigation channels from the [[World/Thornhaven Region/Veiled Peaks|Veiled Peaks]] that feed Thornhaven's farmlands
+- Main builder of Thornhaven - built the rock fence, most houses, water channels, and [[Scarsith Temple]]
+- Has a cabin in the mountains where he stays most of the time
+- Hates being in the city
+- Knew [[Pipe Ashford]]'s mother Maren - they worked together on the channels
+- Recently spotted [[Pipe Ashford]] near Cloudbreak Pass
 
 ## 🗣️ Mentioned in
 
@@ -31,9 +33,6 @@ SORT file.name ASC
 ```
 %%
 
-- [[Campaign Journal/🔮 Lore 🔮.md|🔮 Lore 🔮]]
-- [[Campaign Journal/One Shot/O00 Owl Curse.md|O00 Owl Curse]]
-- [[Campaign Journal/Main/S00 The Quiet Year.md|S00 The Quiet Year]]
 - [[Campaign Journal/Main/S04 Finding Pipe.md|S04 Finding Pipe]]
 
 %% DATAVIEW_PUBLISHER: end %%
@@ -75,8 +74,8 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Timetable.md|Timetable]]
-- [[World/Thornhaven City/TownHall.md|TownHall]]
+- [[World/Thornhaven Region/Tinkboom Grounds.md|Tinkboom Grounds]]
+- [[World/Thornhaven Region/Veiled Peaks.md|Veiled Peaks]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

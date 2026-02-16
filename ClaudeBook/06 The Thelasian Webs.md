@@ -38,4 +38,4 @@ The spiders were watching. And now they had seven new vessels.
 
 ---
 
-[[05 The Truth About Eman|Previous Chapter]] | [[00 Index|Back to Index]] | [[99 Epilogue - Mysteries Unresolved|Next Chapter]]
+[[05 The Truth About Eman|Previous Chapter]] | [[00 Index|Back to Index]] | [[07 The Search for Pipe|Next Chapter]]

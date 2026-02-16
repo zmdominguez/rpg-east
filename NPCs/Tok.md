@@ -1,18 +1,22 @@
 ---
-name: Naven
-species:
-occupation: Herbalist
-location: Thornhaven
+name: Tok
+species: Goblin
+occupation: Inventor / Farm Engineer
+location: Tinkboom Grounds
 tags:
   - npc
 ---
 ## 👨‍🎤 Description
-- Herbalist who specializes in [[Blood root]]
+- Small goblin with oil-stained fingers and goggles perpetually on his forehead
+- Always carrying tools or mechanical parts
+- Enthusiastic and talks fast when explaining inventions
+- Proud of what the goblins have built
 
 ## 📝 Notes
-- Uses [[Blood root]] as medicine
-- Has an underground supply/farm
-- Works at the [[Apothecary]]
+- Works at [[Tinkboom Grounds]] creating machines to speed up farm work
+- Part a community of goblin inventors who are happy in Thornhaven
+- The goblins value the freedom to create without restrictions
+- Responsible for many of the mechanical innovations that help feed the city
 
 ## 🗣️ Mentioned in
 
@@ -27,7 +31,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[Campaign Journal/Main/S03 The Thelasian Webs.md|S03 The Thelasian Webs]]
+
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -68,7 +72,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven Region/Apothecary.md|Apothecary]]
+- [[World/Thornhaven Region/Tinkboom Grounds.md|Tinkboom Grounds]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

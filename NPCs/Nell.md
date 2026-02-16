@@ -66,7 +66,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven/Scarsith Temple.md|Scarsith Temple]]
+- [[World/Thornhaven Region/Scarsith Temple.md|Scarsith Temple]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

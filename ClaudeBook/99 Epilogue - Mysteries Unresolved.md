@@ -36,8 +36,9 @@ The chronicles continue, but many questions linger in the shadows. As Thornhaven
 - Can Thornhaven trust a mayor with such hidden allegiances?
 
 ## The Lost
-- Where did [[Pipe]] disappear to?
-- What connection does he have to the [[Blood root|Blood Root]]?
+- [[Pipe Ashford]] has been spotted alive in the [[World/Thornhaven Region/Veiled Peaks|Veiled Peaks]]—but why did she disappear, and what has she found?
+- What connection does she have to the [[Blood root|Blood Root]]?
+- Why does [[Eman]] truly want to find her?
 - What happened to the old man who fell down the well?
 
 ---
@@ -52,4 +53,4 @@ The story is far from over.
 
 ---
 
-[[06 The Thelasian Webs|Previous Chapter]] | [[00 Index|Back to Index]]
+[[07 The Search for Pipe|Previous Chapter]] | [[00 Index|Back to Index]]

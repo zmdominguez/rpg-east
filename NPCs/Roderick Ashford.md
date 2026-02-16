@@ -1,18 +1,22 @@
 ---
-name: Naven
-species:
-occupation: Herbalist
+name: Roderick Ashford
+species: Human
+occupation: Retired Farmer
 location: Thornhaven
 tags:
   - npc
 ---
 ## 👨‍🎤 Description
-- Herbalist who specializes in [[Blood root]]
+- Elderly man in his 60s, weathered and fragile
+- Rarely leaves his house
+- Shaky hands, weak constitution
+- Eyes still hold hope when speaking about his daughter
 
 ## 📝 Notes
-- Uses [[Blood root]] as medicine
-- Has an underground supply/farm
-- Works at the [[Apothecary]]
+- Father of [[Pipe Ashford]]
+- Wife Maren died during the Quiet Year
+- Has been searching for Pipe for three years while everyone else gave up
+- Sent a letter to the party asking for help
 
 ## 🗣️ Mentioned in
 
@@ -27,7 +31,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[Campaign Journal/Main/S03 The Thelasian Webs.md|S03 The Thelasian Webs]]
+- [[Campaign Journal/Main/S04 Finding Pipe.md|S04 Finding Pipe]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -41,7 +45,7 @@ SORT file.name ASC
 ```
 %%
 
-
+- [[NPCs/Pipe Ashford.md|Pipe Ashford]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -68,7 +72,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven Region/Apothecary.md|Apothecary]]
+
 
 %% DATAVIEW_PUBLISHER: end %%
 

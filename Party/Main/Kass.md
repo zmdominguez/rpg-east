@@ -13,3 +13,4 @@ tags:
 ## 👨‍🎤 Description
 
 ## 📝 Notes
+- His falcon can delivery mail into main buildings, temple, Townhall, Cemitery
