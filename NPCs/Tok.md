@@ -31,7 +31,7 @@ SORT file.name ASC
 ```
 %%
 
-
+- [[Campaign Journal/Main/S04 Finding Pipe.md|S04 Finding Pipe]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

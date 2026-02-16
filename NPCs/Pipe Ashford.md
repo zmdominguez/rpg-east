@@ -51,6 +51,7 @@ SORT file.name ASC
 ```
 %%
 
+- [[NPCs/Eman.md|Eman]]
 - [[NPCs/Roderick Ashford.md|Roderick Ashford]]
 - [[NPCs/Venn.md|Venn]]
 

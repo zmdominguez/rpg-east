@@ -29,17 +29,26 @@ Members of Dr. Clair's research team: Tarvyn, Isolde, Bram, Kesra, Dunley, Mira.
 ## 📝 Session Notes
 - [[Dr Clair Bucklebub]] reached out through [[Cross Bones Pub]]
 	- The Cross Bones Inc party was unavailable
+	- Just came back from a speaking tour about Thelasians
 	- Strange red webs found in the deeper tunnels
 	- Bloodroot growing in unnatural patterns
+	- Reward for helping: 50 gold and anything else as long as it's not Thelasian
 - [[Naven]] joined to study the [[Blood root]] anomaly
-	- "Bloodroot doesn't grow like this. Something is farming it."
+	- "Blood root doesn't grow like this. Something is farming it."
+	- [[Blood root]] usually does not thrive close to the swamp
+- [[Dr Clair Bucklebub]]'s research party has cleared a trail to their camp
 - Met a Giant Spider named **Bri**
 	- Spoke with the party instead of attacking
-	- Led them deeper into the tunnels
+	- Led them deeper into the tunnels: "This is owned by The Weaver now"
+	- Referred to The Weaver as "The Queen"
+	- They arrived here about four months ago
 - The party explored the tunnels
 	- Faint sweet smell in the air
 	- Temperature dropped the deeper they went
 	- Found animal carcasses wrapped in silk
+		- Fire can burn holes in the webs but will not spread further
+		- Warm and stickier than usual webs
+	- Would they be willing to share the tunnels with the research team?
 - **Bri** introduced them to **[[Akor]]**, a Drider
 	- Akor spoke of "the Weaver"
 	- Offered to make them "vessels" to accept the Thelasian city

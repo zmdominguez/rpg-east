@@ -9,6 +9,8 @@ tags:
 ## 👨‍🎤 Description
 - Gruff dwarf in his 250s
 - Weathered from mountain work
+- Has a scar on his left ear
+- Has black hair
 - Not friendly to strangers
 - Very private about his personal life
 

@@ -1,6 +1,8 @@
 ---
 date: 2025-02-16
-location: Thornhaven, Veiled Peaks
+location:
+  - Thornhaven
+  - "[[Veiled Peaks]]"
 dm: Canato
 party:
   - "[[Aeris Whisperwind]]"
@@ -30,6 +32,8 @@ tags:
 - [[Aeris Whisperwind]] performed at [[Cross Bones Pub]], singing about the Thelasian adventure
 - Late at night, two things arrived:
 	- A letter slipped under the door with shaky handwriting and a simple map
+		- Writer is very sick
+		- Talking about a lost daugher
 	- A guard knocked with an official summons to [[TownHall]] for 10am
 	- [[Mirr]] answered the door naked
 - The party decided to find the letter's author that night
@@ -39,17 +43,45 @@ tags:
 	- His daughter [[Pipe Ashford]] went missing three years ago
 	- Everyone stopped looking, but he never gave up hope
 	- He's weak and never leaves the house
-	- Recently heard she was spotted on the mountains
+	- Recently heard she was spotted on the mountains by [[Venn]]
+	- His wife, Maren, died from an illness soon after they moved to Thornhaven
+	- [[Pipe Ashford]] became obsessed with [[Blood root]]
+	- Reward: 20 gold and a candelabra
+- The party inspected Pipe's room
+	- Pretty normal-looking, modest room
+	- Found several things that may be of significance:
+		- Pipe's journal
+			- "Source must be in the peaks"
+			- "The witch knows more than what she's telling us"
+		- A letter with a different (not Pipe's) handwriting
+			- "Old woman who taught me about blood root"
+		- A piece of paper with a piece of blood root stuck on it
+			- A rudimentary map is also drawn on it, showing the farm and the mountain peaks
+- The party tried to find more information from [[Mills]]
+	- Pipe was well-known by everyone and she helped build the town up
+	- There are rumours about her disappearance
+		- Maybe the owls took her!
+		- She is broken-hearted and decided to leave
 - Next morning, the party tried to find [[Venn]] at the west gate - he wasn't there
 - Met [[Eman]] at [[TownHall]] at 10am
 	- Eman gave them the quest to find Pipe
-	- Introduced them to [[Venn]]
+	- Introduced them to [[Venn]], the waterkeeper
 	- Made clear other mercenaries are also looking - she doesn't put "all her eggs in one basket"
+	- [[Pipe Ashford]] disappeared soon after they broke up
+		- She spent a lot of time with [[Naven]], studying [[Blood root]]
+	- Reward: 100 gold each and she will owe them a favour
 - [[Venn]] was unhelpful
 	- Hates being in the city
 	- Gave them a map and shallow information about the peaks
+	- Saw a woman who might be Pipe two weeks ago
+		- She looked at him for a few minutes before disappearing into the mist
 - The party accepted both quests (Eman's and Roderick's)
-- Bought winter gear and headed to the [[World/Thornhaven Region/Veiled Peaks]]
+- Bought winter gear and headed to the [[World/Thornhaven Region/Veiled Peaks|Veiled Peaks]]
+	- [[Selune]], [[Mirr]], and [[Aeris Whisperwind]] bought full winter gear (30 gold)
+	- [[Kass]] bought basic gear (5 gold)
+- Met [[Tok]] at [[Tinkboom Grounds]]
+	- Very technologically advanced
+	- Goblins are running the farms
 - **The Ice Bridge:**
 	- Challenging crossing over a chasm
 	- [[Selune]] fell into the creek below

@@ -29,6 +29,7 @@ SORT file.name ASC
 - [[Campaign Journal/One Shot/O00 Owl Curse.md|O00 Owl Curse]]
 - [[Campaign Journal/Main/S01 Sir Alawin Van Trafford.md|S01 Sir Alawin Van Trafford]]
 - [[Campaign Journal/Main/S02 Hostage Hoax.md|S02 Hostage Hoax]]
+- [[Campaign Journal/Main/S04 Finding Pipe.md|S04 Finding Pipe]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
