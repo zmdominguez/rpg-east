@@ -7,6 +7,10 @@ tags:
   - npc
 ---
 ## 👨‍🎤 Description
+- Dark skin with striking green eyes
+- Curly black hair, usually worn loose
+- Strong, athletic physique
+- Carries herself with confidence and authority
 
 ## 📝 Notes
 - Unknown to public knowledge, Eman is a Druid from the Owl Cult
