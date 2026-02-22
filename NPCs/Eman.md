@@ -75,7 +75,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Timetable.md|Timetable]]
+- [[World/Timeline.md|Timeline]]
 - [[World/Thornhaven City/TownHall.md|TownHall]]
 
 %% DATAVIEW_PUBLISHER: end %%
