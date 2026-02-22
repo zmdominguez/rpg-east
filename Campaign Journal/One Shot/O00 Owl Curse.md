@@ -3,10 +3,10 @@ date: 2026-01-19
 location: Thornhaven
 dm: Canato
 party:
-  - Kaepora (Fiona)
-  - Silvering (Marco)
-  - Talonshade (Vitor)
-  - Moris (Zarah)
+  - Kaepora - Fiona
+  - Silverwing - Marco
+  - Talonshade - Vitor
+  - Moris - Zarah
 tags:
   - session
   - one-shot
@@ -46,10 +46,10 @@ tags:
 		- Is she planning something big??
 - [[Vian Out]] a guard stationed in the South Gate
 	- We give him fake names
-		- [[Kaepora]] = Bob
-		- [[Silverwing]] = Who
-		- [[Talonshade]] = Who who
-		- [[Moris]] = Mona
+		- Kaepora = Bob
+		- Silverwing = Who
+		- Talonshade = Who who
+		- Moris = Mona
 	- Play dice with him
 	- Dinner with his family
 		- Wife Han
@@ -73,15 +73,15 @@ tags:
 	- Mills Jr brought us to the Airbnb
 - Airbnb
 	- Looks like a normal house, people actually live there
-	- [[Silverwing]] conjures an owl to send a message to [[Eman]]
+	- Silverwing conjures an owl to send a message to [[Eman]]
 
 #### Day 2
 - Weather is really bad
 	- Lots of thick fog
-- [[Talonshade]] goes to the library
+- Talonshade goes to the library
 	- Meets Annie
 	- She says "Talk to [[Reverend Aldric]] to learn more about the history of the town"
-- [[Eman]] spots [[Silverwing]]'s owl
+- [[Eman]] spots Silverwing's owl
 	- Started shouting "The owls are in the city"
 	- Runs towards the town hall
 	- City's army starts attacking the party

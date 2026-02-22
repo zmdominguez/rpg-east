@@ -1,0 +1,19 @@
+name: Validate Vault
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    name: Validate Obsidian Vault
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run vault validation
+        run: bash scripts/validate.sh

@@ -18,4 +18,4 @@ The plot thickened, but the full truth remained elusive.
 
 ---
 
-[[02 The Festival of Victory|Previous Chapter]] | [[00 Index|Back to Index]] | [[04 The Cross Bones Expedition|Next Chapter]]
+[[02 The Saving Festival|Previous Chapter]] | [[00 Index|Back to Index]] | [[04 The Cross Bones Expedition|Next Chapter]]

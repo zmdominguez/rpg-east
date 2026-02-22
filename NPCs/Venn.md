@@ -76,6 +76,7 @@ SORT file.name ASC
 ```
 %%
 
+- [[World/Timeline.md|Timeline]]
 - [[World/Thornhaven Region/Tinkboom Grounds.md|Tinkboom Grounds]]
 - [[World/Thornhaven Region/Veiled Peaks.md|Veiled Peaks]]
 

@@ -8,7 +8,7 @@
 1. [[01 Prologue - The Quiet Year|Prologue: The Quiet Year]]
    *The founding of a village after war, and the mysteries that arrived with it*
 
-2. [[02 The Festival of Victory|Chapter One: The Festival of Victory]]
+2. [[02 The Saving Festival|Chapter One: The Saving Festival]]
    *Five years later, the dead begin to walk*
 
 3. [[03 The Hostage Hoax|Chapter Two: The Hostage Hoax]]

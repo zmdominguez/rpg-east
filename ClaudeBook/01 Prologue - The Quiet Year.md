@@ -24,4 +24,4 @@ The Quiet Year ended with more questions than answers.
 
 ---
 
-[[00 Index|Back to Index]] | [[02 The Festival of Victory|Next Chapter]]
+[[00 Index|Back to Index]] | [[02 The Saving Festival|Next Chapter]]
