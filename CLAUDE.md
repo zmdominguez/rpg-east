@@ -43,3 +43,21 @@ The file `World/Timeline.md` tracks major world history. When significant events
 - DM: Canato
 - Schedule: Mondays 6pm
 - Location: Kingsford NSW
+
+## Pre-Push Validation (REQUIRED)
+
+**Before pushing any changes to origin, Claude MUST run validation:**
+
+```bash
+bash scripts/validate.sh
+```
+
+### If Validation Fails
+
+1. Fix all reported errors before committing
+2. Re-run `bash scripts/validate.sh` to confirm fixes
+3. Only push when validation passes
+
+### CI/CD
+
+GitHub Actions automatically runs validation on all PRs to `main`. PRs with validation errors cannot be merged.
