@@ -68,4 +68,4 @@ But the wolves were watching too.
 
 ---
 
-[[06 The Thelasian Webs|Previous Chapter]] | [[00 Index|Back to Index]] | [[99 Epilogue - Mysteries Unresolved|Next Chapter]]
+[[06 The Thelasian Webs|Previous Chapter]] | [[00 Index|Back to Index]] | [[08 Interlude - The Scarsith Summons|Next Chapter]]
