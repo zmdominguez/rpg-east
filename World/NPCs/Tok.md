@@ -1,17 +1,22 @@
 ---
-name: Mills
-species: Human
-occupation: Tavern owner
-location: Thornhaven
+name: Tok
+species: Goblin
+occupation: Inventor / Farm Engineer
+location: Tinkboom Grounds
 tags:
   - npc
 ---
 ## 👨‍🎤 Description
+- Small goblin with oil-stained fingers and goggles perpetually on his forehead
+- Always carrying tools or mechanical parts
+- Enthusiastic and talks fast when explaining inventions
+- Proud of what the goblins have built
 
 ## 📝 Notes
-- Runs the tavern [[Cross Bones Pub]]
-- Father: [[Mills Senior]]
-- Likes to collect bones (but cannot differentiate human from animal)
+- Works at [[Tinkboom Grounds]] creating machines to speed up farm work
+- Part a community of goblin inventors who are happy in Thornhaven
+- The goblins value the freedom to create without restrictions
+- Responsible for many of the mechanical innovations that help feed the city
 
 ## 🗣️ Mentioned in
 
@@ -26,9 +31,6 @@ SORT file.name ASC
 ```
 %%
 
-- [[Campaign Journal/One Shot/O00 Owl Curse.md|O00 Owl Curse]]
-- [[Campaign Journal/Main/S01 Sir Alawin Van Trafford.md|S01 Sir Alawin Van Trafford]]
-- [[Campaign Journal/Main/S02 Hostage Hoax.md|S02 Hostage Hoax]]
 - [[Campaign Journal/Main/S04 Finding Pipe.md|S04 Finding Pipe]]
 
 %% DATAVIEW_PUBLISHER: end %%
@@ -37,13 +39,13 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST
-FROM "NPCs"
+FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
 %%
 
-- [[NPCs/Mills Senior.md|Mills Senior]]
+
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -70,7 +72,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven City/Cross Bones Pub.md|Cross Bones Pub]]
+- [[World/Thornhaven Region/Tinkboom Grounds.md|Tinkboom Grounds]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

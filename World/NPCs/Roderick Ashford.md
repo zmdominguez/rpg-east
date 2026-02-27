@@ -1,22 +1,22 @@
 ---
-name: Tok
-species: Goblin
-occupation: Inventor / Farm Engineer
-location: Tinkboom Grounds
+name: Roderick Ashford
+species: Human
+occupation: Retired Farmer
+location: Thornhaven
 tags:
   - npc
 ---
 ## 👨‍🎤 Description
-- Small goblin with oil-stained fingers and goggles perpetually on his forehead
-- Always carrying tools or mechanical parts
-- Enthusiastic and talks fast when explaining inventions
-- Proud of what the goblins have built
+- Elderly man in his 60s, weathered and fragile
+- Rarely leaves his house
+- Shaky hands, weak constitution
+- Eyes still hold hope when speaking about his daughter
 
 ## 📝 Notes
-- Works at [[Tinkboom Grounds]] creating machines to speed up farm work
-- Part a community of goblin inventors who are happy in Thornhaven
-- The goblins value the freedom to create without restrictions
-- Responsible for many of the mechanical innovations that help feed the city
+- Father of [[Pipe Ashford]]
+- Wife Maren died during the Quiet Year
+- Has been searching for Pipe for three years while everyone else gave up
+- Sent a letter to the party asking for help
 
 ## 🗣️ Mentioned in
 
@@ -39,13 +39,13 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST
-FROM "NPCs"
+FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
 %%
 
-
+- [[NPCs/Pipe Ashford.md|Pipe Ashford]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -72,7 +72,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven Region/Tinkboom Grounds.md|Tinkboom Grounds]]
+- [[World/Timeline.md|Timeline]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

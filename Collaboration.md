@@ -154,8 +154,8 @@ Now you can edit files in Obsidian!
 
 ### Common Tasks
 - **Add session notes:** Go to `Campaign Journal/Main/` and create a new file
-- **Edit NPCs:** Go to `NPCs/` folder
-- **Update world info:** Go to `World/Thornhaven/` folder
+- **Edit NPCs:** Go to `World/NPCs/` folder
+- **Update world info:** Go to `World/Locations/` folder
 
 ---
 

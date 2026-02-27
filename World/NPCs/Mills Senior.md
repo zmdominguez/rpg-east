@@ -1,17 +1,18 @@
 ---
-name: Dr Clair Bucklebub
-species: Halfling
-occupation: Archaeologist
+name: Mills Senior
+species: Human
+occupation: Ex-Tavern Owner
 location: Thornhaven
 tags:
   - npc
+  - pioneer
 ---
 ## 👨‍🎤 Description
-- Archaeologist
-- Wears little glasses, old-fashioned clothes
-- She looks kind but a little disorganised
 
 ## 📝 Notes
+- Previous owner of [[Cross Bones Pub]]
+- Son: [[Mills]]
+- Was chosen as the first tavern keeper of the city
 
 ## 🗣️ Mentioned in
 
@@ -26,8 +27,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[Campaign Journal/Main/S03 The Thelasian Webs.md|S03 The Thelasian Webs]]
-- [[Campaign Journal/Cross Bone Inc/X00 Thelasian Lost City.md|X00 Thelasian Lost City]]
+
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -35,13 +35,13 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST
-FROM "NPCs"
+FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
 %%
 
-- [[NPCs/Akor.md|Akor]]
+- [[NPCs/Mills.md|Mills]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -68,8 +68,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven City/Library.md|Library]]
-- [[World/Timeline.md|Timeline]]
+- [[World/Thornhaven City/Cross Bones Pub.md|Cross Bones Pub]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

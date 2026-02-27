@@ -1,16 +1,17 @@
 ---
-name: Gravy
-species: Owl
-occupation: Elder of the Owl Cult
-location: Halfheight Forest
+name: Vian Out
+species: Human
+occupation: Guard
+location: Thornhaven
 tags:
   - npc
 ---
 ## 👨‍🎤 Description
-- Eldest Owl, leader of the Owl Cult
-- Druid who is always in Owl form
+- East Side Guard, now part of the Army
 
 ## 📝 Notes
+- Wife: Hun Out
+- Son: Kele Out - **Dead** by owls during [[O00 Owl Curse]]
 
 ## 🗣️ Mentioned in
 
@@ -33,7 +34,7 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST
-FROM "NPCs"
+FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
@@ -66,7 +67,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven Region/Halfheight Forest.md|Halfheight Forest]]
+
 
 %% DATAVIEW_PUBLISHER: end %%
 

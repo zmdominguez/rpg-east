@@ -1,17 +1,16 @@
 ---
-name: Yeni Pierce
-species: Dragonborn
-occupation: Adventurer
-location: Thornhaven
+name: Gravy
+species: Owl
+occupation: Elder of the Owl Cult
+location: Halfheight Forest
 tags:
   - npc
 ---
 ## 👨‍🎤 Description
+- Eldest Owl, leader of the Owl Cult
+- Druid who is always in Owl form
 
 ## 📝 Notes
-- Daughter of [[Grewdil Pierce]]
-- Faked her kidnapping to get funding for her adventuring
-- Lives in [[Aussen]]
 
 ## 🗣️ Mentioned in
 
@@ -26,7 +25,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[Campaign Journal/Main/S02 Hostage Hoax.md|S02 Hostage Hoax]]
+- [[Campaign Journal/One Shot/O00 Owl Curse.md|O00 Owl Curse]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -34,13 +33,13 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST
-FROM "NPCs"
+FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
 %%
 
-- [[NPCs/Grewdil Pierce.md|Grewdil Pierce]]
+
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -67,7 +66,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven Region/Aussen.md|Aussen]]
+- [[World/Thornhaven Region/Halfheight Forest.md|Halfheight Forest]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

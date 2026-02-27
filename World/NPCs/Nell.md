@@ -1,22 +1,16 @@
 ---
-name: Roderick Ashford
+name: Nell
 species: Human
-occupation: Retired Farmer
+occupation: Priestess
 location: Thornhaven
 tags:
   - npc
 ---
 ## 👨‍🎤 Description
-- Elderly man in his 60s, weathered and fragile
-- Rarely leaves his house
-- Shaky hands, weak constitution
-- Eyes still hold hope when speaking about his daughter
 
 ## 📝 Notes
-- Father of [[Pipe Ashford]]
-- Wife Maren died during the Quiet Year
-- Has been searching for Pipe for three years while everyone else gave up
-- Sent a letter to the party asking for help
+- Fights zombies with her priests
+- Works at the [[Scarsith Temple]]
 
 ## 🗣️ Mentioned in
 
@@ -31,7 +25,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[Campaign Journal/Main/S04 Finding Pipe.md|S04 Finding Pipe]]
+- [[Campaign Journal/Main/S01 Sir Alawin Van Trafford.md|S01 Sir Alawin Van Trafford]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -39,13 +33,13 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST
-FROM "NPCs"
+FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
 %%
 
-- [[NPCs/Pipe Ashford.md|Pipe Ashford]]
+
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -72,7 +66,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Timeline.md|Timeline]]
+- [[World/Thornhaven Region/Scarsith Temple.md|Scarsith Temple]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

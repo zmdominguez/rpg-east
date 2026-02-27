@@ -1,17 +1,22 @@
 ---
-name: Vian Out
-species: Human
-occupation: Guard
-location: Thornhaven
+name: Akor
+species: Drider
+occupation: Guardian
+location: Thelasian Lost City tunnels
 tags:
   - npc
 ---
 ## 👨‍🎤 Description
-- East Side Guard, now part of the Army
+- Dark elf upper body fused with a massive spider lower half
+- Eyes reflect red in torchlight
+- Speaks in a calm, persuasive tone, broken common
+- Carries an ornate longsword with spider motifs
 
 ## 📝 Notes
-- Wife: Hun Out
-- Son: Kele Out - **Dead** by owls during [[O00 Owl Curse]]
+- Guards the entry of Thelasian tunnels, under the swamp
+- Speaks of "the Weaver"
+- Offered [[Dr Clair Bucklebub]] and her team a deal to "accept" the Thelasian city
+- Works alongside a Giant Spider named Bri
 
 ## 🗣️ Mentioned in
 
@@ -26,7 +31,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[Campaign Journal/One Shot/O00 Owl Curse.md|O00 Owl Curse]]
+- [[Campaign Journal/Main/S03 The Thelasian Webs.md|S03 The Thelasian Webs]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -34,13 +39,13 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST
-FROM "NPCs"
+FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
 %%
 
-
+- [[NPCs/Dr Clair Bucklebub.md|Dr Clair Bucklebub]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -67,7 +72,7 @@ SORT file.name ASC
 ```
 %%
 
-
+- [[World/Timeline.md|Timeline]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

@@ -1,13 +1,15 @@
 ---
-name: Reven
-species:
-occupation: Army Commander
+name: Dr Clair Bucklebub
+species: Halfling
+occupation: Archaeologist
 location: Thornhaven
 tags:
   - npc
 ---
 ## 👨‍🎤 Description
-- Fire Fighter
+- Archaeologist
+- Wears little glasses, old-fashioned clothes
+- She looks kind but a little disorganised
 
 ## 📝 Notes
 
@@ -24,7 +26,8 @@ SORT file.name ASC
 ```
 %%
 
-- [[Campaign Journal/One Shot/O00 Owl Curse.md|O00 Owl Curse]]
+- [[Campaign Journal/Main/S03 The Thelasian Webs.md|S03 The Thelasian Webs]]
+- [[Campaign Journal/Cross Bone Inc/X00 Thelasian Lost City.md|X00 Thelasian Lost City]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -32,13 +35,13 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST
-FROM "NPCs"
+FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
 %%
 
-
+- [[NPCs/Akor.md|Akor]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -65,7 +68,8 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven Region/Army Building.md|Army Building]]
+- [[World/Thornhaven City/Library.md|Library]]
+- [[World/Timeline.md|Timeline]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

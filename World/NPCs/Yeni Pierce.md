@@ -1,18 +1,17 @@
 ---
-name: Naven
-species:
-occupation: Herbalist
+name: Yeni Pierce
+species: Dragonborn
+occupation: Adventurer
 location: Thornhaven
 tags:
   - npc
 ---
 ## 👨‍🎤 Description
-- Herbalist who specializes in [[Blood root]]
 
 ## 📝 Notes
-- Uses [[Blood root]] as medicine
-- Has an underground supply/farm
-- Works at the [[Apothecary]]
+- Daughter of [[Grewdil Pierce]]
+- Faked her kidnapping to get funding for her adventuring
+- Lives in [[Aussen]]
 
 ## 🗣️ Mentioned in
 
@@ -27,8 +26,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[Campaign Journal/Main/S03 The Thelasian Webs.md|S03 The Thelasian Webs]]
-- [[Campaign Journal/Main/S04 Finding Pipe.md|S04 Finding Pipe]]
+- [[Campaign Journal/Main/S02 Hostage Hoax.md|S02 Hostage Hoax]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -36,13 +34,13 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST
-FROM "NPCs"
+FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
 %%
 
-
+- [[NPCs/Grewdil Pierce.md|Grewdil Pierce]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -69,7 +67,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven Region/Apothecary.md|Apothecary]]
+- [[World/Thornhaven Region/Aussen.md|Aussen]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

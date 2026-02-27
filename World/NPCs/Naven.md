@@ -1,18 +1,18 @@
 ---
-name: Mills Senior
-species: Human
-occupation: Ex-Tavern Owner
+name: Naven
+species:
+occupation: Herbalist
 location: Thornhaven
 tags:
   - npc
-  - pioneer
 ---
 ## 👨‍🎤 Description
+- Herbalist who specializes in [[Blood root]]
 
 ## 📝 Notes
-- Previous owner of [[Cross Bones Pub]]
-- Son: [[Mills]]
-- Was chosen as the first tavern keeper of the city
+- Uses [[Blood root]] as medicine
+- Has an underground supply/farm
+- Works at the [[Apothecary]]
 
 ## 🗣️ Mentioned in
 
@@ -27,7 +27,8 @@ SORT file.name ASC
 ```
 %%
 
-
+- [[Campaign Journal/Main/S03 The Thelasian Webs.md|S03 The Thelasian Webs]]
+- [[Campaign Journal/Main/S04 Finding Pipe.md|S04 Finding Pipe]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -35,13 +36,13 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST
-FROM "NPCs"
+FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
 %%
 
-- [[NPCs/Mills.md|Mills]]
+
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -68,7 +69,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven City/Cross Bones Pub.md|Cross Bones Pub]]
+- [[World/Thornhaven Region/Apothecary.md|Apothecary]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
