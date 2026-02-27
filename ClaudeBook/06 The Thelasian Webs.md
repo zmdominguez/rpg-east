@@ -8,7 +8,7 @@ When her excavation team returned from a month of travelling sharing the news ab
 
 "Bloodroot doesn't grow like this," [[Naven]] the herbalist observed when he joined the expedition. "Something is farming it."
 
-[[Dr Clair Bucklebub]] reached out through the [[Cross Bones Pub]] seeking experienced adventurers. The Cross Bones Inc party was unavailable, so three others answered the call: [[Aeris Whisperwind]], [[Mirr]], and [[Salune]].
+[[Dr Clair Bucklebub]] reached out through the [[Cross Bones Pub]] seeking experienced adventurers. The Cross Bones Inc party was unavailable, so three others answered the call: [[Aeris Whisperwind]], [[Mirr]], and [[Selune]].
 
 The party watched the tunnels entry and encountered **Bri**.
 

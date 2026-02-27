@@ -1,7 +1,7 @@
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST question
-WHERE question
+WHERE question AND file.name != "CLAUDE"
 SORT file.name ASC
 ```
 %%
