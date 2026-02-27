@@ -40,7 +40,7 @@ The clerics were given rooms. The temple settled into night. And somewhere in th
 
 ---
 
-*Based on the events of [[O01 Scarsith Secret Society]]*
+*Based on the events of [[O01 Nell Invitation]]*
 
 ---
 

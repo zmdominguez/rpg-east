@@ -30,6 +30,8 @@ The party arrived in [[Thornhaven]], each having received an urgent letter from 
 
 The party encountered grave robbers at the cemetery. A hard-fought battle ensued with only three party members present. The party emerged victorious, though it was a close fight.
 
+**Loot:** [[Qualam]] took a [[Graveyard Shortsword|shortsword]] from the lead robber. The blade feels strangely attuned to him.
+
 ### Meeting Nell
 
 After the graveyard fight, [[Nell]] appeared. The party failed to respond correctly to her greeting - the traditional exchange of Scarsith faithful.
