@@ -1,12 +1,11 @@
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST question
-WHERE question
+WHERE question AND file.name != "CLAUDE"
 SORT file.name ASC
 ```
 %%
 
-- [[CLAUDE.md|CLAUDE]]: Question text
 - [[Campaign Journal/Main/S00 The Quiet Year.md|S00 The Quiet Year]]: Adventuring party name?
 - [[Campaign Journal/Main/S01 Sir Alawin Van Trafford.md|S01 Sir Alawin Van Trafford]]: what do I mean by this
 - [[Campaign Journal/Main/S02 Hostage Hoax.md|S02 Hostage Hoax]]: Laurel Quay (name?)
