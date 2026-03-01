@@ -1,22 +1,26 @@
 ---
-name: Eman
-species: Aasimar
-occupation: Mayor
-location: Thornhaven
+name: Pipe Ashford
+species: Human
+occupation: Settler
+location: Unknown (last seen Veiled Peaks)
 tags:
   - npc
+status: missing
 ---
 ## 👨‍🎤 Description
-- Dark skin with striking green eyes
-- Curly black hair, usually worn loose
-- Strong, athletic physique
-- Carries herself with confidence and authority
+- Human woman, late 20s
+- Red hair
+- One of the original settlers of Thornhaven
 
 ## 📝 Notes
-- Unknown to public knowledge, Eman is a Druid from the Owl Cult
-- Was sent to help the cult against the pioneers but decided to rule the city instead
-- Arrived as a child during the Quiet Year
-- Went missing shortly after arrival with a note bearing a [[Blood root]] drawing
+- Daughter of [[Roderick Ashford]] and Maren
+- One of the first settlers - arrived during the founding of Thornhaven
+- Knew of a place nearby with good wood
+- Mother Maren died during the Quiet Year from a wasting illness
+- After her mother's death, became obsessed with understanding [[Blood root]]
+- Disappeared mysteriously three years ago
+- Recently spotted by [[Venn]] near Cloudbreak Pass in the [[World/Thornhaven Region/Veiled Peaks]]
+- [[Eman]] wants to find her
 
 ## 🗣️ Mentioned in
 
@@ -31,7 +35,6 @@ SORT file.name ASC
 ```
 %%
 
-- [[Campaign Journal/🔮 Lore 🔮.md|🔮 Lore 🔮]]
 - [[Campaign Journal/One Shot/O00 Owl Curse.md|O00 Owl Curse]]
 - [[Campaign Journal/Main/S00 The Quiet Year.md|S00 The Quiet Year]]
 - [[Campaign Journal/Main/S04 Finding Pipe.md|S04 Finding Pipe]]
@@ -42,13 +45,15 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST
-FROM "NPCs"
+FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
 %%
 
-- [[NPCs/Pipe Ashford.md|Pipe Ashford]]
+- [[World/NPCs/Eman.md|Eman]]
+- [[World/NPCs/Roderick Ashford.md|Roderick Ashford]]
+- [[World/NPCs/Venn.md|Venn]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -75,8 +80,10 @@ SORT file.name ASC
 ```
 %%
 
+- [[World/NPCs/Eman.md|Eman]]
+- [[World/NPCs/Roderick Ashford.md|Roderick Ashford]]
 - [[World/Timeline.md|Timeline]]
-- [[World/Thornhaven City/TownHall.md|TownHall]]
+- [[World/NPCs/Venn.md|Venn]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

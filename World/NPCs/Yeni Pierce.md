@@ -34,13 +34,13 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST
-FROM "NPCs"
+FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
 %%
 
-- [[NPCs/Grewdil Pierce.md|Grewdil Pierce]]
+- [[World/NPCs/Grewdil Pierce.md|Grewdil Pierce]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -67,7 +67,8 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven Region/Aussen.md|Aussen]]
+- [[World/Locations/Thornhaven Region/Aussen.md|Aussen]]
+- [[World/NPCs/Grewdil Pierce.md|Grewdil Pierce]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

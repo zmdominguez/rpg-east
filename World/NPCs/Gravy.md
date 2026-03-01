@@ -1,13 +1,14 @@
 ---
-name: Reven
-species:
-occupation: Army Commander
-location: Thornhaven
+name: Gravy
+species: Owl
+occupation: Elder of the Owl Cult
+location: Halfheight Forest
 tags:
   - npc
 ---
 ## 👨‍🎤 Description
-- Fire Fighter
+- Eldest Owl, leader of the Owl Cult
+- Druid who is always in Owl form
 
 ## 📝 Notes
 
@@ -32,7 +33,7 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST
-FROM "NPCs"
+FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
@@ -65,7 +66,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven Region/Army Building.md|Army Building]]
+- [[World/Locations/Thornhaven Region/Halfheight Forest.md|Halfheight Forest]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

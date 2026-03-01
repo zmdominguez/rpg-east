@@ -18,8 +18,8 @@ Create a new world location entry.
    - Map reference (if any)
 
 2. Determine file path:
-   - City location: `World/Thornhaven City/[Name].md`
-   - Region location: `World/Thornhaven Region/[Name].md`
+   - City location: `World/Locations/Thornhaven City/[Name].md`
+   - Region location: `World/Locations/Thornhaven Region/[Name].md`
    - Or create in appropriate subfolder based on parent
 
 3. Create the file using this template:

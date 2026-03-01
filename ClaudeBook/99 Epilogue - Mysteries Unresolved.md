@@ -53,4 +53,4 @@ The story is far from over.
 
 ---
 
-[[07 The Search for Pipe|Previous Chapter]] | [[00 Index|Back to Index]]
+[[08 Interlude - The Scarsith Summons|Previous Chapter]] | [[00 Index|Back to Index]]

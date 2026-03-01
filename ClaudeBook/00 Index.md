@@ -26,7 +26,10 @@
 7. [[07 The Search for Pipe|Chapter Five: The Search for Pipe]]
    *A missing woman, a desperate father, and wolves in the mist*
 
-8. [[99 Epilogue - Mysteries Unresolved|Epilogue: Mysteries Unresolved]]
+8. [[08 Interlude - The Scarsith Summons|Interlude: The Scarsith Summons]]
+   *Three clerics answer an urgent call, and find shadows in the faith*
+
+9. [[99 Epilogue - Mysteries Unresolved|Epilogue: Mysteries Unresolved]]
    *Questions that linger in the shadows*
 
 ---
