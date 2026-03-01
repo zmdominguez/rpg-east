@@ -65,7 +65,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven Region/Army Building.md|Army Building]]
+- [[World/Locations/Thornhaven Region/Army Building.md|Army Building]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

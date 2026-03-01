@@ -72,7 +72,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven Region/Tinkboom Grounds.md|Tinkboom Grounds]]
+- [[World/Locations/Thornhaven Region/Tinkboom Grounds.md|Tinkboom Grounds]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

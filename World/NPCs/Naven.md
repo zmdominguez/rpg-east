@@ -69,7 +69,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven Region/Apothecary.md|Apothecary]]
+- [[World/Locations/Thornhaven Region/Apothecary.md|Apothecary]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

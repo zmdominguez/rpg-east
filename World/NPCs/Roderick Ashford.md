@@ -45,7 +45,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[NPCs/Pipe Ashford.md|Pipe Ashford]]
+- [[World/NPCs/Pipe Ashford.md|Pipe Ashford]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -72,6 +72,7 @@ SORT file.name ASC
 ```
 %%
 
+- [[World/NPCs/Pipe Ashford.md|Pipe Ashford]]
 - [[World/Timeline.md|Timeline]]
 
 %% DATAVIEW_PUBLISHER: end %%

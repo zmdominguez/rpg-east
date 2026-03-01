@@ -43,7 +43,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[NPCs/Mills Senior.md|Mills Senior]]
+- [[World/NPCs/Mills Senior.md|Mills Senior]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -70,7 +70,8 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven City/Cross Bones Pub.md|Cross Bones Pub]]
+- [[World/Locations/Thornhaven City/Cross Bones Pub.md|Cross Bones Pub]]
+- [[World/NPCs/Mills Senior.md|Mills Senior]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

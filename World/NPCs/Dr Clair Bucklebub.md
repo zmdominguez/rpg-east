@@ -41,7 +41,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[NPCs/Akor.md|Akor]]
+- [[World/NPCs/Akor.md|Akor]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -68,7 +68,8 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven City/Library.md|Library]]
+- [[World/NPCs/Akor.md|Akor]]
+- [[World/Locations/Thornhaven City/Library.md|Library]]
 - [[World/Timeline.md|Timeline]]
 
 %% DATAVIEW_PUBLISHER: end %%

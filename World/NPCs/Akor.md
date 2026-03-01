@@ -45,7 +45,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[NPCs/Dr Clair Bucklebub.md|Dr Clair Bucklebub]]
+- [[World/NPCs/Dr Clair Bucklebub.md|Dr Clair Bucklebub]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -72,6 +72,7 @@ SORT file.name ASC
 ```
 %%
 
+- [[World/NPCs/Dr Clair Bucklebub.md|Dr Clair Bucklebub]]
 - [[World/Timeline.md|Timeline]]
 
 %% DATAVIEW_PUBLISHER: end %%

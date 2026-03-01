@@ -66,7 +66,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven Region/Halfheight Forest.md|Halfheight Forest]]
+- [[World/Locations/Thornhaven Region/Halfheight Forest.md|Halfheight Forest]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

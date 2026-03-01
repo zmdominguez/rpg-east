@@ -51,9 +51,9 @@ SORT file.name ASC
 ```
 %%
 
-- [[NPCs/Eman.md|Eman]]
-- [[NPCs/Roderick Ashford.md|Roderick Ashford]]
-- [[NPCs/Venn.md|Venn]]
+- [[World/NPCs/Eman.md|Eman]]
+- [[World/NPCs/Roderick Ashford.md|Roderick Ashford]]
+- [[World/NPCs/Venn.md|Venn]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -80,7 +80,10 @@ SORT file.name ASC
 ```
 %%
 
+- [[World/NPCs/Eman.md|Eman]]
+- [[World/NPCs/Roderick Ashford.md|Roderick Ashford]]
 - [[World/Timeline.md|Timeline]]
+- [[World/NPCs/Venn.md|Venn]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

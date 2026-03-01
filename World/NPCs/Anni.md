@@ -66,7 +66,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven City/Library.md|Library]]
+- [[World/Locations/Thornhaven City/Library.md|Library]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

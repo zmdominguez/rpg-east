@@ -39,7 +39,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[NPCs/Yeni Pierce.md|Yeni Pierce]]
+- [[World/NPCs/Yeni Pierce.md|Yeni Pierce]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -66,7 +66,8 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven Region/Aussen.md|Aussen]]
+- [[World/Locations/Thornhaven Region/Aussen.md|Aussen]]
+- [[World/NPCs/Yeni Pierce.md|Yeni Pierce]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

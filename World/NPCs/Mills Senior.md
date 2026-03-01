@@ -41,7 +41,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[NPCs/Mills.md|Mills]]
+- [[World/NPCs/Mills.md|Mills]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -68,7 +68,8 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven City/Cross Bones Pub.md|Cross Bones Pub]]
+- [[World/Locations/Thornhaven City/Cross Bones Pub.md|Cross Bones Pub]]
+- [[World/NPCs/Mills.md|Mills]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
