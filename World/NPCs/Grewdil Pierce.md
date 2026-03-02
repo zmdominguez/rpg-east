@@ -1,18 +1,16 @@
 ---
-name: Mills Senior
-species: Human
-occupation: Ex-Tavern Owner
-location: Thornhaven
+name: Grewdil Pierce
+species: Dragonborn
+occupation: Village leader
+location: Aussen
 tags:
   - npc
-  - pioneer
 ---
 ## 👨‍🎤 Description
 
 ## 📝 Notes
-- Previous owner of [[Cross Bones Pub]]
-- Son: [[Mills]]
-- Was chosen as the first tavern keeper of the city
+- Daughter ([[Yeni Pierce]]) was kidnapped
+- Lives in [[Aussen]]
 
 ## 🗣️ Mentioned in
 
@@ -27,7 +25,7 @@ SORT file.name ASC
 ```
 %%
 
-
+- [[Campaign Journal/Main/S02 Hostage Hoax.md|S02 Hostage Hoax]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -35,13 +33,13 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST
-FROM "NPCs"
+FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
 %%
 
-- [[NPCs/Mills.md|Mills]]
+- [[World/NPCs/Yeni Pierce.md|Yeni Pierce]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -68,7 +66,8 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven City/Cross Bones Pub.md|Cross Bones Pub]]
+- [[World/Locations/Thornhaven Region/Aussen.md|Aussen]]
+- [[World/NPCs/Yeni Pierce.md|Yeni Pierce]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

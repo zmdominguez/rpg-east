@@ -1,17 +1,17 @@
 ---
-name: Vian Out
-species: Human
-occupation: Guard
+name: Dr Clair Bucklebub
+species: Halfling
+occupation: Archaeologist
 location: Thornhaven
 tags:
   - npc
 ---
 ## 👨‍🎤 Description
-- East Side Guard, now part of the Army
+- Archaeologist
+- Wears little glasses, old-fashioned clothes
+- She looks kind but a little disorganised
 
 ## 📝 Notes
-- Wife: Hun Out
-- Son: Kele Out - **Dead** by owls during [[O00 Owl Curse]]
 
 ## 🗣️ Mentioned in
 
@@ -26,7 +26,8 @@ SORT file.name ASC
 ```
 %%
 
-- [[Campaign Journal/One Shot/O00 Owl Curse.md|O00 Owl Curse]]
+- [[Campaign Journal/Main/S03 The Thelasian Webs.md|S03 The Thelasian Webs]]
+- [[Campaign Journal/Cross Bone Inc/X00 Thelasian Lost City.md|X00 Thelasian Lost City]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -34,13 +35,13 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST
-FROM "NPCs"
+FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
 %%
 
-
+- [[World/NPCs/Akor.md|Akor]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -67,7 +68,9 @@ SORT file.name ASC
 ```
 %%
 
-
+- [[World/NPCs/Akor.md|Akor]]
+- [[World/Locations/Thornhaven City/Library.md|Library]]
+- [[World/Timeline.md|Timeline]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

@@ -1,7 +1,7 @@
 ---
-name: Nell
+name: Mills
 species: Human
-occupation: Priestess
+occupation: Tavern owner
 location: Thornhaven
 tags:
   - npc
@@ -9,8 +9,9 @@ tags:
 ## 👨‍🎤 Description
 
 ## 📝 Notes
-- Fights zombies with her priests
-- Works at the [[Scarsith Temple]]
+- Runs the tavern [[Cross Bones Pub]]
+- Father: [[Mills Senior]]
+- Likes to collect bones (but cannot differentiate human from animal)
 
 ## 🗣️ Mentioned in
 
@@ -25,7 +26,10 @@ SORT file.name ASC
 ```
 %%
 
+- [[Campaign Journal/One Shot/O00 Owl Curse.md|O00 Owl Curse]]
 - [[Campaign Journal/Main/S01 Sir Alawin Van Trafford.md|S01 Sir Alawin Van Trafford]]
+- [[Campaign Journal/Main/S02 Hostage Hoax.md|S02 Hostage Hoax]]
+- [[Campaign Journal/Main/S04 Finding Pipe.md|S04 Finding Pipe]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -33,13 +37,13 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST
-FROM "NPCs"
+FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
 %%
 
-
+- [[World/NPCs/Mills Senior.md|Mills Senior]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -66,7 +70,8 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven Region/Scarsith Temple.md|Scarsith Temple]]
+- [[World/Locations/Thornhaven City/Cross Bones Pub.md|Cross Bones Pub]]
+- [[World/NPCs/Mills Senior.md|Mills Senior]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

@@ -1,16 +1,22 @@
 ---
-name: Gravy
-species: Owl
-occupation: Elder of the Owl Cult
-location: Halfheight Forest
+name: Bramwell
+species: Halfling
+occupation: Priest
+location: Thornhaven
 tags:
   - npc
 ---
 ## 👨‍🎤 Description
-- Eldest Owl, leader of the Owl Cult
-- Druid who is always in Owl form
+
+- Older halfling priest with gray-streaked curly hair and laugh lines around his mouth
+- Bare feet, priest's robes
+- Cheerful, helpful demeanor
+- Works at the [[Scarsith Temple]]
 
 ## 📝 Notes
+
+- Brother Bramwell welcomed the party to the temple on [[Nell]]'s behalf
+- Chatty and pleasant, eager to see to visitors' comfort
 
 ## 🗣️ Mentioned in
 
@@ -25,7 +31,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[Campaign Journal/One Shot/O00 Owl Curse.md|O00 Owl Curse]]
+- [[Campaign Journal/One Shot/O01 Nell Invitation.md|O01 Nell Invitation]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -33,7 +39,7 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST
-FROM "NPCs"
+FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
@@ -66,7 +72,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven Region/Halfheight Forest.md|Halfheight Forest]]
+
 
 %% DATAVIEW_PUBLISHER: end %%
 

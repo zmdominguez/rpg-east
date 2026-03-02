@@ -16,7 +16,7 @@ Create a new NPC (Non-Player Character) file.
    - Location (where they're usually found)
    - Brief description (optional)
 
-2. Create the file at `NPCs/[Name].md` using this template:
+2. Create the file at `World/NPCs/[Name].md` using this template:
 
 ```markdown
 ---
@@ -54,7 +54,7 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 LIST
-FROM "NPCs"
+FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```

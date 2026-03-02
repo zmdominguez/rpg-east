@@ -1,16 +1,17 @@
 ---
-name: Anni
-species: Dragonborn
-occupation: Librarian
+name: Vian Out
+species: Human
+occupation: Guard
 location: Thornhaven
 tags:
   - npc
 ---
-
 ## 👨‍🎤 Description
+- East Side Guard, now part of the Army
 
 ## 📝 Notes
-- Works on [[Library]]
+- Wife: Hun Out
+- Son: Kele Out - **Dead** by owls during [[O00 Owl Curse]]
 
 ## 🗣️ Mentioned in
 
@@ -33,7 +34,7 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST
-FROM "NPCs"
+FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
@@ -58,7 +59,7 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: end %%
 #### World
 %% DATAVIEW_PUBLISHER: start
-```dataview
+```
 LIST
 FROM "World"
 WHERE contains(file.outlinks, [[]])
@@ -66,7 +67,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven City/Library.md|Library]]
+
 
 %% DATAVIEW_PUBLISHER: end %%
 

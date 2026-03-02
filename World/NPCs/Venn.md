@@ -43,13 +43,13 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST
-FROM "NPCs"
+FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
 %%
 
-- [[NPCs/Pipe Ashford.md|Pipe Ashford]]
+- [[World/NPCs/Pipe Ashford.md|Pipe Ashford]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -76,9 +76,10 @@ SORT file.name ASC
 ```
 %%
 
+- [[World/NPCs/Pipe Ashford.md|Pipe Ashford]]
 - [[World/Timeline.md|Timeline]]
-- [[World/Thornhaven Region/Tinkboom Grounds.md|Tinkboom Grounds]]
-- [[World/Thornhaven Region/Veiled Peaks.md|Veiled Peaks]]
+- [[World/Locations/Thornhaven Region/Tinkboom Grounds.md|Tinkboom Grounds]]
+- [[World/Locations/Thornhaven Region/Veiled Peaks.md|Veiled Peaks]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

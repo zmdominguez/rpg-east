@@ -1,14 +1,13 @@
 ---
-name: <% tp.file.title %>
+name: Reven
 species:
-occupation:
-location:
+occupation: Army Commander
+location: Thornhaven
 tags:
   - npc
 ---
 ## 👨‍🎤 Description
-- How does this creature look like?
-- Any defining characteristics?
+- Fire Fighter
 
 ## 📝 Notes
 
@@ -25,7 +24,7 @@ SORT file.name ASC
 ```
 %%
 
-
+- [[Campaign Journal/One Shot/O00 Owl Curse.md|O00 Owl Curse]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -66,7 +65,7 @@ SORT file.name ASC
 ```
 %%
 
-
+- [[World/Locations/Thornhaven Region/Army Building.md|Army Building]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

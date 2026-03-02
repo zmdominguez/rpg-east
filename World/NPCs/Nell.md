@@ -1,7 +1,7 @@
 ---
-name: Mills
+name: Nell
 species: Human
-occupation: Tavern owner
+occupation: Priestess
 location: Thornhaven
 tags:
   - npc
@@ -9,9 +9,8 @@ tags:
 ## 👨‍🎤 Description
 
 ## 📝 Notes
-- Runs the tavern [[Cross Bones Pub]]
-- Father: [[Mills Senior]]
-- Likes to collect bones (but cannot differentiate human from animal)
+- Fights zombies with her priests
+- Works at the [[Scarsith Temple]]
 
 ## 🗣️ Mentioned in
 
@@ -26,10 +25,8 @@ SORT file.name ASC
 ```
 %%
 
-- [[Campaign Journal/One Shot/O00 Owl Curse.md|O00 Owl Curse]]
+- [[Campaign Journal/One Shot/O01 Nell Invitation.md|O01 Nell Invitation]]
 - [[Campaign Journal/Main/S01 Sir Alawin Van Trafford.md|S01 Sir Alawin Van Trafford]]
-- [[Campaign Journal/Main/S02 Hostage Hoax.md|S02 Hostage Hoax]]
-- [[Campaign Journal/Main/S04 Finding Pipe.md|S04 Finding Pipe]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -37,13 +34,13 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST
-FROM "NPCs"
+FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
 %%
 
-- [[NPCs/Mills Senior.md|Mills Senior]]
+- [[World/NPCs/Bramwell.md|Bramwell]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -57,7 +54,8 @@ SORT file.name ASC
 ```
 %%
 
-
+- [[Party/Extras/Brynn Ashveil.md|Brynn Ashveil]]
+- [[Party/Extras/Quickfoot.md|Quickfoot]]
 
 %% DATAVIEW_PUBLISHER: end %%
 #### World
@@ -70,7 +68,10 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven City/Cross Bones Pub.md|Cross Bones Pub]]
+- [[World/NPCs/Bramwell.md|Bramwell]]
+- [[World/Locations/Thornhaven Region/Scarsith Temple.md|Scarsith Temple]]
+- [[World/Locations/Thornhaven.md|Thornhaven]]
+- [[World/Timeline.md|Timeline]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

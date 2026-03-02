@@ -39,7 +39,7 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: start
 ```
 LIST
-FROM "NPCs"
+FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 ```
@@ -72,7 +72,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/Thornhaven Region/Tinkboom Grounds.md|Tinkboom Grounds]]
+- [[World/Locations/Thornhaven Region/Tinkboom Grounds.md|Tinkboom Grounds]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
