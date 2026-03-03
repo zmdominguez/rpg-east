@@ -25,6 +25,7 @@ SORT file.name ASC
 ```
 %%
 
+- [[Campaign Journal/🔮 Lore 🔮.md|🔮 Lore 🔮]]
 - [[Campaign Journal/One Shot/O01 Nell Invitation.md|O01 Nell Invitation]]
 - [[Campaign Journal/Main/S01 Sir Alawin Van Trafford.md|S01 Sir Alawin Van Trafford]]
 
