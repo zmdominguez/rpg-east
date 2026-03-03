@@ -45,7 +45,7 @@ SORT file.name ASC
 ```
 %%
 
-
+- [[World/NPCs/Nell.md|Nell]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -72,7 +72,7 @@ SORT file.name ASC
 ```
 %%
 
-
+- [[World/NPCs/Nell.md|Nell]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

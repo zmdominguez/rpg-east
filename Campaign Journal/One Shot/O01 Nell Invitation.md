@@ -5,7 +5,7 @@ dm: Canato
 party:
   - "[[Party/Extras/Brynn Ashveil|Brynn]]"
   - "[[Party/Extras/Quickfoot|Quickfoot]]"
-  - "[[Party/Extras/Qualam|Qualam]]"
+  - "[[Caelan Duskrow|Caelan Duskrow]]"
 tags:
   - session
   - one-shot
@@ -30,7 +30,7 @@ The party arrived in [[Thornhaven]], each having received an urgent letter from 
 
 The party encountered grave robbers at the cemetery. A hard-fought battle ensued with only three party members present. The party emerged victorious, though it was a close fight.
 
-**Loot:** [[Qualam]] took a [[Graveyard Shortsword|shortsword]] from the lead robber. The blade feels strangely attuned to him.
+**Loot:** [[Caelan Duskrow]] took a [[Graveyard Shortsword|shortsword]] from the lead robber. The blade feels strangely attuned to him.
 
 ### Meeting Nell
 

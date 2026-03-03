@@ -12,7 +12,7 @@ Priestess [[Nell]] sent letters across the land—urgent, cryptic, asking for ai
 
 **[[Quickfoot]]**, a human raised by paladins of the Temple of the Iron Tail, understood hunger differently. He had grown up in slums, adopted by the faithful, given a name for his playful spirit even in starvation. For him, "true hunger" meant the emptiness—the loss of hope, of family made not by blood but by oath. Nell's letter sparked something in him: the desire to punish those who cause hunger.
 
-**[[Qualam]]**, an elven paladin, came for reasons known only to himself.
+**[[Caelan Duskrow]]**, an elven paladin, came for reasons known only to himself.
 
 ---
 
