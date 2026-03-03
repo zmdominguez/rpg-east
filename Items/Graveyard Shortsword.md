@@ -17,6 +17,6 @@ A well-crafted shortsword taken from the leader of the grave robbers during the 
 
 ## Notes
 
-- Taken by [[Qualam]] in [[O01 Nell Invitation]]
+- Taken by [[Caelan Duskrow]] in [[O01 Nell Invitation]]
 - Feels unusually natural in Qualam's hands
 - Origin unknown - likely stolen goods

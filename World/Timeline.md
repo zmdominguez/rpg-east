@@ -36,7 +36,7 @@
 *[[O01 Nell Invitation]]*
 
 - **Thornhaven Prospers** - Under [[Eman]]'s leadership, the city continues to develop
-- **[[Nell]]'s Urgent Summons** - Priestess Nell of the [[Scarsith Temple]] sends letters to faithful followers across the land, requesting aid with an unnamed threat. Three clerics answer the call: [[Brynn Ashveil]], [[Quickfoot]], and [[Qualam]].
+- **[[Nell]]'s Urgent Summons** - Priestess Nell of the [[Scarsith Temple]] sends letters to faithful followers across the land, requesting aid with an unnamed threat. Three clerics answer the call: [[Brynn Ashveil]], [[Quickfoot]], and [[Caelan Duskrow]].
 
 ---
 
