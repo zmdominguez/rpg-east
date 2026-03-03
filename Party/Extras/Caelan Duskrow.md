@@ -8,7 +8,7 @@ tags:
 ---
 ## 🧑‍🎨 Portrait
 
-![[Caelan-Duskrow.png]]
+![[Caelan-Duskrow.png|400]]
 
 ## 🕯️ Backstory
 
