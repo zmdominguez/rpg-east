@@ -40,6 +40,8 @@ After the graveyard fight, [[Nell]] appeared. The party failed to respond correc
 
 The party went to the [[Scarsith Temple]] to rest. Brother [[Bramwell]], an older halfling priest, welcomed them warmly on Nell's behalf and saw to their comfort.
 
+[[Bramwell]] gave the each person in the party a small vial of honey.
+
 ## 📓 Homework
 
-- [ ] Vitor to add Qualam backstory
+- [ ] Vitor to add Caelan backstory

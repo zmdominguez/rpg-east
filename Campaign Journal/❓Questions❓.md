@@ -6,6 +6,10 @@ SORT file.name ASC
 ```
 %%
 
+- [[Campaign Journal/One Shot/O02 A Day at the Scarsith Temple.md|O02 A Day at the Scarsith Temple]]: 
+    - What are [[Nell]] and  [[Eman]] up to?
+    - Who is telling the truth between Bramwell and Ren?
+
 - [[Campaign Journal/Main/S00 The Quiet Year.md|S00 The Quiet Year]]: Adventuring party name?
 - [[Campaign Journal/Main/S01 Sir Alawin Van Trafford.md|S01 Sir Alawin Van Trafford]]: what do I mean by this
 - [[Campaign Journal/Main/S02 Hostage Hoax.md|S02 Hostage Hoax]]: Laurel Quay (name?)

@@ -8,6 +8,8 @@ tags:
 ---
 ## 🧑‍🎨 Portrait
 
+![[Brynn-Ashveil.png|400]]
+
 ## 🕯️ Backstory
 
 Brynn grew up at the Survivor's Rest, a coastal refugee settlement, having arrived there as an infant when her fishing village was destroyed by a storm. She spent her life split between crewing supply vessels along the coast and tending to the sick and displaced at the temple of [[Scarsith]].

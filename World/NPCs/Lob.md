@@ -1,22 +1,16 @@
 ---
-name: Bramwell
-species: Halfling
-occupation: Priest
-location: Thornhaven
+name: Lob
+species:
+occupation:
+location: Scarsith Temple
 tags:
   - npc
 ---
 ## 👨‍🎤 Description
-
-- Older halfling priest with gray-streaked curly hair and laugh lines around his mouth
-- Bare feet, priest's robes
-- Cheerful, helpful demeanor
-- Works at the [[Scarsith Temple]]
+- How does this creature look like?
+- Any defining characteristics?
 
 ## 📝 Notes
-
-- Brother Bramwell welcomed the party to the temple on [[Nell]]'s behalf
-- Chatty and pleasant, eager to see to visitors' comfort
 
 ## 🗣️ Mentioned in
 
@@ -31,7 +25,6 @@ SORT file.name ASC
 ```
 %%
 
-- [[Campaign Journal/One Shot/O01 Nell Invitation.md|O01 Nell Invitation]]
 - [[Campaign Journal/One Shot/O02 A Day at the Scarsith Temple.md|O02 A Day at the Scarsith Temple]]
 
 %% DATAVIEW_PUBLISHER: end %%
@@ -46,7 +39,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/NPCs/Nell.md|Nell]]
+
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -73,7 +66,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[World/NPCs/Nell.md|Nell]]
+
 
 %% DATAVIEW_PUBLISHER: end %%
 
