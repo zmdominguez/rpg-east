@@ -7,9 +7,17 @@ species: Wood Elf
 tags:
   - party
 ---
-## 🧑‍🎨 Portrait
 
-![[Selune.png|600]]
+> [!infobox|right n-th wikipedia]
+> # `=this.file.name`
+> ![[Selune.png|cover hsmall]]
+> 
+> | Type | Stat |
+> | ---- | ---- |
+> | **Player** | `=this.player` |
+> | **Class** | `=this.class` |
+> | **Species** | `=this.species` |
+
 
 ## 👨‍🎤 Description
 

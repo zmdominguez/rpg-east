@@ -6,9 +6,17 @@ species: Elf
 tags:
   - party
 ---
-## 🧑‍🎨 Portrait
 
-![[Caelan-Duskrow.png|400]]
+> [!infobox|right n-th wikipedia]
+> # `=this.file.name`
+> ![[Caelan-Duskrow.png|cover hsmall]]
+> 
+> | Type | Stat |
+> | ---- | ---- |
+> | **Player** | `=this.player` |
+> | **Class** | `=this.class` |
+> | **Species** | `=this.species` |
+
 
 ## 🕯️ Backstory
 

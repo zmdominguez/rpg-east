@@ -7,9 +7,17 @@ species: Human
 tags:
   - party
 ---
-## 🧑‍🎨 Portrait
 
-![[Nyra.png|400]]
+> [!infobox|right n-th wikipedia]
+> # `=this.file.name`
+> ![[Nyra.png|cover hsmall]]
+> 
+> | Type | Stat |
+> | ---- | ---- |
+> | **Player** | `=this.player` |
+> | **Class** | `=this.class` |
+> | **Species** | `=this.species` |
+
 
 ## 👨‍🎤 Description
 
