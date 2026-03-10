@@ -81,6 +81,7 @@ SORT file.name ASC
 
 - [[Campaign Journal/One Shot/O00 Owl Curse.md|O00 Owl Curse]]
 - [[Campaign Journal/One Shot/O01 Nell Invitation.md|O01 Nell Invitation]]
+- [[Campaign Journal/One Shot/O02 A Day at the Scarsith Temple.md|O02 A Day at the Scarsith Temple]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
