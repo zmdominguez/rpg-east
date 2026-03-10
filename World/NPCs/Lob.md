@@ -1,7 +1,7 @@
 ---
 name: Lob
-species:
-occupation:
+species: human
+occupation: Scarsith-devotee
 location: Scarsith Temple
 tags:
   - npc
