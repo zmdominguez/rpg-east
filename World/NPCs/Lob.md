@@ -7,8 +7,7 @@ tags:
   - npc
 ---
 ## 👨‍🎤 Description
-- How does this creature look like?
-- Any defining characteristics?
+Skinny human, pale, use vests like a homeless
 
 ## 📝 Notes
 
