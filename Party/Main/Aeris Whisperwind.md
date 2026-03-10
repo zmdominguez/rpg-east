@@ -7,9 +7,16 @@ species: Wood Elf
 tags:
   - party
 ---
-## 🧑‍🎨 Portrait
 
-![[Aeris-Whisperwind.png|400]]
+> [!infobox|right n-th wikipedia]
+> # `=this.file.name`
+> ![[Aeris-Whisperwind.png|cover hsmall]]
+> 
+> | Type | Stat |
+> | ---- | ---- |
+> | **Player** | `=this.player` |
+> | **Class** | `=this.class` |
+> | **Species** | `=this.species` |
 
 ## 👨‍🎤 Description
 

@@ -1,13 +1,16 @@
 # Ignore Obsidian workspace and cache files
 .obsidian/workspace
+.obsidian/workspace.json
+.obsidian/.DS_Store
 .obsidian/usage-data.json
 .obsidian/cache
+.obsidian/appearance.json
 .obsidian/themes/*.css-mobile-theme
 
 # Ignore plugin-specific data that might be large or volatile
 # This is optional; some users prefer to sync plugin settings
 # If you want to sync plugin settings, remove the .obsidian/plugins line
-# .obsidian/plugins/
+.obsidian/plugins/
 
 # Ignore files used by specific community plugins (examples)
 .smart-connections/
@@ -26,4 +29,5 @@ Thumbs.db # Windows
 # Personal notes
 personalNotes/
 
-.obsidian/workspace.json
+
+.DS_Store
