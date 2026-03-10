@@ -1,7 +1,7 @@
 ---
 name: Ren
-species:
-occupation:
+species: halfling
+occupation: Scarsith-devotee
 location: Thornhaven
 tags:
   - npc
