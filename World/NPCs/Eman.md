@@ -31,6 +31,7 @@ SORT file.name ASC
 ```
 %%
 
+- [[Campaign Journal/❓Questions❓.md|❓Questions❓]]
 - [[Campaign Journal/🔮 Lore 🔮.md|🔮 Lore 🔮]]
 - [[Campaign Journal/One Shot/O00 Owl Curse.md|O00 Owl Curse]]
 - [[Campaign Journal/One Shot/O02 A Day at the Scarsith Temple.md|O02 A Day at the Scarsith Temple]]
