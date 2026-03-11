@@ -12,6 +12,18 @@ party:
 tags:
   - session
 ---
+
+> [!infobox|right n-th wikipedia]
+> # <!-- IQ: =this.file.name -->S04 Finding Pipe<!-- /IQ -->
+> 
+> | Type | Stat |
+> | ---- | ---- |
+> | **Date** | <!-- IQ: =this.date -->2025-02-16<!-- /IQ --> |
+> | **Location** | <!-- IQ: =this.location -->Thornhaven, [[World/Locations/Thornhaven Region/Veiled Peaks.md\|Veiled Peaks]]<!-- /IQ --> |
+> | **DM** | <!-- IQ: =this.dm -->Canato<!-- /IQ --> |
+> | **Party** | <!-- IQ: =this.party -->[[Party/Main/Aeris Whisperwind.md\|Aeris Whisperwind]], [[Party/Main/Kass.md\|Kass]], [[Party/Main/Mirr.md\|Mirr]], [[Party/Main/Selune.md\|Selune]]<!-- /IQ --> |
+
+
 ## 💡Key Learnings
 
 - [[Pipe Ashford]] has been missing for three years, but was recently spotted alive

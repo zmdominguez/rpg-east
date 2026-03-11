@@ -10,6 +10,18 @@ party:
 tags:
   - session
 ---
+
+> [!infobox|right n-th wikipedia]
+> # <!-- IQ: =this.file.name -->S02 Hostage Hoax<!-- /IQ -->
+> 
+> | Type | Stat |
+> | ---- | ---- |
+> | **Date** | <!-- IQ: =this.date -->2025-12-15<!-- /IQ --> |
+> | **Location** | <!-- IQ: =this.location -->Thornhaven<!-- /IQ --> |
+> | **DM** | <!-- IQ: =this.dm -->Canato<!-- /IQ --> |
+> | **Party** | <!-- IQ: =this.party -->[[Party/Main/Aeris Whisperwind.md\|Aeris Whisperwind]], [[Party/Main/Kass.md\|Kass]], [[Party/Main/Mirr.md\|Mirr]], [[Party/Main/Selune.md\|Selune]]<!-- /IQ --> |
+
+
 ## 💡Key Learnings 
 
 - Description of any important information that the party learned.
