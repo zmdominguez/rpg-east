@@ -9,6 +9,18 @@ party:
 tags:
   - session
 ---
+
+> [!infobox|right n-th wikipedia]
+> # <!-- IQ: =this.file.name -->S03 The Thelasian Webs<!-- /IQ -->
+> 
+> | Type | Stat |
+> | ---- | ---- |
+> | **Date** | <!-- IQ: =this.date -->2025-02-09<!-- /IQ --> |
+> | **Location** | <!-- IQ: =this.location -->Thelasian Lost City tunnels<!-- /IQ --> |
+> | **DM** | <!-- IQ: =this.dm -->Canato<!-- /IQ --> |
+> | **Party** | <!-- IQ: =this.party -->[[Party/Main/Aeris Whisperwind.md\|Aeris Whisperwind]], [[Party/Main/Mirr.md\|Mirr]], [[Party/Main/Selune.md\|Selune]]<!-- /IQ --> |
+
+
 ## 💡Key Learnings
 
 - Something is living in the deeper Thelasian tunnels

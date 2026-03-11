@@ -10,6 +10,17 @@ tags:
   - session
   - one-shot
 ---
+
+> [!infobox|right n-th wikipedia]
+> # <!-- IQ: =this.file.name -->O02 A Day at the Scarsith Temple<!-- /IQ -->
+> 
+> | Type | Stat |
+> | ---- | ---- |
+> | **Date** | <!-- IQ: =this.date -->2026-03-02<!-- /IQ --> |
+> | **Location** | <!-- IQ: =this.location -->Thornhaven<!-- /IQ --> |
+> | **DM** | <!-- IQ: =this.dm -->Canato<!-- /IQ --> |
+> | **Party** | <!-- IQ: =this.party -->[[Party/Extras/Brynn Ashveil.md\|Brynn]], [[Party/Extras/Quickfoot.md\|Quickfoot]], [[Party/Extras/Caelan Duskrow.md\|Caelan Duskrow]]<!-- /IQ --> |
+
 ## 💡Key Learnings 
 
 - Description of any important information that the party learned.

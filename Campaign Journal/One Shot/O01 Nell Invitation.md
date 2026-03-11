@@ -10,6 +10,17 @@ tags:
   - session
   - one-shot
 ---
+
+> [!infobox|right n-th wikipedia]
+> # <!-- IQ: =this.file.name -->O01 Nell Invitation<!-- /IQ -->
+> 
+> | Type | Stat |
+> | ---- | ---- |
+> | **Date** | <!-- IQ: =this.date -->2026-02-24<!-- /IQ --> |
+> | **Location** | <!-- IQ: =this.location -->Thornhaven<!-- /IQ --> |
+> | **DM** | <!-- IQ: =this.dm -->Canato<!-- /IQ --> |
+> | **Party** | <!-- IQ: =this.party -->[[Party/Extras/Brynn Ashveil.md\|Brynn]], [[Party/Extras/Quickfoot.md\|Quickfoot]], [[Party/Extras/Caelan Duskrow.md\|Caelan Duskrow]]<!-- /IQ --> |
+
 ## 💡Key Learnings
 
 - [lore:: The party arrived in [[Thornhaven]] responding to urgent letters from Priestess [[Nell]]]
