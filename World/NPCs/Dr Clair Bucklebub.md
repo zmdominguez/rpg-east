@@ -15,63 +15,63 @@ tags:
 
 ## 🗣️ Mentioned in
 
+
 #### Sessions
 
-%% DATAVIEW_PUBLISHER: start
-```
+<!-- QueryToSerialize: 
 LIST
 FROM "Campaign Journal"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: LIST FROM "Campaign Journal" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[S03 The Thelasian Webs]]
+- [[X00 Thelasian Lost City]]
 
-- [[Campaign Journal/Main/S03 The Thelasian Webs.md|S03 The Thelasian Webs]]
-- [[Campaign Journal/Cross Bone Inc/X00 Thelasian Lost City.md|X00 Thelasian Lost City]]
 
-%% DATAVIEW_PUBLISHER: end %%
+<!-- SerializedQuery END -->
+
 
 ##### NPCs
-%% DATAVIEW_PUBLISHER: start
-```
+
+<!-- QueryToSerialize: 
 LIST
 FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: LIST FROM "World/NPCs" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[Akor]]
 
-- [[World/NPCs/Akor.md|Akor]]
 
-%% DATAVIEW_PUBLISHER: end %%
+<!-- SerializedQuery END -->
+
 
 #### Party
-%% DATAVIEW_PUBLISHER: start
-```
+
+<!-- QueryToSerialize: 
 LIST
 FROM "Party"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
 
 
-
-%% DATAVIEW_PUBLISHER: end %%
 #### World
-%% DATAVIEW_PUBLISHER: start
-```
+
+<!-- QueryToSerialize: 
 LIST
 FROM "World"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: LIST FROM "World" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[Akor]]
+- [[Library]]
+- [[Timeline]]
 
-- [[World/NPCs/Akor.md|Akor]]
-- [[World/Locations/Thornhaven City/Library.md|Library]]
-- [[World/Timeline.md|Timeline]]
 
-%% DATAVIEW_PUBLISHER: end %%
+<!-- SerializedQuery END -->
+
 
 ---

@@ -16,66 +16,71 @@ tags:
 
 #### Sessions
 
-%% DATAVIEW_PUBLISHER: start
-```
+<!-- QueryToSerialize: 
 LIST
 FROM "Campaign Journal"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: LIST FROM "Campaign Journal" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[❓Questions❓]]
+- [[🔮 Lore 🔮]]
+- [[O01 Nell Invitation]]
+- [[O02 A Day at the Scarsith Temple]]
+- [[S01 Sir Alawin Van Trafford]]
 
-- [[Campaign Journal/❓Questions❓.md|❓Questions❓]]
-- [[Campaign Journal/🔮 Lore 🔮.md|🔮 Lore 🔮]]
-- [[Campaign Journal/One Shot/O01 Nell Invitation.md|O01 Nell Invitation]]
-- [[Campaign Journal/One Shot/O02 A Day at the Scarsith Temple.md|O02 A Day at the Scarsith Temple]]
-- [[Campaign Journal/Main/S01 Sir Alawin Van Trafford.md|S01 Sir Alawin Van Trafford]]
 
-%% DATAVIEW_PUBLISHER: end %%
+<!-- SerializedQuery END -->
+
 
 ##### NPCs
-%% DATAVIEW_PUBLISHER: start
-```
+
+<!-- QueryToSerialize: 
 LIST
 FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: LIST FROM "World/NPCs" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[Bramwell]]
 
-- [[World/NPCs/Bramwell.md|Bramwell]]
 
-%% DATAVIEW_PUBLISHER: end %%
+<!-- SerializedQuery END -->
+
 
 #### Party
-%% DATAVIEW_PUBLISHER: start
-```
+
+<!-- QueryToSerialize: 
 LIST
 FROM "Party"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: LIST FROM "Party" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[Brynn Ashveil]]
+- [[Quickfoot]]
 
-- [[Party/Extras/Brynn Ashveil.md|Brynn Ashveil]]
-- [[Party/Extras/Quickfoot.md|Quickfoot]]
 
-%% DATAVIEW_PUBLISHER: end %%
+<!-- SerializedQuery END -->
+
+
 #### World
-%% DATAVIEW_PUBLISHER: start
-```
+
+<!-- QueryToSerialize: 
 LIST
 FROM "World"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: LIST FROM "World" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[Bramwell]]
+- [[Scarsith Temple]]
+- [[Thornhaven]]
+- [[Timeline]]
 
-- [[World/NPCs/Bramwell.md|Bramwell]]
-- [[World/Locations/Thornhaven Region/Scarsith Temple.md|Scarsith Temple]]
-- [[World/Locations/Thornhaven.md|Thornhaven]]
-- [[World/Timeline.md|Timeline]]
 
-%% DATAVIEW_PUBLISHER: end %%
+<!-- SerializedQuery END -->
+
+
 
 ---

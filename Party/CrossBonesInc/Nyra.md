@@ -9,19 +9,21 @@ tags:
 ---
 
 > [!infobox|right n-th wikipedia]
-> # `=this.file.name`
+> # <!-- IQ: =this.file.name -->Nyra<!-- /IQ -->
 > ![[Nyra.png|cover hsmall]]
 > 
 > | Type | Stat |
 > | ---- | ---- |
-> | **Player** | `=this.player` |
-> | **Class** | `=this.class` |
-> | **Species** | `=this.species` |
+> | **Player** | <!-- IQ: =this.player -->Zarah<!-- /IQ --> |
+> | **Class** | <!-- IQ: =this.class -->Rogue<!-- /IQ --> |
+> | **Species** | <!-- IQ: =this.species -->Human<!-- /IQ --> |
 
+
+
+## 🕯️ Backstory
 
 ## 👨‍🎤 Description
 
-## 🕯️ Backstory
 
 ## 📝 Notes
 - Magical item -- cloak of Manta

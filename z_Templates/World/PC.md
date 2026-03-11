@@ -8,14 +8,15 @@ tags:
 ---
 
 > [!infobox|right n-th wikipedia]
-> # `=this.file.name`
+> # <!-- IQ: =this.file.name -->PC<!-- /IQ -->
 > ![[Placeholder.png|cover hsmall]]
 > 
 > | Type | Stat |
 > | ---- | ---- |
-> | **Player** | `=this.player` |
-> | **Class** | `=this.class` |
-> | **Species** | `=this.species` |
+> | **Player** | <!-- IQ: =this.player -->-<!-- /IQ --> |
+> | **Class** | <!-- IQ: =this.class -->-<!-- /IQ --> |
+> | **Species** | <!-- IQ: =this.species -->-<!-- /IQ --> |
+
 
 ## 🕯️ Backstory
 
@@ -23,5 +24,6 @@ tags:
 ## 👨‍🎤 Description
 - How does this creature look like?
 - Any defining characteristics?
+
 
 ## 📝 Notes

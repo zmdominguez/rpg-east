@@ -26,61 +26,61 @@ tags:
 
 #### Sessions
 
-%% DATAVIEW_PUBLISHER: start
-```
+<!-- QueryToSerialize: 
 LIST
 FROM "Campaign Journal"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: LIST FROM "Campaign Journal" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[S04 Finding Pipe]]
 
-- [[Campaign Journal/Main/S04 Finding Pipe.md|S04 Finding Pipe]]
 
-%% DATAVIEW_PUBLISHER: end %%
+<!-- SerializedQuery END -->
+
 
 ##### NPCs
-%% DATAVIEW_PUBLISHER: start
-```
+
+<!-- QueryToSerialize: 
 LIST
 FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: LIST FROM "World/NPCs" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[Pipe Ashford]]
 
-- [[World/NPCs/Pipe Ashford.md|Pipe Ashford]]
 
-%% DATAVIEW_PUBLISHER: end %%
+<!-- SerializedQuery END -->
+
 
 #### Party
-%% DATAVIEW_PUBLISHER: start
-```
+
+<!-- QueryToSerialize: 
 LIST
 FROM "Party"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
 
 
-
-%% DATAVIEW_PUBLISHER: end %%
 #### World
-%% DATAVIEW_PUBLISHER: start
-```
+
+<!-- QueryToSerialize: 
 LIST
 FROM "World"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: LIST FROM "World" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[Pipe Ashford]]
+- [[Timeline]]
+- [[Tinkboom Grounds]]
+- [[Veiled Peaks]]
 
-- [[World/NPCs/Pipe Ashford.md|Pipe Ashford]]
-- [[World/Timeline.md|Timeline]]
-- [[World/Locations/Thornhaven Region/Tinkboom Grounds.md|Tinkboom Grounds]]
-- [[World/Locations/Thornhaven Region/Veiled Peaks.md|Veiled Peaks]]
 
-%% DATAVIEW_PUBLISHER: end %%
+<!-- SerializedQuery END -->
+
+
 
 ---

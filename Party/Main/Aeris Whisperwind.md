@@ -9,20 +9,15 @@ tags:
 ---
 
 > [!infobox|right n-th wikipedia]
-> # `=this.file.name`
+> # <!-- IQ: =this.file.name -->Aeris Whisperwind<!-- /IQ -->
 > ![[Aeris-Whisperwind.png|cover hsmall]]
 > 
 > | Type | Stat |
 > | ---- | ---- |
-> | **Player** | `=this.player` |
-> | **Class** | `=this.class` |
-> | **Species** | `=this.species` |
+> | **Player** | <!-- IQ: =this.player -->Zarah<!-- /IQ --> |
+> | **Class** | <!-- IQ: =this.class -->Bard<!-- /IQ --> |
+> | **Species** | <!-- IQ: =this.species -->Wood Elf<!-- /IQ --> |
 
-## 👨‍🎤 Description
-
-Aeris Whisperwind is a soft-spoken half-elf whose presence is more felt than noticed. Slight and graceful, she carries a faint fragility but moves with deliberate poise. Her pale, faintly freckled skin and long silver-lavender hair frame luminous storm-gray eyes that seem to listen as much as they see.
-
-She dresses in elegant, dark practical clothing suited for quiet movement, wearing a silver quill-and-lyre pendant tied to her family. Almost always at her side is her rune-etched lyre, _Thalen’s Voice_, which subtly responds to her emotions. Rather than commanding attention with brightness, Aeris draws it like a hushed melody — calm, observant, and quietly haunting.
 
 ## 🕯️ Backstory
 
@@ -39,6 +34,12 @@ At twelve, Thalen vanished during a private performance for Elarion's high court
 Aeris named it Thalen’s Voice.
 
 Grief-stricken and betrayed by her mother’s silence, Aeris fled Elarion. With Thalen’s Voice at her side, she began to walk the world, weaving songs that stirred hearts and uncovered secrets, hoping that one day, they would lead her to the truth.
+
+## 👨‍🎤 Description
+
+Aeris Whisperwind is a soft-spoken half-elf whose presence is more felt than noticed. Slight and graceful, she carries a faint fragility but moves with deliberate poise. Her pale, faintly freckled skin and long silver-lavender hair frame luminous storm-gray eyes that seem to listen as much as they see.
+
+She dresses in elegant, dark practical clothing suited for quiet movement, wearing a silver quill-and-lyre pendant tied to her family. Almost always at her side is her rune-etched lyre, _Thalen’s Voice_, which subtly responds to her emotions. Rather than commanding attention with brightness, Aeris draws it like a hushed melody — calm, observant, and quietly haunting.
 
 ## 📝 Notes
 - Default musician at [[Cross Bones Pub]]

@@ -22,66 +22,66 @@ tags:
 
 #### Sessions
 
-%% DATAVIEW_PUBLISHER: start
-```
+<!-- QueryToSerialize: 
 LIST
 FROM "Campaign Journal"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: LIST FROM "Campaign Journal" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[❓Questions❓]]
+- [[🔮 Lore 🔮]]
+- [[O00 Owl Curse]]
+- [[O02 A Day at the Scarsith Temple]]
+- [[S00 The Quiet Year]]
+- [[S04 Finding Pipe]]
 
-- [[Campaign Journal/❓Questions❓.md|❓Questions❓]]
-- [[Campaign Journal/🔮 Lore 🔮.md|🔮 Lore 🔮]]
-- [[Campaign Journal/One Shot/O00 Owl Curse.md|O00 Owl Curse]]
-- [[Campaign Journal/One Shot/O02 A Day at the Scarsith Temple.md|O02 A Day at the Scarsith Temple]]
-- [[Campaign Journal/Main/S00 The Quiet Year.md|S00 The Quiet Year]]
-- [[Campaign Journal/Main/S04 Finding Pipe.md|S04 Finding Pipe]]
 
-%% DATAVIEW_PUBLISHER: end %%
+<!-- SerializedQuery END -->
+
 
 ##### NPCs
-%% DATAVIEW_PUBLISHER: start
-```
+
+<!-- QueryToSerialize: 
 LIST
 FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: LIST FROM "World/NPCs" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[Pipe Ashford]]
 
-- [[World/NPCs/Pipe Ashford.md|Pipe Ashford]]
 
-%% DATAVIEW_PUBLISHER: end %%
+<!-- SerializedQuery END -->
+
 
 #### Party
-%% DATAVIEW_PUBLISHER: start
-```
+
+<!-- QueryToSerialize: 
 LIST
 FROM "Party"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
 
 
-
-%% DATAVIEW_PUBLISHER: end %%
 #### World
-%% DATAVIEW_PUBLISHER: start
-```
+
+<!-- QueryToSerialize: 
 LIST
 FROM "World"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: LIST FROM "World" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[Pipe Ashford]]
+- [[Thornhaven]]
+- [[Timeline]]
+- [[TownHall]]
 
-- [[World/NPCs/Pipe Ashford.md|Pipe Ashford]]
-- [[World/Locations/Thornhaven.md|Thornhaven]]
-- [[World/Timeline.md|Timeline]]
-- [[World/Locations/Thornhaven City/TownHall.md|TownHall]]
 
-%% DATAVIEW_PUBLISHER: end %%
+<!-- SerializedQuery END -->
+
+
 
 ---

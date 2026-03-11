@@ -8,14 +8,14 @@ tags:
 ---
 
 > [!infobox|right n-th wikipedia]
-> # `=this.file.name`
+> # <!-- IQ: =this.file.name -->Caelan Duskrow<!-- /IQ -->
 > ![[Caelan-Duskrow.png|cover hsmall]]
 > 
 > | Type | Stat |
 > | ---- | ---- |
-> | **Player** | `=this.player` |
-> | **Class** | `=this.class` |
-> | **Species** | `=this.species` |
+> | **Player** | <!-- IQ: =this.player -->Vitor<!-- /IQ --> |
+> | **Class** | <!-- IQ: =this.class -->Paladin<!-- /IQ --> |
+> | **Species** | <!-- IQ: =this.species -->Elf<!-- /IQ --> |
 
 
 ## 🕯️ Backstory

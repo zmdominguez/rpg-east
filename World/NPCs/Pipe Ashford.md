@@ -26,65 +26,65 @@ status: missing
 
 #### Sessions
 
-%% DATAVIEW_PUBLISHER: start
-```
+<!-- QueryToSerialize: 
 LIST
 FROM "Campaign Journal"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: LIST FROM "Campaign Journal" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[O00 Owl Curse]]
+- [[S00 The Quiet Year]]
+- [[S04 Finding Pipe]]
 
-- [[Campaign Journal/One Shot/O00 Owl Curse.md|O00 Owl Curse]]
-- [[Campaign Journal/Main/S00 The Quiet Year.md|S00 The Quiet Year]]
-- [[Campaign Journal/Main/S04 Finding Pipe.md|S04 Finding Pipe]]
 
-%% DATAVIEW_PUBLISHER: end %%
+<!-- SerializedQuery END -->
+
 
 ##### NPCs
-%% DATAVIEW_PUBLISHER: start
-```
+
+<!-- QueryToSerialize: 
 LIST
 FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: LIST FROM "World/NPCs" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[Eman]]
+- [[Roderick Ashford]]
+- [[Venn]]
 
-- [[World/NPCs/Eman.md|Eman]]
-- [[World/NPCs/Roderick Ashford.md|Roderick Ashford]]
-- [[World/NPCs/Venn.md|Venn]]
 
-%% DATAVIEW_PUBLISHER: end %%
+<!-- SerializedQuery END -->
+
 
 #### Party
-%% DATAVIEW_PUBLISHER: start
-```
+
+<!-- QueryToSerialize: 
 LIST
 FROM "Party"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
 
 
-
-%% DATAVIEW_PUBLISHER: end %%
 #### World
-%% DATAVIEW_PUBLISHER: start
-```
+
+<!-- QueryToSerialize: 
 LIST
 FROM "World"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: LIST FROM "World" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[Eman]]
+- [[Roderick Ashford]]
+- [[Timeline]]
+- [[Venn]]
 
-- [[World/NPCs/Eman.md|Eman]]
-- [[World/NPCs/Roderick Ashford.md|Roderick Ashford]]
-- [[World/Timeline.md|Timeline]]
-- [[World/NPCs/Venn.md|Venn]]
 
-%% DATAVIEW_PUBLISHER: end %%
+<!-- SerializedQuery END -->
+
+
 
 ---

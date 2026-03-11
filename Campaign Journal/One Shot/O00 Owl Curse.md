@@ -11,6 +11,17 @@ tags:
   - session
   - one-shot
 ---
+
+> [!infobox|right n-th wikipedia]
+> # <!-- IQ: =this.file.name -->O00 Owl Curse<!-- /IQ -->
+> 
+> | Type | Stat |
+> | ---- | ---- |
+> | **Date** | <!-- IQ: =this.date -->2026-01-19<!-- /IQ --> |
+> | **Location** | <!-- IQ: =this.location -->Thornhaven<!-- /IQ --> |
+> | **DM** | <!-- IQ: =this.dm -->Canato<!-- /IQ --> |
+> | **Party** | <!-- IQ: =this.party -->Kaepora - Fiona, Silverwing - Marco, Talonshade - Vitor, Moris - Zarah<!-- /IQ --> |
+
 ## 💡Key Learnings
 
 - [lore:: [[Eman]] is a Druid from the Owl cult who should help the cult against the #pioneer but decided to rule the city]
