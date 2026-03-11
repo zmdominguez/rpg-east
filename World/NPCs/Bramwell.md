@@ -22,59 +22,59 @@ tags:
 
 #### Sessions
 
-%% DATAVIEW_PUBLISHER: start
-```
+<!-- QueryToSerialize: 
 LIST
 FROM "Campaign Journal"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: LIST FROM "Campaign Journal" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[O01 Nell Invitation]]
+- [[O02 A Day at the Scarsith Temple]]
 
-- [[Campaign Journal/One Shot/O01 Nell Invitation.md|O01 Nell Invitation]]
-- [[Campaign Journal/One Shot/O02 A Day at the Scarsith Temple.md|O02 A Day at the Scarsith Temple]]
 
-%% DATAVIEW_PUBLISHER: end %%
+<!-- SerializedQuery END -->
+
 
 ##### NPCs
-%% DATAVIEW_PUBLISHER: start
-```
+
+<!-- QueryToSerialize: 
 LIST
 FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: LIST FROM "World/NPCs" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[Nell]]
 
-- [[World/NPCs/Nell.md|Nell]]
 
-%% DATAVIEW_PUBLISHER: end %%
+<!-- SerializedQuery END -->
+
 
 #### Party
-%% DATAVIEW_PUBLISHER: start
-```
+
+<!-- QueryToSerialize: 
 LIST
 FROM "Party"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
 
 
-
-%% DATAVIEW_PUBLISHER: end %%
 #### World
-%% DATAVIEW_PUBLISHER: start
-```
+
+<!-- QueryToSerialize: 
 LIST
 FROM "World"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: LIST FROM "World" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[Nell]]
 
-- [[World/NPCs/Nell.md|Nell]]
 
-%% DATAVIEW_PUBLISHER: end %%
+<!-- SerializedQuery END -->
+
+
 
 ---

@@ -8,22 +8,22 @@
 
 #### 👯 Party
 
-%% DATAVIEW_PUBLISHER: start
-```
+<!-- QueryToSerialize: 
 TABLE WITHOUT ID player as Player, file.link AS Character, class as Class, species as Species
 FROM "Party/Main"
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: TABLE WITHOUT ID player as Player, file.link AS Character, class as Class, species as Species FROM "Party/Main" SORT file.name ASC -->
 
 | Player | Character                                              | Class                                     | Species  |
 | ------ | ------------------------------------------------------ | ----------------------------------------- | -------- |
-| Zarah  | [[Party/Main/Aeris Whisperwind.md\|Aeris Whisperwind]] | <ul><li>Bard</li></ul>                    | Wood Elf |
-| Marco  | [[Party/Main/Kass.md\|Kass]]                           | \-                                        | \-       |
-| Fiona  | [[Party/Main/Mirr.md\|Mirr]]                           | <ul><li>Warlock</li><li>Fighter</li></ul> | Goliath  |
-| Ju     | [[Party/Main/Selune.md\|Selune]]                       | <ul><li>Druid</li></ul>                   | Wood Elf |
+| Zarah  | [[Aeris Whisperwind]] | <ul><li>Bard</li></ul>                    | Wood Elf |
+| Marco  | [[Kass]]                           | \-                                        | \-       |
+| Fiona  | [[Mirr]]                           | <ul><li>Warlock</li><li>Fighter</li></ul> | Goliath  |
+| Ju     | [[Selune]]                       | <ul><li>Druid</li></ul>                   | Wood Elf |
 
-%% DATAVIEW_PUBLISHER: end %%
+
+<!-- SerializedQuery END -->
 
 
 #### 👮 House rules:
@@ -39,50 +39,50 @@ SORT file.name ASC
 ---
 ## 📚 Session Index
 
-%% DATAVIEW_PUBLISHER: start
-```
+<!-- QueryToSerialize: 
 LIST
 FROM "Campaign Journal/Main"
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: LIST FROM "Campaign Journal/Main" SORT file.name ASC -->
+- [[S00 The Quiet Year]]
+- [[S01 Sir Alawin Van Trafford]]
+- [[S02 Hostage Hoax]]
+- [[S03 The Thelasian Webs]]
+- [[S04 Finding Pipe]]
 
-- [[Campaign Journal/Main/S00 The Quiet Year.md|S00 The Quiet Year]]
-- [[Campaign Journal/Main/S01 Sir Alawin Van Trafford.md|S01 Sir Alawin Van Trafford]]
-- [[Campaign Journal/Main/S02 Hostage Hoax.md|S02 Hostage Hoax]]
-- [[Campaign Journal/Main/S03 The Thelasian Webs.md|S03 The Thelasian Webs]]
-- [[Campaign Journal/Main/S04 Finding Pipe.md|S04 Finding Pipe]]
 
-%% DATAVIEW_PUBLISHER: end %%
-
+<!-- SerializedQuery END -->
 
 
 ### ☠️ Cross Bones
-%% DATAVIEW_PUBLISHER: start
-```
+
+<!-- QueryToSerialize: 
 LIST
 FROM "Campaign Journal/Cross Bone Inc"
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: LIST FROM "Campaign Journal/Cross Bone Inc" SORT file.name ASC -->
+- [[X00 Thelasian Lost City]]
 
-- [[Campaign Journal/Cross Bone Inc/X00 Thelasian Lost City.md|X00 Thelasian Lost City]]
 
-%% DATAVIEW_PUBLISHER: end %%
+<!-- SerializedQuery END -->
+
 
 ### 🎯 One Shots
-%% DATAVIEW_PUBLISHER: start
-```
+
+<!-- QueryToSerialize: 
 LIST
 FROM "Campaign Journal/One Shot"
 SORT file.name ASC
-```
-%%
+-->
+<!-- SerializedQuery: LIST FROM "Campaign Journal/One Shot" SORT file.name ASC -->
+- [[O00 Owl Curse]]
+- [[O01 Nell Invitation]]
+- [[O02 A Day at the Scarsith Temple]]
 
-- [[Campaign Journal/One Shot/O00 Owl Curse.md|O00 Owl Curse]]
-- [[Campaign Journal/One Shot/O01 Nell Invitation.md|O01 Nell Invitation]]
-- [[Campaign Journal/One Shot/O02 A Day at the Scarsith Temple.md|O02 A Day at the Scarsith Temple]]
 
-%% DATAVIEW_PUBLISHER: end %%
+<!-- SerializedQuery END -->
+
 
 ---

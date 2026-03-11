@@ -1,2 +1,0 @@
-%%
-%% DATAVIEW_PUBLISHER: end %%

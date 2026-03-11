@@ -9,17 +9,15 @@ tags:
 ---
 
 > [!infobox|right n-th wikipedia]
-> # `=this.file.name`
+> # <!-- IQ: =this.file.name -->Selune<!-- /IQ -->
 > ![[Selune.png|cover hsmall]]
 > 
 > | Type | Stat |
 > | ---- | ---- |
-> | **Player** | `=this.player` |
-> | **Class** | `=this.class` |
-> | **Species** | `=this.species` |
+> | **Player** | <!-- IQ: =this.player -->Ju<!-- /IQ --> |
+> | **Class** | <!-- IQ: =this.class -->Druid<!-- /IQ --> |
+> | **Species** | <!-- IQ: =this.species -->Wood Elf<!-- /IQ --> |
 
-
-## 👨‍🎤 Description
 
 ## 🕯️ Backstory
 
@@ -40,5 +38,8 @@ She is the moon’s daughter—whether the moon wanted her or not.
 
 - Has trouble understanding social customs and unnecessary small talk.
 - Animals often behave strangely around her—curious, cautious, or protective.
+
+## 👨‍🎤 Description
+
 
 ## 📝 Notes

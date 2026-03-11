@@ -2,6 +2,6 @@
   "templater-obsidian",
   "obsidian-leaflet-plugin",
   "dataview",
-  "dataview-publisher",
-  "obsidian42-brat"
+  "obsidian42-brat",
+  "dataview-serializer"
 ]

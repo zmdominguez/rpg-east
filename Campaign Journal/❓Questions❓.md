@@ -1,22 +1,23 @@
-%% DATAVIEW_PUBLISHER: start
-```
+<!-- QueryToSerialize: 
 LIST question
 WHERE question AND file.name != "CLAUDE"
 SORT file.name ASC
-```
-%%
-
-- [[Campaign Journal/One Shot/O02 A Day at the Scarsith Temple.md|O02 A Day at the Scarsith Temple]]: 
+-->
+<!-- SerializedQuery: LIST question WHERE question AND file.name != "CLAUDE" SORT file.name ASC -->
+- [[O02 A Day at the Scarsith Temple]]: 
     - What are [[Nell]] and  [[Eman]] up to?
     - Who is telling the truth between Bramwell and Ren?
 
-- [[Campaign Journal/Main/S00 The Quiet Year.md|S00 The Quiet Year]]: Adventuring party name?
-- [[Campaign Journal/Main/S01 Sir Alawin Van Trafford.md|S01 Sir Alawin Van Trafford]]: what do I mean by this
-- [[Campaign Journal/Main/S02 Hostage Hoax.md|S02 Hostage Hoax]]: Laurel Quay (name?)
-- [[Campaign Journal/Main/S03 The Thelasian Webs.md|S03 The Thelasian Webs]]: Who is "the Weaver"?
-- [[Campaign Journal/Main/S04 Finding Pipe.md|S04 Finding Pipe]]: 
+- [[S00 The Quiet Year]]: Adventuring party name?
+- [[S01 Sir Alawin Van Trafford]]: what do I mean by this
+- [[S02 Hostage Hoax]]: Laurel Quay (name?)
+- [[S03 The Thelasian Webs]]: Who is "the Weaver"?
+- [[S04 Finding Pipe]]: 
     - Who is the in Venn's cabin?
     - What does the white wolf want?
 
-%% DATAVIEW_PUBLISHER: end %%
+
+
+<!-- SerializedQuery END -->
+
 

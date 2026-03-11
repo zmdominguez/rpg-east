@@ -22,7 +22,7 @@ This is an Obsidian vault for managing a tabletop RPG campaign called "East RPG.
 ## Key Conventions
 - Wiki-links: `[[Name]]` for cross-references
 - YAML front matter on all content files
-- Dataview Publisher markers: `%% DATAVIEW_PUBLISHER: start/end %%`
+- Dataview Serializer markers: `<!-- QueryToSerialize: <query> -->`
 - Plot hooks syntax: `[question:: Question text]`
 
 ## Available Skills

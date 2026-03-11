@@ -8,17 +8,14 @@ tags:
 ---
 
 > [!infobox|right n-th wikipedia]
-> # `=this.file.name`
-> ![[Placeholder.png|cover hsmall]]
+> # <!-- IQ: =this.file.name -->Brynn Ashveil<!-- /IQ -->
+> ![[Brynn-Ashveil.png|cover hsmall]]
 > 
 > | Type | Stat |
 > | ---- | ---- |
-> | **Player** | `=this.player` |
-> | **Class** | `=this.class` |
-> | **Species** | `=this.species` |
-
-
-![[Brynn-Ashveil.png|400]]
+> | **Player** | <!-- IQ: =this.player -->Zarah<!-- /IQ --> |
+> | **Class** | <!-- IQ: =this.class -->Cleric<!-- /IQ --> |
+> | **Species** | <!-- IQ: =this.species -->Halfling<!-- /IQ --> |
 
 ## 🕯️ Backstory
 
