@@ -26,11 +26,11 @@ SORT file.name ASC
 <!-- SerializedQuery END -->
 
 
-#### 👮 House rules:
+#### 👮 House rules
 - 💰Add expenses to the [Splitwise group](https://www.splitwise.com/join/incW2So3Dry+1mkx8?v=e)
 - 🍿 Players in charge of snacks: vegetarian, no shrimp, no crab
 
-#### 🌏 World rules:
+#### 🌏 World rules
 - No equipment weight limit
 
 ### 🔗 Links

@@ -31,7 +31,7 @@ tags:
 - [[Roderick Ashford]] is Pipe's father - still believes she's alive
 - [[Venn]] is the Waterkeeper who maintains the mountain irrigation channels
 - Venn built most of Thornhaven's structures including the rock fence, houses, water channels, and [[Scarsith Temple]]
-- The [[World/Thornhaven Region/Veiled Peaks]] are dangerous - cold, wolves, and harsh weather
+- The [[Veiled Peaks]] are dangerous - cold, wolves, and harsh weather
 
 
 ## 🤝 Who Did We Meet?
