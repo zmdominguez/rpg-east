@@ -28,7 +28,7 @@
 
 - **The Owl Cult Incident** - A group from the [[Halfheight Forest|Owl Cult]] enters Thornhaven seeking [[Eman]]. Their investigation causes a public scandal when Eman spots an owl familiar and raises the alarm.
 - **The Saving War** - [[Eman]] commands Thornhaven's army to push the Owls away from the city. The victory establishes her authority and she becomes Mayor.
-- **[[Pipe Ashford]] Goes Missing** - After years of obsession with [[Blood root]], Pipe disappears into the [[World/Thornhaven Region/Veiled Peaks|Veiled Peaks]]. Search efforts eventually cease.
+- **[[Pipe Ashford]] Goes Missing** - After years of obsession with [[Blood root]], Pipe disappears into the [[Veiled Peaks]]. Search efforts eventually cease.
 
 ---
 
