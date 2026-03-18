@@ -1,9 +1,8 @@
+%% [Syntax reference](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callouts/Callout+-+Timeline) %%
 
 > [!timeline|t-l]- **Ancient Times**
 > **The Owl Curse** - An unknown transgression led to people being transformed into owls as punishment. These cursed beings now inhabit the [[Halfheight Forest]] near the lake.
 > **The Thelasian Civilization** - An advanced underground society flourished beneath the swamps. Their cities featured cleansing pools, bioluminescent lighting, and golem servants. The civilization eventually fell silent, leaving behind sealed ruins.
-> [!timeline|t-r t-4] **Title** *Subtitle*
-> Right aligned timeline piece
 
 > [!timeline|t-r t-5]- **Year 0** *The Quiet Year*
 > - **End of the Jackal War** - A period of peace begins after conflict with the Jackals
@@ -19,7 +18,7 @@
 > [!timeline|t-r t-1]- **Year 2** *[[O00 Owl Curse]]*
 > - **The Owl Cult Incident** - A group from the [[Halfheight Forest|Owl Cult]] enters Thornhaven seeking [[Eman]]. Their investigation causes a public scandal when Eman spots an owl familiar and raises the alarm.
 > - **The Saving War** - [[Eman]] commands Thornhaven's army to push the Owls away from the city. The victory establishes her authority and she becomes Mayor.
-> - **[[Pipe Ashford]] Goes Missing** - After years of obsession with [[Blood root]], Pipe disappears into the [[World/Thornhaven Region/Veiled Peaks|Veiled Peaks]]. Search efforts eventually cease.
+> - **[[Pipe Ashford]] Goes Missing** - After years of obsession with [[Blood root]], Pipe disappears into the [[Veiled Peaks]]. Search efforts eventually cease.
 
 > [!timeline|t-l t-1]- Year 3 *[[O01 Nell Invitation]]*
 > - **Thornhaven Prospers** - Under [[Eman]]'s leadership, the city continues to develop
