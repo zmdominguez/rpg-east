@@ -1,11 +1,11 @@
 ---
 name: Pipe Ashford
+status: Missing
 species: Human
 occupation: Settler
 location: Unknown (last seen Veiled Peaks)
 tags:
   - npc
-status: missing
 ---
 ## 👨‍🎤 Description
 - Human woman, late 20s
@@ -80,6 +80,7 @@ SORT file.name ASC
 - [[Eman]]
 - [[Roderick Ashford]]
 - [[Timeline]]
+- [[Timeline Graph]]
 - [[Venn]]
 
 

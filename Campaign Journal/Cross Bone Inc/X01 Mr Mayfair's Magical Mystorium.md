@@ -20,11 +20,11 @@ tags:
 > | **Date** | <!-- IQ: =this.date -->2026-03-23<!-- /IQ --> |
 > | **Location** | <!-- IQ: =this.location -->Thornhaven<!-- /IQ --> |
 > | **DM** | <!-- IQ: =this.dm -->Fiona<!-- /IQ --> |
-> | **Party** | <!-- IQ: =this.party -->[[Party/CrossBonesInc/Jinx.md\|Jinx]], [[Party/CrossBonesInc/Nyra.md\|Nyra]], [[Party/CrossBonesInc/Reverend Aldric.md\|Reverend Aldric]], [[Party/Main/Selune.md\|Selune]]<!-- /IQ --> |
+> | **Party** | <!-- IQ: =this.party -->[[Party/CrossBonesInc/Jinx.md\|Jinx]], [[Party/CrossBonesInc/Nyra.md\|Nyra]], [[Party/Retired/Reverend Aldric.md\|Reverend Aldric]], [[Party/Main/Selune.md\|Selune]]<!-- /IQ --> |
 
 ## 💡Key Learnings 
 
-- [[Reverend Aldric]]'s daughter is the biological daughter of [[Mr Mayfair]]
+- [[Reverend Aldric]]'s daughter is the alleged biological daughter of [[Mr Mayfair]]
 
 
 ## 🤝 Who Did We Meet? 
@@ -57,6 +57,7 @@ tags:
 - The party heads towards the maze
 	- It is weirdly much quieter here
 	- The little girl is now standing near the entrance to the maze
+	- [[Reverend Aldric]] decides to follow the girl, despite knowing it is a trap
 - Party enters the maze
 	- Initially looks like a classic mirror maze
 	- [[Toodle]] appears
@@ -86,7 +87,8 @@ tags:
 			- This move is now known as "The Tango"
 			- His doppelganger flees out of the room
 		- The rest of the party decide to The Tango with their own doppelgangers
-		- The party all leave the room
+		- Without doing any further investigation, the party all leave the room
+			- There are clocks on the wall with unmatched times that would have unlocked the door
 	- Third room
 		- Everyone comes up to a mirror, not unlike the Mirror of Erised
 		- [[Toodle]]'s reflection in the mirror shows her hovering over a huge pile of bones

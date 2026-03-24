@@ -1,5 +1,6 @@
 ---
 name: <% tp.file.title %>
+status:
 species:
 occupation:
 location:

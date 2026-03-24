@@ -1,5 +1,6 @@
 ---
 name: Dr Clair Bucklebub
+status: Alive
 species: Halfling
 occupation: Archaeologist
 location: Thornhaven
@@ -69,6 +70,7 @@ SORT file.name ASC
 - [[Akor]]
 - [[Library]]
 - [[Timeline]]
+- [[Timeline Graph]]
 
 
 <!-- SerializedQuery END -->

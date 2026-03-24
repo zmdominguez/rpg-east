@@ -1,8 +1,9 @@
 ---
 name: Toodle
-species:
-occupation:
-location:
+status: Unconscious
+species: Constructor
+occupation: ex-Mayfair host
+location: "[[Jinx]]"
 tags:
   - npc
 ---
@@ -40,6 +41,11 @@ FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
+<!-- SerializedQuery: LIST FROM "World/NPCs" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[Mr Mayfair]]
+
+
+<!-- SerializedQuery END -->
 
 
 #### Party
@@ -60,6 +66,11 @@ FROM "World"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
+<!-- SerializedQuery: LIST FROM "World" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[Mr Mayfair]]
+
+
+<!-- SerializedQuery END -->
 
 
 ---

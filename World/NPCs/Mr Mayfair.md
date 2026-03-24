@@ -1,8 +1,9 @@
 ---
 name: Mr Mayfair
+status: Deceased
 species:
 occupation:
-location:
+location: Buried in the Thornhaven Graveyard
 tags:
   - npc
 ---
@@ -13,6 +14,7 @@ tags:
 ## 📝 Notes
 - His magic powers the fair
 - The traveling fair moves from city to city as he searches for his daughter
+- Allegedly the biological father of [[Reverend Aldric]]'s adopter daughter
 
 ## 🗣️ Mentioned in
 
