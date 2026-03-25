@@ -64,6 +64,7 @@ SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "Campaign Journal/Cross Bone Inc" SORT file.name ASC -->
 - [[X00 Thelasian Lost City]]
+- [[X01 Mr Mayfair's Magical Mystorium]]
 
 
 <!-- SerializedQuery END -->

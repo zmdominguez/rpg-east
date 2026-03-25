@@ -1,5 +1,6 @@
 ---
 name: Bramwell
+status:
 species: Halfling
 occupation: Priest
 location: Thornhaven

@@ -1,26 +1,20 @@
 ---
-name: Pipe Ashford
-status: Missing
-species: Human
-occupation: Settler
-location: Unknown (last seen Veiled Peaks)
+name: Mr Mayfair
+status: Deceased
+species:
+occupation:
+location: Buried in the Thornhaven Graveyard
 tags:
   - npc
 ---
 ## 👨‍🎤 Description
-- Human woman, late 20s
-- Red hair
-- One of the original settlers of Thornhaven
+- How does this creature look like?
+- Any defining characteristics?
 
 ## 📝 Notes
-- Daughter of [[Roderick Ashford]] and Maren
-- One of the first settlers - arrived during the founding of Thornhaven
-- Knew of a place nearby with good wood
-- Mother Maren died during the Quiet Year from a wasting illness
-- After her mother's death, became obsessed with understanding [[Blood root]]
-- Disappeared mysteriously three years ago
-- Recently spotted by [[Venn]] near Cloudbreak Pass in the [[World/Thornhaven Region/Veiled Peaks]]
-- [[Eman]] wants to find her
+- His magic powers the fair
+- The traveling fair moves from city to city as he searches for his daughter
+- Allegedly the biological father of [[Reverend Aldric]]'s adopter daughter
 
 ## 🗣️ Mentioned in
 
@@ -33,9 +27,7 @@ WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "Campaign Journal" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
-- [[O00 Owl Curse]]
-- [[S00 The Quiet Year]]
-- [[S04 Finding Pipe]]
+- [[X01 Mr Mayfair's Magical Mystorium]]
 
 
 <!-- SerializedQuery END -->
@@ -50,9 +42,7 @@ WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "World/NPCs" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
-- [[Eman]]
-- [[Roderick Ashford]]
-- [[Venn]]
+- [[Toodle]]
 
 
 <!-- SerializedQuery END -->
@@ -77,15 +67,10 @@ WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "World" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
-- [[Eman]]
-- [[Roderick Ashford]]
-- [[Timeline]]
-- [[Timeline Graph]]
-- [[Venn]]
+- [[Toodle]]
 
 
 <!-- SerializedQuery END -->
-
 
 
 ---
