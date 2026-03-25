@@ -3,7 +3,7 @@ name: Toodle
 status: Unconscious
 species: Constructor
 occupation: ex-Mayfair host
-location: "[[Jinx]]"
+location: "[[Jinx|with Jinx]]"
 tags:
   - npc
 ---
