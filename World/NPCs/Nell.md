@@ -68,15 +68,13 @@ SORT file.name ASC
 
 <!-- QueryToSerialize: 
 LIST
-FROM "World"
+FROM "World/Locations"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
-<!-- SerializedQuery: LIST FROM "World" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
-- [[Bramwell]]
+<!-- SerializedQuery: LIST FROM "World/Locations" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
 - [[Scarsith Temple]]
 - [[Thornhaven]]
-- [[Timeline]]
 
 
 <!-- SerializedQuery END -->
