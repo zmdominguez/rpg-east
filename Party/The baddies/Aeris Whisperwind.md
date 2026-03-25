@@ -8,15 +8,56 @@ tags:
   - party
 ---
 
-> [!infobox|right n-th wikipedia]
-> # <!-- IQ: =this.file.name -->Aeris Whisperwind<!-- /IQ -->
-> ![[Aeris-Whisperwind.png|cover hsmall]]
+> [!statblocks]
+> ![[Aeris-Whisperwind.png|cover right circle p+tc htiny wtiny lp]]
 > 
-> | Type | Stat |
+> # <!-- IQ: =this.file.name -->Aeris Whisperwind<!-- /IQ -->
+>
+> |  |  |
 > | ---- | ---- |
 > | **Player** | <!-- IQ: =this.player -->Zarah<!-- /IQ --> |
 > | **Class** | <!-- IQ: =this.class -->Bard<!-- /IQ --> |
-> | **Species** | <!-- IQ: =this.species -->Wood Elf<!-- /IQ --> |
+> | **Species** | <!-- IQ: =this.species -->Wood Elf<!-- /IQ --> | 
+> | **Level** | 4 | 
+> 
+> ---
+| HP | AC | Initiative |
+|:---:|:---:|:---:|
+| 20 | 13 |  +2 |
+>
+| STR | DEX | CON | INT | WIS | CHA |  |
+|:---:|:---:|:---:|:---:|:---:|:---:|:--- |
+| 8 | 14  | 8 | 14 | 17 | 18 |  |
+| -1 | +2 | -1 | +2 | +3 | +4 | **Mod** |
+| -1 | +4 | -1 | +2 | +3 | +6 | **Sav** |
+>
+>> \*ADV made to avoid or end the Charmed condition
+>
+|  |  |
+| ---:|:--- |
+| **Speed** | 35ft |
+| **Passive Perception (WIS)** | 17 |
+| **Proficiency Bonus** | +2 |
+| **Darkvision** | 60ft |
+>
+> ---
+>> ## Traits
+| | |
+| --- | :--- |
+| **Fey Ancestry** | Advantage on saving throws to avoid or end the Charmed condition |
+| **Trance** | Magic can’t put you to sleep; finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness |
+>> 
+>
+>> ## Feats
+>> 
+>> _**Inspiring Leader**_
+>> **Ability Score Increase**. Increase your Wisdom or Charisma score by 1, to a maximum of 20: CHA
+>> **Bolstering Performance**. When you finish a Short or Long Rest, you can give an inspiring performance: a speech, song, or dance. When you do so, choose up to six allies (which can include yourself) within 30 feet of yourself who witness the performance. The chosen creatures each gain Temporary Hit Points equal to your character level plus the modifier of the ability you increased with this feat.
+>> 
+>> _**Musician**_
+>> **Instrument Training**. You gain proficiency with three Musical Instruments of your choice: Viol, Pan Flute, Flute.
+>> **Encouraging Song**. As you finish a Short or Long Rest, you can play a song on a Musical Instrument with which you have proficiency and give Heroic Inspiration to allies who hear the song. The number of allies you can affect in this way equals your Proficiency Bonus.
+
 
 
 ## 🕯️ Backstory
