@@ -71,7 +71,7 @@ ClaudeBook files are plain narrative markdown with **no YAML frontmatter**. Stru
 The file `World/Timeline.md` tracks major world history. When significant events occur (wars, political changes, discoveries), suggest updating the timeline. Individual session details don't belong there - only world-changing events.
 
 ## Campaign
-- DM: Canato
+- DM: (set in session YAML frontmatter)
 - Schedule: Mondays 6pm
 - Location: Kingsford NSW
 

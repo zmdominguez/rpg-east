@@ -41,7 +41,7 @@ date: YYYY-MM-DD
 location:
   - "[[Location1]]"
   - "[[Location2]]"
-dm: Canato
+dm: "[[DM Name]]"
 party:
   - "[[Character1]]"
   - "[[Character2]]"
