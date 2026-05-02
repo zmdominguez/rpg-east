@@ -33,7 +33,27 @@ Convert a detailed session note into a narrative summary for the ClaudeBook (web
    - Main narrative covering the session events
    - Closing paragraph with cliffhangers or open questions
 
-5. Save to `ClaudeBook/[Session Title].md` or show to user for review
+5. Save to `ClaudeBook/[## Title].md` using this structure:
+
+```markdown
+# [Chapter Title]
+
+---
+
+[Narrative prose...]
+
+---
+
+*Based on the events of [[S## Session Title]]*
+
+---
+
+[[Previous Chapter|← Prev Chapter Title]] | [[00 Index|Back to Index]] | [[Next Chapter|Next Chapter Title →]]
+```
+
+   - No YAML frontmatter (ClaudeBook files use plain markdown)
+   - Ask the user for the previous and next chapter titles for navigation links
+   - If unknown, use placeholder text
 
 6. The tone should be:
    - Third-person narrative

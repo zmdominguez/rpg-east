@@ -28,9 +28,10 @@ Create a new NPC (Non-Player Character) file.
 ```markdown
 ---
 name: [NPC Name]
+status: Active
 species: [Species]
 occupation: [Occupation]
-location: [[Location]]
+location: "[[Location]]"
 tags:
   - npc
 ---

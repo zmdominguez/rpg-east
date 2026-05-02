@@ -21,6 +21,8 @@ Generate a current party status overview.
 1. Read all character files from:
    - `Party/Main/` for main campaign
    - `Party/CrossBonesInc/` for Cross Bones campaign
+   - `Party/Extras/` for supporting/extra characters (include if `campaign` is "all")
+   - `Party/Retired/` for retired characters (include only if explicitly requested)
 
 2. Extract from each character's YAML front matter:
    - player

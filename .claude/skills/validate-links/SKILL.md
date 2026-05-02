@@ -18,11 +18,18 @@ Check for broken wiki-links across the vault.
 
 ## Instructions
 
-1. Scan all markdown files for wiki-link patterns: `[[Link Name]]`
+1. First, try the Obsidian CLI for a fast vault-aware check:
+```bash
+obsidian unresolved
+```
+If Obsidian is running, this returns all broken links natively. Report those results directly.
 
-2. For each link found, check if a corresponding file exists:
-   - Direct match: `[[Name]]` -> `Name.md` anywhere in vault
-   - Path match: `[[Folder/Name]]` -> `Folder/Name.md`
+2. If Obsidian CLI is unavailable (not running), fall back to manual scan:
+   - Search all markdown files for wiki-link patterns: `[[Link Name]]`
+   - For each link check if a corresponding file exists:
+     - Direct match: `[[Name]]` → `Name.md` anywhere in vault
+     - Path match: `[[Folder/Name]]` → `Folder/Name.md`
+   - Exclude: links inside code blocks, links in `z_Templates/`, external URLs
 
 3. Report findings:
 ```markdown
@@ -31,20 +38,12 @@ Check for broken wiki-links across the vault.
 ### Missing Files
 - `[[Unknown NPC]]` referenced in:
   - Campaign Journal/Main/S04 Finding Pipe.md (line 45)
-  - NPCs/Other Character.md (line 12)
 
 ### Suggestions
 - `[[Veiled Peak]]` might be `[[Veiled Peaks]]` (typo?)
 
 ## Summary
-- Total links checked: X
-- Valid links: Y
-- Broken links: Z
+- Total broken links: X
 ```
 
-4. Exclude checking:
-   - Links inside code blocks
-   - Links in templates (`z_Templates/`)
-   - External URLs
-
-5. Offer to create stub files for any missing entries if the user wants
+4. Offer to create stub files for any missing entries if the user wants

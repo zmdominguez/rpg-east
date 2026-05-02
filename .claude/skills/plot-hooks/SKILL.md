@@ -16,15 +16,19 @@ Extract and compile all unresolved plot hooks and mysteries from session notes.
 
 ## Instructions
 
-1. Search all files in `Campaign Journal/` for the pattern `[question:: ...]`
+1. Search for the pattern `[question:: ...]` across:
+   - All files in `Campaign Journal/`
+   - All NPC files in `World/NPCs/`
+   - All Party files in `Party/`
 
 2. Also look for:
    - Unanswered questions in session notes
-   - Cliffhangers at session endings
+   - Cliffhangers at session endings (especially the last bullet in Session Notes sections)
    - Mysteries mentioned in Key Learnings sections
-   - NPCs with unresolved storylines
+   - NPCs with unresolved storylines (status: Missing, Unknown)
 
 3. Compile results into a structured list organized by:
+   - Campaign (Main / Cross Bones / One Shot)
    - Session where introduced
    - Related NPCs/Locations
    - Status (if appears resolved in later sessions)
