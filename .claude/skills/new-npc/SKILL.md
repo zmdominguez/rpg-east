@@ -1,3 +1,10 @@
+---
+name: new-npc
+description: Create a new NPC file from template. Use when introducing a new character to the campaign.
+allowed-tools: Read Write Glob
+model: claude-sonnet-4-6
+---
+
 # /new-npc
 
 Create a new NPC (Non-Player Character) file.

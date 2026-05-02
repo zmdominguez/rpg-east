@@ -1,3 +1,10 @@
+---
+name: validate-links
+description: Check for broken wiki-links across the vault. Use before committing or publishing to catch missing file references.
+allowed-tools: Read Glob Grep Bash
+model: claude-sonnet-4-6
+---
+
 # /validate-links
 
 Check for broken wiki-links across the vault.

@@ -1,3 +1,10 @@
+---
+name: plot-hooks
+description: Extract unresolved plot hooks and mysteries from session notes. Use to track open storylines and ensure nothing is forgotten.
+allowed-tools: Read Glob Grep
+model: claude-sonnet-4-6
+---
+
 # /plot-hooks
 
 Extract and compile all unresolved plot hooks and mysteries from session notes.

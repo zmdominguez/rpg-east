@@ -1,3 +1,10 @@
+---
+name: world-entry
+description: Create a new world location entry. Use when introducing a new city, region, or establishment to the campaign world.
+allowed-tools: Read Write Glob
+model: claude-sonnet-4-6
+---
+
 # /world-entry
 
 Create a new world location entry.

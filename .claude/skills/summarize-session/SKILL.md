@@ -1,3 +1,10 @@
+---
+name: summarize-session
+description: Convert a session note into narrative prose for ClaudeBook web publishing. Use after each session to create the story chapter.
+allowed-tools: Read Write Glob
+model: claude-sonnet-4-6
+---
+
 # /summarize-session
 
 Convert a detailed session note into a narrative summary for the ClaudeBook (web publishing).
