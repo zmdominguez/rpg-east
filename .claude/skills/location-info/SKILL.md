@@ -4,6 +4,7 @@ description: Find all sessions, NPCs, and events related to a location. Use to r
 argument-hint: [location_name]
 allowed-tools: Read Glob Grep
 model: claude-sonnet-4-6
+arguments: location_name
 ---
 
 # /location-info
@@ -17,7 +18,7 @@ Find all references to a location across the vault.
 
 ## Instructions
 
-1. If no location name provided, list files in `World/Locations/` subdirectories and ask which to search
+1. Location to research: `$location_name` — use if non-empty; otherwise list files in `World/Locations/` subdirectories and ask
 
 2. Find and read the location file in `World/Locations/` (search all subdirectories)
 

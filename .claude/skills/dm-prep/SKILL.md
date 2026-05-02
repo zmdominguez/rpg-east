@@ -4,6 +4,7 @@ description: Generate a pre-session DM briefing with open plot hooks, relevant N
 argument-hint: [location] [session_number]
 allowed-tools: Read Glob Grep
 model: claude-sonnet-4-6
+arguments: location session_number
 ---
 
 # /dm-prep
@@ -17,9 +18,9 @@ Generate a comprehensive DM briefing for the upcoming session.
 
 ## Instructions
 
-1. Ask the user for (if not provided):
-   - Target location for the upcoming session
-   - Upcoming session number and campaign type (Main/CrossBones/OneShot)
+1. Gather required info (use provided arguments if non-empty, otherwise ask):
+   - Target location: `$location`
+   - Session number: `$session_number` and campaign type (Main/CrossBones/OneShot)
 
 2. Gather all of the following:
 

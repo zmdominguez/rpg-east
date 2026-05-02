@@ -3,6 +3,7 @@ name: npc-mentions
 description: Find all mentions of an NPC across the vault. Use to track story arcs and ensure consistent characterization.
 allowed-tools: Read Glob Grep
 model: claude-sonnet-4-6
+arguments: npc_name
 ---
 
 # /npc-mentions
@@ -16,7 +17,7 @@ Find all mentions of an NPC across the vault.
 
 ## Instructions
 
-1. If no NPC name provided, list available NPCs from `NPCs/` folder and ask which to search
+1. NPC to search: `$npc_name` — use if non-empty; otherwise list available NPCs from `World/NPCs/` and ask
 
 2. Search for the NPC name across:
    - All session notes in `Campaign Journal/`

@@ -4,6 +4,7 @@ description: Generate a player-facing "Previously on..." recap from a session no
 argument-hint: [session_file]
 allowed-tools: Read Glob
 model: claude-sonnet-4-6
+arguments: session_file
 ---
 
 # /session-recap
@@ -17,7 +18,7 @@ Generate a short player-facing recap of the last session.
 
 ## Instructions
 
-1. If no session file provided, find the most recent session note:
+1. Session to recap: `$session_file` — use if non-empty; otherwise find the most recent session note:
    - List files in `Campaign Journal/Main/`, `Campaign Journal/Cross Bone Inc/`, `Campaign Journal/One Shot/`
    - Pick the highest-numbered file (e.g. S04 > S03)
 

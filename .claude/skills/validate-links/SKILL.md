@@ -3,6 +3,7 @@ name: validate-links
 description: Check for broken wiki-links across the vault. Use before committing or publishing to catch missing file references.
 allowed-tools: Read Glob Grep Bash
 model: claude-sonnet-4-6
+arguments: directory
 ---
 
 # /validate-links
@@ -14,7 +15,7 @@ Check for broken wiki-links across the vault.
 /validate-links [directory]
 ```
 
-- `directory`: Optional, defaults to checking entire vault
+- `directory`: `$directory` — limit scope if non-empty, otherwise check entire vault
 
 ## Instructions
 

@@ -3,6 +3,7 @@ name: summarize-session
 description: Convert a session note into narrative prose for ClaudeBook web publishing. Use after each session to create the story chapter.
 allowed-tools: Read Write Glob
 model: claude-sonnet-4-6
+arguments: session_file
 ---
 
 # /summarize-session
@@ -16,11 +17,13 @@ Convert a detailed session note into a narrative summary for the ClaudeBook (web
 
 ## Instructions
 
-1. If no session file provided, list available sessions from `Campaign Journal/` and ask which to summarize
+1. Session to summarize: `$session_file` — use if non-empty; otherwise list available sessions from `Campaign Journal/` and ask
 
 2. Read the session note file
 
-3. Generate a narrative prose summary that:
+3. Read the writing style guide at `${CLAUDE_SKILL_DIR}/style-guide.md`
+
+4. Generate a narrative prose summary that:
    - Converts bullet points into flowing paragraphs
    - Maintains the story arc and key plot points
    - Highlights important NPCs met and their significance
