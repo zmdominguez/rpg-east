@@ -3,5 +3,6 @@
   "obsidian-leaflet-plugin",
   "dataview",
   "obsidian42-brat",
-  "dataview-serializer"
+  "dataview-serializer",
+  "dataview-publisher"
 ]

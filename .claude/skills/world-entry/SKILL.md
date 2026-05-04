@@ -1,3 +1,12 @@
+---
+name: world-entry
+description: Create a new world location entry. Use when introducing a new city, region, or establishment to the campaign world.
+allowed-tools: Read Write Glob
+model: claude-sonnet-4-6
+disable-model-invocation: true
+arguments: name
+---
+
 # /world-entry
 
 Create a new world location entry.
@@ -9,8 +18,8 @@ Create a new world location entry.
 
 ## Instructions
 
-1. Ask the user for:
-   - Location name (if not provided)
+1. Gather required info (use provided arguments if non-empty, otherwise ask):
+   - Location name: `$name`
    - Type: City location or Region location
    - Parent location (e.g., "Thornhaven City" or "Thornhaven Region")
    - Brief description

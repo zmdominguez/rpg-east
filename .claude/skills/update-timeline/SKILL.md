@@ -1,3 +1,10 @@
+---
+name: update-timeline
+description: Add major world events to the campaign timeline. Use when significant lore, political changes, or world-altering events occur.
+allowed-tools: Read Edit Glob
+model: claude-sonnet-4-6
+---
+
 # /update-timeline
 
 Update the world timeline with major historical events.

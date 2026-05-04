@@ -1,3 +1,12 @@
+---
+name: new-session
+description: Create a new session note for the campaign. Use at the start of each session or to document a past session.
+allowed-tools: Read Write Glob
+model: claude-sonnet-4-6
+disable-model-invocation: true
+arguments: session_number campaign
+---
+
 # /new-session
 
 Create a new session note for the RPG campaign.
@@ -12,9 +21,9 @@ Create a new session note for the RPG campaign.
 
 ## Instructions
 
-1. Ask the user for:
-   - Session number (if not provided)
-   - Campaign type (Main/CrossBones/OneShot)
+1. Gather required info (use provided arguments if non-empty, otherwise ask):
+   - Session number: `$session_number`
+   - Campaign type: `$campaign` (Main/CrossBones/OneShot, default: Main)
    - Session title
    - Location(s) visited
    - Party members present
@@ -32,7 +41,7 @@ date: YYYY-MM-DD
 location:
   - "[[Location1]]"
   - "[[Location2]]"
-dm: Canato
+dm: "[[DM Name]]"
 party:
   - "[[Character1]]"
   - "[[Character2]]"
