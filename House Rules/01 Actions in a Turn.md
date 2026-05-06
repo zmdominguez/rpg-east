@@ -43,6 +43,10 @@ Your turn has three action slots, each with a **Rank** that reflects its "power 
 **You try to cast a spell using your Movement:**
 → Disadvantage on the spell attack roll (if any); no ability modifier to damage for spells that use one.
 
+## Spell Slot Limit
+
+**You may only expend one spell slot per turn**, regardless of features, reactions, or other mechanics that might otherwise allow additional spellcasting. Free cantrips and abilities that do not consume a slot are unaffected.
+
 ## Exceptions
 
 **Class Features:** Abilities that explicitly grant a Bonus Action use — Cunning Action, Two-Weapon Fighting's off-hand attack, Bonus Action spells from subclass features — are **not penalized**. They are designed for that slot.
