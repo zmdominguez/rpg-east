@@ -1,5 +1,5 @@
 ---
-name: party-roster
+name: rpg-party-roster
 description: Generate a current party status table. Use for quick reference during session prep or when recapping who's in the campaign.
 allowed-tools: Read Glob
 model: claude-sonnet-4-6

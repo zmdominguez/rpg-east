@@ -1,5 +1,5 @@
 ---
-name: summarize-session
+name: rpg-summarize-session
 description: Convert a session note into narrative prose for ClaudeBook web publishing. Use after each session to create the story chapter.
 allowed-tools: Read Write Glob
 model: claude-sonnet-4-6

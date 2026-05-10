@@ -50,18 +50,18 @@ ClaudeBook files are plain narrative markdown with **no YAML frontmatter**. Stru
 - Plot hooks syntax: `[question:: Question text]`
 
 ## Available Skills
-- `/new-session` - Create session note from template
-- `/new-npc` - Create NPC with full template
-- `/summarize-session` - Convert session to ClaudeBook narrative
-- `/plot-hooks` - Extract unresolved mysteries across vault
-- `/validate-links` - Check for broken wiki-links (uses Obsidian CLI when available)
-- `/party-roster` - Generate party status table (Main/CrossBones/Extras/Retired)
-- `/npc-mentions` - Find all references to an NPC
-- `/world-entry` - Create new location
-- `/update-timeline` - Add major events to `World/Timeline.md`
-- `/dm-prep` - Pre-session DM briefing (hooks + NPCs + party + location)
-- `/session-recap` - Player-facing "Previously on..." recap
-- `/location-info` - Find all sessions and NPCs related to a location
+- `/rpg-new-session` - Create session note from template
+- `/rpg-new-npc` - Create NPC with full template
+- `/rpg-summarize-session` - Convert session to ClaudeBook narrative
+- `/rpg-plot-hooks` - Extract unresolved mysteries across vault
+- `/rpg-validate-links` - Check for broken wiki-links (uses Obsidian CLI when available)
+- `/rpg-party-roster` - Generate party status table (Main/CrossBones/Extras/Retired)
+- `/rpg-npc-mentions` - Find all references to an NPC
+- `/rpg-world-entry` - Create new location
+- `/rpg-update-timeline` - Add major events to `World/Timeline.md`
+- `/rpg-dm-prep` - Pre-session DM briefing (hooks + NPCs + party + location)
+- `/rpg-session-recap` - Player-facing "Previously on..." recap
+- `/rpg-location-info` - Find all sessions and NPCs related to a location
 
 ## Available Agents
 - `vault-researcher` - Fast read-only vault search (used as subagent by skills)

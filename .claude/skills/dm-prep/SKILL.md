@@ -1,5 +1,5 @@
 ---
-name: dm-prep
+name: rpg-dm-prep
 description: Generate a pre-session DM briefing with open plot hooks, relevant NPCs, party status, and location notes. Use before each session to prepare.
 argument-hint: [location] [session_number]
 allowed-tools: Read Glob Grep

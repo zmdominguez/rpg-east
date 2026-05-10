@@ -1,5 +1,5 @@
 ---
-name: session-recap
+name: rpg-session-recap
 description: Generate a player-facing "Previously on..." recap from a session note. Use at the start of a session to remind players what happened last time.
 argument-hint: [session_file]
 allowed-tools: Read Glob

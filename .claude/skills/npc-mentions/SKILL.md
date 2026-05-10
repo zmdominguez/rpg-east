@@ -1,5 +1,5 @@
 ---
-name: npc-mentions
+name: rpg-npc-mentions
 description: Find all mentions of an NPC across the vault. Use to track story arcs and ensure consistent characterization.
 allowed-tools: Read Glob Grep
 model: claude-sonnet-4-6

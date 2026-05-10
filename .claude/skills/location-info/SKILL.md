@@ -1,5 +1,5 @@
 ---
-name: location-info
+name: rpg-location-info
 description: Find all sessions, NPCs, and events related to a location. Use to review everything that has happened at or around a place in the campaign.
 argument-hint: [location_name]
 allowed-tools: Read Glob Grep
