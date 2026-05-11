@@ -50,9 +50,9 @@ ClaudeBook files are plain narrative markdown with **no YAML frontmatter**. Stru
 - Plot hooks syntax: `[question:: Question text]`
 
 ## Available Skills
-- `/rpg-new-session` - Create session note from template
+- `/rpg-summarize-session` - Create session note in `Campaign Journal/` from a summary
 - `/rpg-new-npc` - Create NPC with full template
-- `/rpg-summarize-session` - Convert session to ClaudeBook narrative
+- `/rpg-write-chapter` - Write a ClaudeBook narrative chapter from a session note (output → `ClaudeBook/`, NOT `Campaign Journal/`)
 - `/rpg-plot-hooks` - Extract unresolved mysteries across vault
 - `/rpg-validate-links` - Check for broken wiki-links (uses Obsidian CLI when available)
 - `/rpg-party-roster` - Generate party status table (Main/CrossBones/Extras/Retired)

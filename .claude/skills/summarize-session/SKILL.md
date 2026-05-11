@@ -1,18 +1,21 @@
 ---
-name: rpg-summarize-session
-description: Convert a session note into narrative prose for ClaudeBook web publishing. Use after each session to create the story chapter.
+name: rpg-write-chapter
+description: Write a ClaudeBook narrative chapter (web publishing) from a session note. Output goes to ClaudeBook/, NOT Campaign Journal/. Use after the session note is already created.
 allowed-tools: Read Write Glob
 model: claude-sonnet-4-6
 arguments: session_file
 ---
 
-# /summarize-session
+# /rpg-write-chapter
 
-Convert a detailed session note into a narrative summary for the ClaudeBook (web publishing).
+Convert a session note into a narrative prose chapter for the ClaudeBook (web publishing).
+
+**This skill writes to `ClaudeBook/` — it does NOT create session notes.**
+To create a session note, use `/rpg-new-session` instead.
 
 ## Usage
 ```
-/summarize-session [session_file]
+/rpg-write-chapter [session_file]
 ```
 
 ## Instructions

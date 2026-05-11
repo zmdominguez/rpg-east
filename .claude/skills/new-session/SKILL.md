@@ -1,5 +1,5 @@
 ---
-name: rpg-new-session
+name: rpg-summarize-session
 description: Create a new session note for the campaign. Use at the start of each session or to document a past session.
 allowed-tools: Read Write Glob
 model: claude-sonnet-4-6
