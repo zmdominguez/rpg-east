@@ -24,14 +24,14 @@ tags:
 3. `## 🗣️ Mentioned in` — Contains four QueryToSerialize subsections (do not modify query blocks)
 
 ## QueryToSerialize Blocks
-The "Mentioned in" section tracks backlinks automatically. Replace `[[]]` with `[[NPC Name]]` in each query:
+The "Mentioned in" section tracks backlinks automatically. Use `[[]]` in each query (Dataview resolves it to the current file):
 
 ```
 #### Sessions
 <!-- QueryToSerialize: 
 LIST
 FROM "Campaign Journal"
-WHERE contains(file.outlinks, [[NPC Name]])
+WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
 
@@ -39,7 +39,7 @@ SORT file.name ASC
 <!-- QueryToSerialize: 
 LIST
 FROM "World/NPCs"
-WHERE contains(file.outlinks, [[NPC Name]])
+WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
 
@@ -47,7 +47,7 @@ SORT file.name ASC
 <!-- QueryToSerialize: 
 LIST
 FROM "Party"
-WHERE contains(file.outlinks, [[NPC Name]])
+WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
 
@@ -55,7 +55,7 @@ SORT file.name ASC
 <!-- QueryToSerialize: 
 LIST
 FROM "World/Locations"
-WHERE contains(file.outlinks, [[NPC Name]])
+WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
 ```
