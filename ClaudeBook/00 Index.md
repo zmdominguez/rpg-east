@@ -29,7 +29,10 @@
 8. [[08 Interlude - The Scarsith Summons|Interlude: The Scarsith Summons]]
    *Three clerics answer an urgent call, and find shadows in the faith*
 
-9. [[99 Epilogue - Mysteries Unresolved|Epilogue: Mysteries Unresolved]]
+9. [[09 The Rootmother's Garden|Chapter Six: The Rootmother's Garden]]
+   *A missing woman found, a garden betrayed, and mercenaries in the night*
+
+10. [[99 Epilogue - Mysteries Unresolved|Epilogue: Mysteries Unresolved]]
    *Questions that linger in the shadows*
 
 ---

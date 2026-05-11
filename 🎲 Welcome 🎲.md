@@ -3,7 +3,7 @@
 
 ---
 🎮 **DM**: Canato
-📆 Every Monday, 6pm-ish
+📆 Every [Monday](https://github.com/zmdominguez/rpg-east), 6pm-ish
 📍Kingsford
 
 #### 👯 Party
