@@ -55,6 +55,7 @@ ClaudeBook files are plain narrative markdown with **no YAML frontmatter**. Stru
 - `/rpg-write-chapter` - Write a ClaudeBook narrative chapter from a session note (output → `ClaudeBook/`, NOT `Campaign Journal/`)
 - `/rpg-plot-hooks` - Extract unresolved mysteries across vault
 - `/rpg-validate-links` - Check for broken wiki-links (uses Obsidian CLI when available)
+- `/rpg-validate-dataview` - Check Dataview Serializer markers are valid and rendered (run before PR)
 - `/rpg-party-roster` - Generate party status table (The baddies/CrossBones/Extras/Retired)
 - `/rpg-npc-mentions` - Find all references to an NPC
 - `/rpg-world-entry` - Create new location

@@ -113,11 +113,26 @@ while IFS= read -r file; do
   fi
 done < <(find . -name "*.md" -type f | grep -vE "z_Templates|\.git|CLAUDE\.md|readme\.md")
 
-# 5. Check front matter exists in content files
+# 5. Check Dataview Serializer inline queries are not empty
+echo ""
+echo "🔄 Checking Dataview Serializer inline queries..."
+
+while IFS= read -r file; do
+  lineno=0
+  while IFS= read -r line; do
+    lineno=$((lineno + 1))
+    if echo "$line" | grep -qE '<!-- IQ:[^>]+--><!-- /IQ -->'; then
+      echo "  ❌ $file:$lineno: Empty inline query (IQ block not rendered — open in Obsidian)"
+      total_errors=$((total_errors + 1))
+    fi
+  done < "$file"
+done < <(find . -name "*.md" -type f | grep -vE "z_Templates|\.git|\.claude|personalNotes|CLAUDE\.md")
+
+# 6. Check front matter exists in content files
 echo ""
 echo "📋 Checking YAML front matter..."
 
-for dir in "Party/Main" "Party/CrossBonesInc" "NPCs"; do
+for dir in "Party/The baddies" "Party/CrossBonesInc" "NPCs"; do
   if [[ -d "./$dir" ]]; then
     while IFS= read -r file; do
       filename=$(basename "$file")
