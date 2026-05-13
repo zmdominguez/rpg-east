@@ -15,7 +15,7 @@ tags:
 > | ---- | ---- |
 > | **Player** | <!-- IQ: =this.player -->Marco<!-- /IQ --> |
 > | **Class** | <!-- IQ: =this.class -->-<!-- /IQ --> |
-> | **Species** | <!-- IQ: =this.species -->-<!-- /IQ --> |
+> | **Species** | <!-- IQ: =this.species -->aarakocra<!-- /IQ --> |
 
 
 ## 🕯️ Backstory
