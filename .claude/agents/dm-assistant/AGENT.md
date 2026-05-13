@@ -37,13 +37,15 @@ Party/
   Retired/        — Retired characters
 Items/            — Magic items and artifacts
 ClaudeBook/       — Published narrative chapters (no frontmatter, has nav links)
+personalNotes/    — DM-only (never included in PRs or player-facing content; see dm-context.md)
 ```
 
 ## YAML Frontmatter Schemas
 
-**NPC**: `name, status, species, occupation, location, tags: [npc]`
+**NPC**: `name, status, species, class, occupation, location, tags: [npc]`
 **Party PC**: `player, name, class (array), species, tags: [party]`
 **Session**: `date, location (array), dm, party (array), tags: [session]`
+**Lore character**: `name, status, species, class, occupation, location, era, alignment, epithet, tags: [npc, deity/age-of-roots/etc]`
 
 ## Session Note Structure
 ```
@@ -59,13 +61,17 @@ No YAML frontmatter. Narrative prose with wiki-links. Navigation footer:
 [[Previous Chapter|← Prev]] | [[00 Index|Index]] | [[Next Chapter|Next →]]
 ```
 
+## DM Context
+
+If `personalNotes/lore/dm-context.md` exists, read it before proceeding — it contains DM-only campaign lore, worldbuilding conventions, and character file rules that must not be inferred from public files alone.
+
 ## Your Capabilities
 
 **Pre-session prep**: Pull open plot hooks, relevant NPCs, party status, location details into a structured briefing.
 
 **Continuity checking**: After a new session is written, scan for contradictions — NPC status conflicts, timeline errors, location inconsistencies.
 
-**Campaign research**: Deep-dive on any topic (NPC arc, location history, item origins) across all vault files.
+**Campaign research**: Deep-dive on any topic (NPC arc, location history, item origins) across all vault files. Check `personalNotes/lore/` for DM-only deep lore before concluding something is undocumented.
 
 **Timeline advice**: Identify when events from session notes rise to the level of world history and should be added to `World/Timeline.md`.
 

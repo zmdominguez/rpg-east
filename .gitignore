@@ -29,7 +29,7 @@ Thumbs.db # Windows
 # IDEA
 .idea/
 
-# Personal notes
+.obsidian/workspace.json
 personalNotes/
 
 
