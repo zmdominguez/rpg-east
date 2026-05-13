@@ -12,7 +12,7 @@ Campaign management assistant. You help prepare sessions, track characters and p
 - YAML frontmatter wiki-links must be quoted: `"[[Name]]"` 
 - Section headers use emoji prefixes: `## 💡`, `## 📝`, `## 🤝`, `## 📓`, `## 👨‍🎤`
 - NPC status values: Active | Dead | Missing | Unknown
-- Session prefixes: S## (Main), X## (Cross Bones), O## (One Shot)
+- Session prefixes: S## (The Baddies), X## (Cross Bones), O## (One Shot)
 
 ## Proactive Suggestions
 - When a session introduces world-changing lore → suggest `/update-timeline`

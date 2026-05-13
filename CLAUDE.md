@@ -11,7 +11,7 @@ This is an Obsidian vault for managing a tabletop RPG campaign called "East RPG.
 - CSS for custom styling
 
 ## Structure
-- `Party/The Baddies/` - Main campaign player characters
+- `Party/The Baddies/` - The Baddies campaign player characters
 - `Party/CrossBonesInc/` - Cross Bones campaign characters
 - `Party/Extras/` - Supporting/extra characters
 - `Party/Retired/` - Retired characters

@@ -28,7 +28,7 @@ Extract and compile all unresolved plot hooks and mysteries from session notes.
    - NPCs with unresolved storylines (status: Missing, Unknown)
 
 3. Compile results into a structured list organized by:
-   - Campaign (Main / Cross Bones / One Shot)
+   - Campaign (The Baddies / Cross Bones / One Shot)
    - Session where introduced
    - Related NPCs/Locations
    - Status (if appears resolved in later sessions)

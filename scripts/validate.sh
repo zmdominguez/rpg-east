@@ -56,7 +56,7 @@ if [[ -d "./Campaign Journal/The Baddies" ]]; then
         # Valid
         ;;
       *)
-        echo "  ❌ $file: Main session should start with 'S##' prefix"
+        echo "  ❌ $file: The Baddies session should start with 'S##' prefix"
         total_errors=$((total_errors + 1))
         ;;
     esac
