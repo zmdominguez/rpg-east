@@ -28,3 +28,15 @@ Standing tall as a Goliath, Mirr makes a big impression. She has inky purple ski
 
 ## 📝 Notes
 - Has a random symbol tattoo on her arm after a drunk night. "slut".
+
+## 🎒 Notable Items
+
+### Pactbreaker Shard
+*Uncommon wondrous item — requires attunement (Warlock)*
+Received from [[Pipe Ashford]] via the [[Rootmother's Garden]].
+
+- 1/SR or LR: Add 1d6 force damage to a warlock spell or Eldritch Blast hit
+- 1/LR: Reroll a failed Wisdom save
+- Emanates cold near extraplanar creatures
+
+> Attuned through a [[Blood root]] sacrifice ritual. Long-term effects unknown.
