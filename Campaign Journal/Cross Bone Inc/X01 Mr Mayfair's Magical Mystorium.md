@@ -20,7 +20,7 @@ tags:
 > | **Date** | <!-- IQ: =this.date -->2026-03-23<!-- /IQ --> |
 > | **Location** | <!-- IQ: =this.location -->Thornhaven<!-- /IQ --> |
 > | **DM** | <!-- IQ: =this.dm -->Fiona<!-- /IQ --> |
-> | **Party** | <!-- IQ: =this.party -->[[Party/CrossBonesInc/Jinx.md\|Jinx]], [[Party/CrossBonesInc/Nyra.md\|Nyra]], [[Party/Retired/Reverend Aldric.md\|Reverend Aldric]], [[Party/Main/Selune.md\|Selune]]<!-- /IQ --> |
+> | **Party** | <!-- IQ: =this.party -->[[Party/CrossBonesInc/Jinx.md\|Jinx]], [[Party/CrossBonesInc/Nyra.md\|Nyra]], [[Party/Retired/Reverend Aldric.md\|Reverend Aldric]], [[Party/The baddies/Selune.md\|Selune]]<!-- /IQ --> |
 
 ## 💡Key Learnings 
 

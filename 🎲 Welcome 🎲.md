@@ -10,10 +10,10 @@
 
 <!-- QueryToSerialize: 
 TABLE WITHOUT ID player as Player, file.link AS Character, class as Class, species as Species
-FROM "Party/Main"
+FROM "Party/The baddies"
 SORT file.name ASC
 -->
-<!-- SerializedQuery: TABLE WITHOUT ID player as Player, file.link AS Character, class as Class, species as Species FROM "Party/Main" SORT file.name ASC -->
+<!-- SerializedQuery: TABLE WITHOUT ID player as Player, file.link AS Character, class as Class, species as Species FROM "Party/The baddies" SORT file.name ASC -->
 
 | Player | Character                                              | Class                                     | Species  |
 | ------ | ------------------------------------------------------ | ----------------------------------------- | -------- |

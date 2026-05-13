@@ -17,13 +17,13 @@ Create a new session note for the RPG campaign.
 ```
 
 - `session_number`: The session number (e.g., 05, 06)
-- `campaign`: Either "Main" (default), "CrossBones" (X##), or "OneShot" (O##)
+- `campaign`: Either "The baddies" (default), "CrossBones" (X##), or "OneShot" (O##)
 
 ## Instructions
 
 1. Gather required info (use provided arguments if non-empty, otherwise ask):
    - Session number: `$session_number`
-   - Campaign type: `$campaign` (Main/CrossBones/OneShot, default: Main)
+   - Campaign type: `$campaign` (The baddies/CrossBones/OneShot, default: The baddies)
    - Session title
    - Location(s) visited
    - Party members present
