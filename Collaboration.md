@@ -153,7 +153,7 @@ Now you can edit files in Obsidian!
 - Save your changes with **Cmd+S** (Mac) or **Ctrl+S** (Windows)
 
 ### Common Tasks
-- **Add session notes:** Go to `Campaign Journal/Main/` and create a new file
+- **Add session notes:** Go to `Campaign Journal/The Baddies/` and create a new file
 - **Edit NPCs:** Go to `World/NPCs/` folder
 - **Update world info:** Go to `World/Locations/` folder
 

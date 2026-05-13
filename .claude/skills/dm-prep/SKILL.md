@@ -37,7 +37,7 @@ Generate a comprehensive DM briefing for the upcoming session.
    - Also find any NPCs referenced in the location file
 
    **d. Party Status**
-   - Read all character files from `Party/The baddies/` (or `Party/CrossBonesInc/` for Cross Bones)
+   - Read all character files from `Party/The Baddies/` (or `Party/CrossBonesInc/` for Cross Bones)
    - Extract player, name, class, species from YAML frontmatter
 
    **e. Last Session Context**

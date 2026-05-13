@@ -8,7 +8,7 @@ When creating or editing party character files, follow these conventions.
 ## Folder Structure
 | Folder | Purpose |
 |---|---|
-| `Party/The baddies/` | Active main campaign characters |
+| `Party/The Baddies/` | Active main campaign characters |
 | `Party/CrossBonesInc/` | Active Cross Bones characters |
 | `Party/Extras/` | Supporting/recurring NPCs treated as party-adjacent |
 | `Party/Retired/` | Characters no longer active |

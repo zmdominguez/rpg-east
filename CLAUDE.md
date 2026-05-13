@@ -11,11 +11,11 @@ This is an Obsidian vault for managing a tabletop RPG campaign called "East RPG.
 - CSS for custom styling
 
 ## Structure
-- `Party/The baddies/` - Main campaign player characters
+- `Party/The Baddies/` - Main campaign player characters
 - `Party/CrossBonesInc/` - Cross Bones campaign characters
 - `Party/Extras/` - Supporting/extra characters
 - `Party/Retired/` - Retired characters
-- `Campaign Journal/Main/` - S## session notes (main campaign)
+- `Campaign Journal/The Baddies/` - S## session notes (main campaign)
 - `Campaign Journal/Cross Bone Inc/` - X## session notes
 - `Campaign Journal/One Shot/` - O## session notes
 - `World/NPCs/` - Non-player characters
@@ -56,7 +56,7 @@ ClaudeBook files are plain narrative markdown with **no YAML frontmatter**. Stru
 - `/rpg-plot-hooks` - Extract unresolved mysteries across vault
 - `/rpg-validate-links` - Check for broken wiki-links (uses Obsidian CLI when available)
 - `/rpg-validate-dataview` - Check Dataview Serializer markers are valid and rendered (run before PR)
-- `/rpg-party-roster` - Generate party status table (The baddies/CrossBones/Extras/Retired)
+- `/rpg-party-roster` - Generate party status table (The Baddies/CrossBones/Extras/Retired)
 - `/rpg-npc-mentions` - Find all references to an NPC
 - `/rpg-world-entry` - Create new location
 - `/rpg-update-timeline` - Add major events to `World/Timeline.md`

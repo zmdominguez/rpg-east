@@ -31,7 +31,7 @@ World/
   Gods/           — Deity lore
   Timeline.md     — Major world events
 Party/
-  The baddies/    — Main party characters (frontmatter: player, name, class, species)
+  The Baddies/    — Main party characters (frontmatter: player, name, class, species)
   CrossBonesInc/  — Cross Bones characters
   Extras/         — Extra/supporting characters
   Retired/        — Retired characters

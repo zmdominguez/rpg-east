@@ -38,7 +38,7 @@ If Obsidian is running, this returns all broken links natively. Report those res
 
 ### Missing Files
 - `[[Unknown NPC]]` referenced in:
-  - Campaign Journal/Main/S04 Finding Pipe.md (line 45)
+  - Campaign Journal/The Baddies/S04 Finding Pipe.md (line 45)
 
 ### Suggestions
 - `[[Veiled Peak]]` might be `[[Veiled Peaks]]` (typo?)

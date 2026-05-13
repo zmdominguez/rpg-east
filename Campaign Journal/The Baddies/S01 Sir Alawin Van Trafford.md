@@ -19,7 +19,7 @@ tags:
 > | **Date** | <!-- IQ: =this.date -->2025-12-08<!-- /IQ --> |
 > | **Location** | <!-- IQ: =this.location -->Thornhaven<!-- /IQ --> |
 > | **DM** | <!-- IQ: =this.dm -->Canato<!-- /IQ --> |
-> | **Party** | <!-- IQ: =this.party -->[[Party/The baddies/Aeris Whisperwind.md\|Aeris Whisperwind]], [[Party/The baddies/Kass.md\|Kass]], [[Party/The baddies/Mirr.md\|Mirr]], [[Party/The baddies/Selune.md\|Selune]]<!-- /IQ --> |
+> | **Party** | <!-- IQ: =this.party -->[[Party/The Baddies/Aeris Whisperwind.md\|Aeris Whisperwind]], [[Party/The Baddies/Kass.md\|Kass]], [[Party/The Baddies/Mirr.md\|Mirr]], [[Party/The Baddies/Selune.md\|Selune]]<!-- /IQ --> |
 
 ## 💡Key Learnings 
 

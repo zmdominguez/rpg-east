@@ -48,7 +48,7 @@ done < <(find . -name "*.md" -type f | grep -vE "$SKIP_PATTERNS")
 echo ""
 echo "📝 Checking session file naming..."
 
-if [[ -d "./Campaign Journal/Main" ]]; then
+if [[ -d "./Campaign Journal/The Baddies" ]]; then
   while IFS= read -r file; do
     filename=$(basename "$file")
     case "$filename" in
@@ -60,7 +60,7 @@ if [[ -d "./Campaign Journal/Main" ]]; then
         total_errors=$((total_errors + 1))
         ;;
     esac
-  done < <(find "./Campaign Journal/Main" -name "*.md" -type f 2>/dev/null)
+  done < <(find "./Campaign Journal/The Baddies" -name "*.md" -type f 2>/dev/null)
 fi
 
 if [[ -d "./Campaign Journal/Cross Bone Inc" ]]; then
@@ -132,7 +132,7 @@ done < <(find . -name "*.md" -type f | grep -vE "z_Templates|\.git|\.claude|pers
 echo ""
 echo "📋 Checking YAML front matter..."
 
-for dir in "Party/The baddies" "Party/CrossBonesInc" "NPCs"; do
+for dir in "Party/The Baddies" "Party/CrossBonesInc" "NPCs"; do
   if [[ -d "./$dir" ]]; then
     while IFS= read -r file; do
       filename=$(basename "$file")

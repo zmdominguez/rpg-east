@@ -15,12 +15,12 @@ Generate a current party status overview.
 /party-roster [campaign]
 ```
 
-- `campaign`: `$campaign` — "The baddies", "CrossBones", or "all" (default when empty)
+- `campaign`: `$campaign` — "The Baddies", "CrossBones", or "all" (default when empty)
 
 ## Instructions
 
 1. Read all character files from:
-   - `Party/The baddies/` for main campaign
+   - `Party/The Baddies/` for main campaign
    - `Party/CrossBonesInc/` for Cross Bones campaign
    - `Party/Extras/` for supporting/extra characters (include if `campaign` is "all")
    - `Party/Retired/` for retired characters (include only if explicitly requested)
