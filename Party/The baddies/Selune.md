@@ -43,3 +43,16 @@ She is the moon’s daughter—whether the moon wanted her or not.
 
 
 ## 📝 Notes
+- Carries a letter from [[Pipe Ashford]] addressed to [[Roderick Ashford]] — must be delivered in [[Thornhaven]]
+
+## 🎒 Notable Items
+
+### Moonpetal Circlet
+*Uncommon wondrous item — requires attunement (Druid)*
+Received from [[Pipe Ashford]] via the [[Rootmother's Garden]].
+
+- 1/LR under moonlight: Regain a spell slot of 2nd level or lower
+- 1/LR: Cast Speak with Plants
+- Beasts have disadvantage on their first attack against you
+
+> Attuned through a [[Blood root]] sacrifice ritual. Long-term effects unknown.

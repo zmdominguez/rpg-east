@@ -19,7 +19,7 @@ Generate a short player-facing recap of the last session.
 ## Instructions
 
 1. Session to recap: `$session_file` — use if non-empty; otherwise find the most recent session note:
-   - List files in `Campaign Journal/Main/`, `Campaign Journal/Cross Bone Inc/`, `Campaign Journal/One Shot/`
+   - List files in `Campaign Journal/The Baddies/`, `Campaign Journal/Cross Bone Inc/`, `Campaign Journal/One Shot/`
    - Pick the highest-numbered file (e.g. S04 > S03)
 
 2. Read the session note file

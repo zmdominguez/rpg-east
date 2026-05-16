@@ -8,7 +8,7 @@ When creating or editing session notes in `Campaign Journal/`, follow these conv
 ## File Naming & Paths
 | Campaign | Prefix | Folder |
 |---|---|---|
-| Main | S## | `Campaign Journal/Main/S## Title.md` |
+| Main | S## | `Campaign Journal/The Baddies/S## Title.md` |
 | Cross Bones Inc | X## | `Campaign Journal/Cross Bone Inc/X## Title.md` |
 | One Shot | O## | `Campaign Journal/One Shot/O## Title.md` |
 

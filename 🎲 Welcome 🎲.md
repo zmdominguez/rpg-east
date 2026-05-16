@@ -10,10 +10,10 @@
 
 <!-- QueryToSerialize: 
 TABLE WITHOUT ID player as Player, file.link AS Character, class as Class, species as Species
-FROM "Party/Main"
+FROM "Party/The Baddies"
 SORT file.name ASC
 -->
-<!-- SerializedQuery: TABLE WITHOUT ID player as Player, file.link AS Character, class as Class, species as Species FROM "Party/Main" SORT file.name ASC -->
+<!-- SerializedQuery: TABLE WITHOUT ID player as Player, file.link AS Character, class as Class, species as Species FROM "Party/The Baddies" SORT file.name ASC -->
 
 | Player | Character                                              | Class                                     | Species  |
 | ------ | ------------------------------------------------------ | ----------------------------------------- | -------- |
@@ -41,10 +41,10 @@ SORT file.name ASC
 
 <!-- QueryToSerialize: 
 LIST
-FROM "Campaign Journal/Main"
+FROM "Campaign Journal/The Baddies"
 SORT file.name ASC
 -->
-<!-- SerializedQuery: LIST FROM "Campaign Journal/Main" SORT file.name ASC -->
+<!-- SerializedQuery: LIST FROM "Campaign Journal/The Baddies" SORT file.name ASC -->
 - [[S00 The Quiet Year]]
 - [[S01 Sir Alawin Van Trafford]]
 - [[S02 Hostage Hoax]]

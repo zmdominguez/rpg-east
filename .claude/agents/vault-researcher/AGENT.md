@@ -17,7 +17,7 @@ Campaign Journal/
   Cross Bone Inc/ — X## session notes (Cross Bones campaign)
   One Shot/       — O## session notes (one-shots)
 World/
-  NPCs/           — NPC files (frontmatter: name, status, species, occupation, location)
+  NPCs/           — NPC files (frontmatter: name, status, species, class, occupation, location)
   Locations/      — Location files organized by region
   Timeline.md     — Major world events
 Party/
@@ -27,6 +27,8 @@ Party/
   Retired/        — Retired characters
 Items/            — Magic items and artifacts
 ClaudeBook/       — Published narrative chapters
+personalNotes/    — DM-only hidden lore (always check here before saying something is undocumented)
+                    If personalNotes/lore/dm-context.md exists, read it for DM-only lore context
 ```
 
 ## Key Patterns to Search

@@ -1,5 +1,5 @@
 ---
-date: 2026-05-11
+date: 2026-05-10
 location:
   - "[[Veiled Peaks]]"
   - "[[Cloudbreak Pass]]"
@@ -22,7 +22,7 @@ tags:
 > | **Date** | <!-- IQ: =this.date -->2026-05-11<!-- /IQ --> |
 > | **Location** | <!-- IQ: =this.location -->[[Veiled Peaks]], [[Cloudbreak Pass]], [[Rootmother's Garden]]<!-- /IQ --> |
 > | **DM** | <!-- IQ: =this.dm -->Canato<!-- /IQ --> |
-> | **Party** | <!-- IQ: =this.party -->[[Party/Main/Aeris Whisperwind.md\|Aeris Whisperwind]], [[Party/Main/Kass.md\|Kass]], [[Party/Main/Mirr.md\|Mirr]], [[Party/Main/Selune.md\|Selune]]<!-- /IQ --> |
+> | **Party** | <!-- IQ: =this.party -->[[Party/The Baddies/Aeris Whisperwind.md\|Aeris Whisperwind]], [[Party/The Baddies/Kass.md\|Kass]], [[Party/The Baddies/Mirr.md\|Mirr]], [[Party/The Baddies/Selune.md\|Selune]]<!-- /IQ --> |
 
 
 ## 💡Key Learnings

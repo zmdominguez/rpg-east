@@ -46,4 +46,16 @@ She dresses in elegant, dark practical clothing suited for quiet movement, weari
 - Raised on the Royal Court, after her dad went missing, she left to look for him, taking his lute as her main instrument. 
 - Sees an unknown character from her Childhood in the city
 
+## 🎒 Notable Items
+
+### Whisperwind Quill
+*Uncommon wondrous item — requires attunement (Bard)*
+Received from [[Pipe Ashford]] via the [[Rootmother's Garden]].
+
+- 1/LR: Send a floating written message
+- Advantage on Performance checks
+- Hums faintly near someone speaking a deliberate lie
+
+> Attuned through a [[Blood root]] sacrifice ritual. Long-term effects unknown.
+
 
