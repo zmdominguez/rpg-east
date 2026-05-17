@@ -80,4 +80,4 @@ He waits. He is not threatening. He has the posture of someone who has been wait
 
 ---
 
-[[05-blood-root-effects|← Prev]] | [[00-index|Index]]
+[[09-blood-root-effects|← Prev]] | [[00-index|Index]]

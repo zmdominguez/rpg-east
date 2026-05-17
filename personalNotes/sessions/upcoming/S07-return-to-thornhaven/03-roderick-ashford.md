@@ -20,9 +20,21 @@ He doesn't elaborate. He folds the letter carefully and sets it on the table as 
 
 **Give this beat time. Let it breathe.**
 
+## His Payment (S04 Contract)
+
+Roderick hired the party to find Pipe. The agreed reward was **40gp + Maren's Pendant**.
+
+He pays without being asked — he's been holding the money since S04, waiting.
+
+> *"I've had this set aside. I didn't want to spend it in case you came back."*
+
+He counts it out carefully on the table. 40gp. He doesn't apologize for not having more.
+
+The pendant has been replaced by the candle below — Maren had both, and the candle feels more right to give away.
+
 ## His Gratitude
 
-Roderick is not a wealthy man. He disappears into a back room and returns with a small tin — painted blue, the paint worn at the edges — and sets it on the table in front of the party.
+Roderick is not a wealthy man. After paying, he disappears into a back room and returns with a small tin — painted blue, the paint worn at the edges — and sets it on the table in front of the party.
 
 > *"Maren made this. My wife. She was always good with small magic — kitchen charms, mostly. She made it so she'd always know when Pipe was fibbing about finishing her supper."*
 
@@ -57,4 +69,4 @@ He does not ask them to bring her back.
 
 ---
 
-[[02-eman-encounter|← Prev]] | [[00-index|Index]] | [[04-faction-reactions|Factions →]]
+[[02-eman-encounter|← Prev]] | [[00-index|Index]] | [[04-market-stall|Market →]]

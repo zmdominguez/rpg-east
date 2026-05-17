@@ -94,4 +94,4 @@ Gravy has slowed the progression in past druids who were overexposed — but slo
 
 ---
 
-[[04-faction-reactions|← Prev]] | [[00-index|Index]] | [[06-character-hooks|Hooks →]]
+[[08-morning-decision|← Prev]] | [[00-index|Index]] | [[10-character-hooks|Hooks →]]

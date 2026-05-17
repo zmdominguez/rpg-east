@@ -22,11 +22,32 @@ She admits she sent Cross Bones. She does not apologize for wanting Pipe home. S
 **The ask, stated plainly:**
 > *"Pipe made her choice. I respect it. All I ask is that her father hears she is well — and that this city doesn't spend the next year in a funeral mood over a woman who is perfectly alive. Can we agree on that?"*
 
-## Her Offer
+## The Original Contract (S04)
 
-- **City consultant status** — the party is formally recognized as contractors to the Mayor's office. Useful for future permissions, access, and avoiding bureaucratic friction.
-- **A sealed letter she'll write for Roderick** — so they don't need to invent an explanation.
-- **50gp per party member** if they push for it (Persuasion DC 13).
+The party was hired by Eman to find Pipe. The agreed reward was **100gp per character + a favour**.
+
+The condition: Pipe returns to Thornhaven. She didn't — she chose to stay in the garden.
+
+**Eman's opening position:** She doesn't bring it up. If the party does, she listens carefully and argues the condition wasn't met. She says this regretfully, not coldly.
+
+> *"I asked you to bring her home. She's not home. I'm not sure what I'm paying for."*
+
+**What she actually owes (negotiation ladder):**
+
+| Party approach | What Eman pays |
+|---------------|----------------|
+| Don't mention it | Nothing — she waits to see if they remember |
+| Ask politely | 50gp per character ("for your trouble and your discretion") |
+| Argue the contract (Persuasion DC 13) | 75gp per character — "you found her, I'll grant that" |
+| Point out she hired Cross Bones too, meaning she already tried another way (leverage) | Full 100gp per character + the favour, no argument |
+| Intimidation DC 16 | She pays 100gp but the favour is off the table and the meeting ends coldly |
+
+The **favour** is worth tracking — a future blank-cheque political chip from the Mayor of Thornhaven.
+
+## Her Other Offer
+
+- **City consultant status** — formally recognized as contractors to the Mayor's office. Useful for future permissions, access, and avoiding bureaucratic friction.
+- **A sealed letter she'll write for Roderick** — so they don't need to explain anything.
 
 ## Her Hidden Leverage (subtle, never stated outright)
 
@@ -42,9 +63,9 @@ She knows. She has eyes. This is the only hint she gives.
 |-------|----|--------|
 | Insight (is she lying?) | 14 | She's not lying — but she's omitting. She genuinely believes her version is better for everyone. |
 | Insight (what does she fear?) | 18 | She fears the Owl Cult far more than Cross Bones failing. The mission was partly about getting Pipe under her eye. |
-| Persuasion (push for more compensation) | 13 | She adds 50gp per party member. |
+| Persuasion (contract argument) | 13 | 75gp per character — see negotiation ladder above. |
 | Deception (appear to agree while planning to expose her) | Opposed — her Insight +7 | She notices the hesitation. Files it away. |
-| Intimidation | 16 | She goes cold. The warmth leaves. She offers nothing more and ends the meeting politely. She does not forget. |
+| Intimidation | 16 | She goes cold. Pays 100gp, favour is off the table, meeting ends politely. She does not forget. |
 
 ## If the Party Exposes Her
 
