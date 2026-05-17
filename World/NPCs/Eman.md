@@ -17,6 +17,8 @@ tags:
 - Was sent to help the cult against the pioneers but decided to rule the city instead
 - Arrived as a child during the Quiet Year
 - Went missing shortly after arrival with a note bearing a [[Blood root]] drawing
+- Hired [[Cross Bones Inc]] to retrieve [[Pipe Ashford]] from the [[Rootmother's Garden]] — the mission failed; the party and the Root Guardian repelled them
+- Her interest in Pipe is about power, not love
 
 ## 🗣️ Mentioned in
 

@@ -1,9 +1,9 @@
 ---
 name: Pipe Ashford
-status: Missing
+status: Active
 species: Human
-occupation: Settler
-location: Unknown (last seen Veiled Peaks)
+occupation: Guardian
+location: "[[Rootmother's Garden]]"
 tags:
   - npc
 ---
@@ -18,9 +18,14 @@ tags:
 - Knew of a place nearby with good wood
 - Mother Maren died during the Quiet Year from a wasting illness
 - After her mother's death, became obsessed with understanding [[Blood root]]
-- Disappeared mysteriously three years ago
-- Recently spotted by [[Venn]] near Cloudbreak Pass in the [[World/Thornhaven Region/Veiled Peaks]]
-- [[Eman]] wants to find her
+- Disappeared three years ago to seek answers about [[Blood root]] origins
+- Found alive by the party in S05 — serves as guardian of the [[Rootmother's Garden]]
+- Refuses to return to [[Thornhaven]]; her duty to the garden is absolute
+- Holds detailed Blood Root research in a book she will not share
+- Survived a [[Cross Bones Inc]] attack hired by [[Eman]] (S05–S06); shaken but resolute — will activate additional guardian statues going forward
+- Gave magic items from the garden to the party in exchange for their acceptance of her choice to stay
+- Sent a letter with [[Selune]] addressed to [[Roderick Ashford]]
+- [[Eman]]'s interest in Pipe is about power, not love
 
 ## 🗣️ Mentioned in
 

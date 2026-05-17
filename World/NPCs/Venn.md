@@ -1,8 +1,9 @@
 ---
 name: Venn
+status: Unknown
 species: Dwarf
 occupation: Waterkeeper / Builder
-location: Veiled Peaks
+location: Unknown
 tags:
   - npc
 ---
@@ -20,7 +21,8 @@ tags:
 - Has a cabin in the mountains where he stays most of the time
 - Hates being in the city
 - Knew [[Pipe Ashford]]'s mother Maren - they worked together on the channels
-- Recently spotted [[Pipe Ashford]] near Cloudbreak Pass
+- Spotted [[Pipe Ashford]] near Cloudbreak Pass, which led the party to her
+- **Disappeared without a trace overnight during S05** — no tracks, no sign; the party found nothing the next morning
 
 ## 🗣️ Mentioned in
 
