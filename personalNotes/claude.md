@@ -104,7 +104,7 @@ When a session has multiple files (index + scene files), use this structure:
 ```markdown
 ---
 
-← [[NN-prev-file|← Prev]] | [[00-index|Index]] | [[NN-next-file|Title →]]
+[[NN-prev-file|← Prev]] | [[00-index|Index]] | [[NN-next-file|Title →]]
 ```
 - Index (`00-index.md`): only `Next →` link
 - Last file: only `← Prev` and `Index` links, no Next
