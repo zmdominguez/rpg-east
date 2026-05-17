@@ -51,7 +51,7 @@ After it ends, he approaches Selune quietly, away from the others.
 
 He waits. He is not threatening. He has the posture of someone who has been waiting a very long time for exactly this moment.
 
-*See [[10-character-hooks]] — Selune's thread.*
+*See [[10-character-hooks]] — Selune's thread. Full plot detail (what Toben knows, what the archive contains, how this connects to [[Halfheight Forest]] and [[Velthara]]) in [[selune|Selune — Backstory Lore]].*
 
 ---
 
