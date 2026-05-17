@@ -87,29 +87,55 @@ personalNotes/sessions/upcoming/<sXX-session-title>/
 
 ### File conventions
 
-**00-index.md** — Master index:
+**00-index.md — The session hub (not just a table of contents)**
+
+The index is the primary DM reference during the session. It must contain the full day/session sequence in narrative order, with each scene summarised inline AND linked to its dedicated file. A DM should be able to run the whole session from the index alone, diving into scene files only for full detail.
+
 ```markdown
 # Session S##: [Title]
 
 **Party Level:** N
 **Type:** [Combat / Roleplay / Exploration / Mixed]
-**Location:** [Start] → [End]
+**Location:** [[Location Name]]
 
-## Session Start
-[Opening situation in 1-2 sentences]
+## Context
+[What the party carries into this session — open homework, key items, unresolved threads]
 
-## Session Flow
-1. [[01-scene]] — Description
-2. [[02-scene]] — Description
+---
+
+## The Day — Scene by Scene
+
+### Morning — [Scene Name]
+[2–4 sentence summary of what happens, who is involved, what the stakes are]
+**Full scene:** [[01-scene-file]]
+
+### Afternoon — [Scene Name]
+[Summary]
+**Full scene:** [[02-scene-file]]
+
 ...
 
-## Pacing Guide
-- Scene name: N–N minutes
-...
+---
 
-## Connecting Threads
-- [How this session ties into long-running plots]
+## DM Reference
+| File | Topic |
+|------|-------|
+| [[NN-file]] | Short description |
+
+## DM Goals
+- [ ] Specific outcome to hit this session
 ```
+
+**Linking rules — always apply:**
+- Every location mentioned must be wiki-linked to its vault file: `[[Cross Bones Pub]]`, `[[Scarsith Temple]]`, etc.
+- Every NPC mentioned must be wiki-linked: `[[Nell]]`, `[[Mills]]`, `[[Gravy]]`, etc.
+- Every party member mentioned must be wiki-linked: `[[Selune]]`, `[[Kass]]`, etc.
+- If a location or NPC file does not yet exist in the public vault, still wiki-link it — the broken link is a reminder to create the file later.
+
+**New DM-only NPCs:**
+- Create their files in `personalNotes/NPCs/[Name].md` — not in `World/NPCs/`
+- Use the same frontmatter structure as public NPCs, plus a `dm-secret` tag
+- Include: description, what they know, what they want, DM notes on when/how to introduce them
 
 **Combat files** — Include:
 - Full stat block table (HP, AC, Speed, Initiative, Prof)
@@ -122,7 +148,7 @@ personalNotes/sessions/upcoming/<sXX-session-title>/
 - Read-aloud text block
 - Environmental effects (difficult terrain, weather, DC checks)
 - Navigation or discovery methods with DCs
-- Links to relevant NPCs
+- Links to all relevant NPCs and locations
 
 **NPC conversation files** — Include:
 - Personality and motivation
