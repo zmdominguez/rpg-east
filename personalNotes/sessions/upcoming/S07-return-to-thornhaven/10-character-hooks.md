@@ -50,13 +50,13 @@ The falcon brought it without being asked. It watched Kass read it. It's waiting
 
 **The hook:** In Thornhaven's morning market, Mirr spots a stall selling small, clearly old objects — ceramics and metalwork she immediately reads as Thelasian in origin. The stall owner is nervous, pricing low, moving fast.
 
-When Mirr examines the goods, she finds one piece with a maker's mark she recognizes — not just Thelasian, but from a specific workshop her parents used to source from. A workshop that was supposedly closed and sealed thirty years ago.
+When Mirr examines the goods, she finds one piece with a maker's mark she recognizes — the stamp of [[The Sealed Workshop]], a building on the older edge of [[Aussen]] that her parents used to source from. The workshop was shut by regional authority approximately thirty years ago. The doors are chained and wax-sealed.
 
-**The stall owner, if pressed:** They bought it off a man passing through from the direction of the ruins near Aussen. He sold fast and left. He seemed scared.
+**The stall owner, if pressed:** They bought it off a man passing through from the direction of the ruins near [[Aussen]]. He sold fast and left. He seemed scared.
 
-**What this opens:** Fresh Thelasian goods entering the city market means things are leaving the dig before being catalogued. [[Dr Clair Bucklebub]] is letting items walk out. This is the same site [[Mills]] mentioned in [[04-faction-reactions]].
+**What this opens:** The goods are fresh — clean clay in the grooves, not decades of dust. Someone is inside [[The Sealed Workshop]] and removing stock. This is not excavation runoff from [[Dr Clair Bucklebub]]'s dig — it's a separate problem at the same location.
 
-**Deeper thread (Library check, DC 14 History):** The workshop wasn't destroyed — it was *sealed*. By someone with access to Thelasian administrative records. Someone chose to end it, deliberately and quietly.
+**Deeper thread ([[Library]] check with [[Anni]], DC 14 History):** The closure record is administrative with no stated reason. The workshop wasn't destroyed — it was deliberately and quietly sealed. The ledger inside lists Mirr's parents as regular buyers across fifteen years. They may know more than they've said.
 
 ---
 

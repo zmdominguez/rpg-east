@@ -7,7 +7,7 @@
 
 As the party moves through the city, [[Mirr]] passes a stall selling small old objects — ceramics, ornamental metalwork. She clocks them immediately: Thelasian. The stall owner is nervous, pricing low, moving stock fast.
 
-One piece carries a maker's mark Mirr recognizes. Not just Thelasian — from a specific workshop her parents used to source from. A workshop that was supposedly sealed thirty years ago.
+One piece carries a maker's mark Mirr recognizes. Not just Thelasian — from [[The Sealed Workshop]], a building on the older edge of [[Aussen]] that her parents used to source from. It was sealed by the regional authority approximately thirty years ago. The doors have been chained and wax-stamped ever since.
 
 **If Mirr examines it closely (no check needed):** The clay is still clean in the grooves. This wasn't excavated decades ago and sitting in storage. It's fresh out of the ground.
 
@@ -25,7 +25,7 @@ He doesn't know the man's name. He was scared. He left east.
 
 This scene is a seed, not a scene. Run it as a brief moment while the party is moving between locations. It makes the [[06-mills-crossbones|Mills pitch]] land harder — the party already knows something is moving out of that dig before Mills raises it.
 
-**If the party wants to research the maker's mark:** Send them to the [[Library]]. [[Anni]] can confirm the workshop origins with a History check (DC 14). She'll also mention that someone else recently requested records about the same region. She doesn't know who — they didn't give a name.
+**If the party wants to research the maker's mark:** Send them to the [[Library]]. [[Anni]] can confirm [[The Sealed Workshop]]'s origins with a History check (DC 14) — she'll know it was sealed by administrative order, not destroyed, and that the closure record gives no reason. She'll also mention that someone else recently requested records about the same region. She doesn't know who — they didn't give a name.
 
 *The unsigned library request is [[Velthara]]'s breadcrumb.*
 
