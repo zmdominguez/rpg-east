@@ -68,4 +68,124 @@ Generate a comprehensive DM briefing for the upcoming session.
 [Brief summary of where things stand from the most recent session's Key Learnings]
 ```
 
-4. After output, ask: "Do you want me to create a session note for S## now?"
+4. After output, ask: "Do you want me to create a session prep folder for S## now?"
+
+---
+
+## Session Prep Folder (Deep Prep)
+
+When the DM wants a full scene-by-scene breakdown (not just a briefing), create a numbered folder:
+
+```
+personalNotes/sessions/upcoming/<sXX-session-title>/
+  00-index.md
+  01-<scene>.md
+  02-<scene>.md
+  ...
+  NN-loot.md
+```
+
+### File conventions
+
+**00-index.md — The session hub (not just a table of contents)**
+
+The index is the primary DM reference during the session. It must contain the full day/session sequence in narrative order, with each scene summarised inline AND linked to its dedicated file. A DM should be able to run the whole session from the index alone, diving into scene files only for full detail.
+
+```markdown
+# Session S##: [Title]
+
+**Party Level:** N
+**Type:** [Combat / Roleplay / Exploration / Mixed]
+**Location:** [[Location Name]]
+
+## Context
+[What the party carries into this session — open homework, key items, unresolved threads]
+
+---
+
+## The Day — Scene by Scene
+
+### Morning — [Scene Name]
+[2–4 sentence summary of what happens, who is involved, what the stakes are]
+**Full scene:** [[01-scene-file]]
+
+### Afternoon — [Scene Name]
+[Summary]
+**Full scene:** [[02-scene-file]]
+
+...
+
+---
+
+## DM Reference
+| File | Topic |
+|------|-------|
+| [[NN-file]] | Short description |
+
+## DM Goals
+- [ ] Specific outcome to hit this session
+```
+
+**Linking rules — always apply:**
+- Every location mentioned must be wiki-linked to its vault file: `[[Cross Bones Pub]]`, `[[Scarsith Temple]]`, etc.
+- Every NPC mentioned must be wiki-linked: `[[Nell]]`, `[[Mills]]`, `[[Gravy]]`, etc.
+- Every party member mentioned must be wiki-linked: `[[Selune]]`, `[[Kass]]`, etc.
+- If a location or NPC file does not yet exist in the public vault, still wiki-link it — the broken link is a reminder to create the file later.
+
+**New DM-only NPCs:**
+- Create their files in `personalNotes/NPCs/[Name].md` — not in `World/NPCs/`
+- Use the same frontmatter structure as public NPCs, plus a `dm-secret` tag
+- Include: description, what they know, what they want, DM notes on when/how to introduce them
+
+**Combat files** — Include:
+- Full stat block table (HP, AC, Speed, Initiative, Prof)
+- Ability score table
+- Attacks with hit/damage
+- Special abilities and per-turn guide (Turn 1: X, Turn 2: Y…)
+- Flee/surrender thresholds
+
+**Location/scene files** — Include:
+- Read-aloud text block
+- Environmental effects (difficult terrain, weather, DC checks)
+- Navigation or discovery methods with DCs
+- Links to all relevant NPCs and locations
+
+**NPC conversation files** — Include:
+- Personality and motivation
+- What they reveal and when
+- Key dialogue options with DM notes
+- What they know vs. what they will share
+
+**Resolution file** — List multiple outcome options:
+```
+## Option 1: [Outcome]
+[Consequence + reward]
+
+## Option 2: [Outcome]
+[Consequence + reward]
+```
+
+**Loot file** — Organize by source:
+```
+## Combat Loot
+| Item | Value | Source |
+...
+
+## Quest Rewards
+| Source | Reward |
+...
+```
+
+### Navigation footers
+
+Every file (except 00-index) ends with:
+```
+← [[NN-prev|Prev]] | [[00-index|Index]] | [[NN-next|Next →]]
+```
+
+### After the session
+
+Move the entire folder to `personalNotes/sessions/done/`. Then update vault files:
+- NPC status/location/notes for anyone introduced or changed
+- Location `## Notable Events` sections
+- Any new items introduced
