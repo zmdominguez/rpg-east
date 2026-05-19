@@ -8,17 +8,73 @@ tags:
   - party
 ---
 
-> [!infobox|right n-th wikipedia]
-> # <!-- IQ: =this.file.name -->Snag Ironvow<!-- /IQ -->
-> ![[Snag Ironvow.png|cover hsmall]]
+> [!statblocks|full]
+> ![[Placeholder.png|cover right circle p+tc htiny wtiny lp]]
 > 
-> | Type | Stat |
+> # <!-- IQ: =this.file.name -->Snag Ironvow<!-- /IQ -->
+>
+> |  |  |
 > | ---- | ---- |
-> | **Player** | <!-- IQ: =this.player -->NPC<!-- /IQ --> |
+> | **Player** | <!-- IQ: =this.player -->Canato<!-- /IQ --> |
 > | **Class** | <!-- IQ: =this.class -->Fighter<!-- /IQ --> |
-> | **Species** | <!-- IQ: =this.species -->Goblin<!-- /IQ --> |
-
-
+> | **Species** | <!-- IQ: =this.species -->Goblin<!-- /IQ --> | 
+> | **Level** | 5 (Champion) | 
+> 
+> ---
+| HP | AC | Initiative |
+|:---:|:---:|:---:|
+| 49 | 19 | +0 |
+>
+>> \***AC**: Chain Mail + Shield + Defense Fighting Style
+>
+| STR | DEX | CON | INT | WIS | CHA |  |
+|:---:|:---:|:---:|:---:|:---:|:---:|:--- |
+| 18 | 10  | 16 | 8 | 10 | 12 |  |
+| +4 | +0 | +3 | -1 | +0 | +1 | **Mod** |
+| +7 | +0 | +6 | -1 | +0 | +1 | **Sav** |
+>
+>> **Skills:** Athletics +7, Intimidation +4, Perception +3, Religion +2
+>
+|  |  |
+| ---:|:--- |
+| **Speed** | 30ft |
+| **Passive Perception** | 13 |
+| **Proficiency Bonus** | +3 |
+| **Darkvision** | 60ft |
+> 
+> ---
+> ## Attacks
+>- **Warhammer**: +7 to hit, 1d8+4 bludgeoning (versatile: 1d10+4 two-handed)
+>- **Throwing Hammer**: +7 to hit, range 20/60, 1d4+4 bludgeoning
+>
+> ---
+>> ## Class Features
+>> #### Second Wind
+>> (1/short rest) *"Sacred Breath of the Hammer!"*: Bonus action, regain 1d10+5 HP (avg 10)
+>> #### Extra Attack
+>> Two attacks per Attack action
+>> #### Action Surge
+>> (1/short rest) *"Holy Fury of the Hammer!"*: One additional action on your turn
+>> #### Indomitable
+>>  (1/long rest): Reroll one failed saving throw, must use new result
+>>  #### Improved Critical
+>>  Critical hits on 19–20
+>>  #### Remarkable Athlete
+>>  Add +1 (half prof) to STR/DEX/CON checks without proficiency
+>>
+>> ## Goblin Traits
+| | |
+| --- | :--- |
+| **Fury of the Small** | Once per turn when hitting a creature larger than Snag, deal +5 psychic damage |
+| **Nimble Escape** | Disengage or Hide as a bonus action |
+>> 
+>
+> ---
+> ## Equipment and Notable Items
+> #### Equipment
+> Chain Mail, Shield, Warhammer, 2 throwing hammers, self-carved bone holy symbol (tiny hammer on cord), mud-painted tabard
+> 
+> ---
 
 ## 🕯️ Backstory
 
@@ -42,37 +98,3 @@ He is the loudest person in any room he enters.
 
 ## 📝 Notes
 
-**Level:** 5 (Fighter — Champion)
-**HP:** 49 | **AC:** 19 (Chain Mail + Shield + Defense Fighting Style)
-**Speed:** 30 ft | **Initiative:** +0
-
-**Ability Scores:**
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
-| 18 (+4) | 10 (+0) | 16 (+3) | 8 (−1) | 10 (+0) | 12 (+1) |
-
-**Proficiency Bonus:** +3
-**Saves:** STR +7, CON +6
-**Skills:** Athletics +7, Intimidation +4, Perception +3, Religion +2
-**Senses:** Darkvision 60 ft | Passive Perception 13
-
-**Attacks:**
-- Warhammer: +7 to hit, 1d8+4 bludgeoning (versatile: 1d10+4 two-handed)
-- Throwing Hammer: +7 to hit, range 20/60, 1d4+4 bludgeoning
-
-**Fighter Features:**
-- **Extra Attack:** Two attacks per Attack action
-- **Action Surge** (1/short rest) — *"Holy Fury of the Hammer!"*: One additional action on your turn
-- **Second Wind** (1/short rest) — *"Sacred Breath of the Hammer!"*: Bonus action, regain 1d10+5 HP (avg 10)
-- **Indomitable** (1/long rest): Reroll one failed saving throw, must use new result
-
-**Champion Features:**
-- **Improved Critical:** Critical hits on 19–20
-- **Remarkable Athlete:** Add +1 (half prof) to STR/DEX/CON checks without proficiency
-
-**Goblin Traits:**
-- **Darkvision:** 60 ft
-- **Fury of the Small:** Once per turn when hitting a creature larger than Snag, deal +5 psychic damage
-- **Nimble Escape:** Disengage or Hide as a bonus action
-
-**Equipment:** Chain Mail, Shield, Warhammer, 2 throwing hammers, self-carved bone holy symbol (tiny hammer on cord), mud-painted tabard
