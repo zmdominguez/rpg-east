@@ -8,16 +8,82 @@ tags:
   - party
 ---
 
-> [!infobox|right n-th wikipedia]
-> # <!-- IQ: =this.file.name -->Jinx<!-- /IQ -->
-> ![[Placeholder.png|cover hsmall]]
+
+> [!statblocks|full]
+> ![[Placeholder.png|cover right circle p+tc htiny wtiny lp]]
 > 
-> | Type | Stat |
+> # <!-- IQ: =this.file.name -->Jinx<!-- /IQ -->
+>
+> |  |  |
 > | ---- | ---- |
 > | **Player** | <!-- IQ: =this.player -->Marco<!-- /IQ --> |
 > | **Class** | <!-- IQ: =this.class -->Sorcerer<!-- /IQ --> |
-> | **Species** | <!-- IQ: =this.species -->Aasimar<!-- /IQ --> |
-
+> | **Species** | <!-- IQ: =this.species -->Aasimar<!-- /IQ --> | 
+> | **Level** | 6 (Draconic Sorcery - Fire) | 
+> 
+> ---
+| HP | AC | Initiative |
+|:---:|:---:|:---:|
+| 50 | 16  |  +3 |
+>
+> AC: Draconic Resilience: 13 + DEX +3
+>
+| STR | DEX | CON | INT | WIS | CHA |  |
+|:---:|:---:|:---:|:---:|:---:|:---:|:--- |
+| 10 | 16  | 16 | 12 | 12 | 18 |  |
+| +0 | +3 | +3 | +1 | +1 | +4 | **Mod** |
+|  +0 | +3 | +6 | +1 | +1 | +7 | **Sav** |
+> 
+>
+|  |  |
+| ---:|:--- |
+| **Speed** | 30ft |
+| **Passive Perception** | 11 |
+| **Proficiency Bonus** | +3 |
+| **Darkvision** | 60ft |
+>
+> 
+>> ## Spells
+| Level | Slots | Spells |
+| ---: | --- | --- | 
+| 1st | 4 | Shield, Chromatic Orb |
+| 2nd | 3 | Misty Step, Scorching Ray |
+| 3rd | 3 | Fireball, Fly |
+| 4th | - | - |
+| 5th | - | - |
+>
+>> **Sorcery Points:** 6
+>
+>> #### Cantrips (4)
+>> Fire Bolt, Sorcerous Burst, Light, Mage Hand 
+>
+> ---
+> ## Attacks
+> - **Fire Bolt**: +7 to hit, 2d10 fire, range 120 ft
+> - **Sorcerous Burst**: +7 to hit, 2d8 fire, range 120 ft (roll an extra die on any max result)
+>- **Dagger**: +6 to hit, 1d4+3 piercing
+>
+> ---
+>> ## Class Features
+>> #### Metamagic
+>> **Quickened Spell** (2 SP). Cast a 1-action spell as a bonus action
+>> **Twinned Spell** (1–6 SP). Target a second creature with a single-target spell
+>> #### Draconic Bloodline (Fire)
+>> **Draconic Resilience**. +6 max HP, unarmored AC = 13 + DEX
+>> **Elemental Affinity (Fire)**. Add CHA mod (+4) to one fire damage roll per spell cast
+>>
+>> ## Fallen Aasimar Traits
+| | |
+| --- | :--- |
+| **Celestial Resistance** | Resist necrotic and radiant damage |
+| **Healing Hands** |  1/long rest; Action, touch, heal PBd4 |
+| **Necrotic Shroud** | 1/long rest; Bonus action, 1 minute — creatures within 10ft DC 15 CHA (8 + CHA mod + PB) save or frightened 1 turn; deal +6 necrotic damage once per turn when hitting |
+>
+> ---
+> ## Equipment and Notable Items
+> **Equipment:** Traveler's clothes, light armor, dagger, cartographer's tools
+>
+> ---
 
 
 ## 🕯️ Backstory
@@ -44,46 +110,3 @@ She speaks precisely and rarely.
 
 ## 📝 Notes
 
-**Level:** 6 (Sorcerer — Draconic Bloodline, Fire)
-**HP:** 50 | **AC:** 16 (Draconic Resilience: 13 + DEX +3)
-**Speed:** 30 ft | **Initiative:** +3
-
-**Ability Scores:**
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
-| 10 (+0) | 16 (+3) | 16 (+3) | 12 (+1) | 12 (+1) | 18 (+4) |
-
-**Proficiency Bonus:** +3
-**Saves:** CON +6, CHA +7
-**Skills:** Arcana +4, Deception +7, Stealth +6, Survival +4
-**Senses:** Darkvision 60 ft | Passive Perception 11
-
-**Attacks:**
-- Fire Bolt: +7 to hit, 2d10 fire, range 120 ft
-- Sorcerous Burst: +7 to hit, 2d8 fire, range 120 ft (roll an extra die on any max result)
-- Dagger: +6 to hit, 1d4+3 piercing
-
-**Cantrips (4):** Fire Bolt, Sorcerous Burst, Light, Mage Hand
-
-**Spells Known (7):**
-- 1st: Shield, Chromatic Orb
-- 2nd: Misty Step, Scorching Ray
-- 3rd: Fireball, Fly
-
-**Spell Slots:** 4 × 1st | 3 × 2nd | 3 × 3rd
-**Sorcery Points:** 6
-
-**Metamagic:**
-- Quickened Spell (2 SP): Cast a 1-action spell as a bonus action
-- Twinned Spell (1–6 SP): Target a second creature with a single-target spell
-
-**Draconic Bloodline (Fire):**
-- Draconic Resilience: +6 max HP, unarmored AC = 13 + DEX
-- Elemental Affinity (Fire): Add CHA mod (+4) to one fire damage roll per spell cast
-
-**Fallen Aasimar Traits:**
-- Celestial Resistance: Resist necrotic and radiant damage
-- Healing Hands (1/long rest): Action, touch, heal 6d4 HP
-- Necrotic Shroud (1/long rest): Bonus action, 1 minute — creatures within 10ft DC 15 CHA save or frightened 1 turn; deal +6 necrotic damage once per turn when hitting
-
-**Equipment:** Traveler's clothes, light armor, dagger, cartographer's tools
