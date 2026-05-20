@@ -19,7 +19,7 @@
 | STR | DEX | CON | INT | WIS | CHA |  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:--- |
 | xx | xx  | xx | xx | xx | xx |  |
-| +0 | +0 | +0 | +0 | +0 | +<!-- IQ: =this.wis_mod -->0<!-- /IQ --> | **Mod** |
+| +0 | +0 | +0 | +0 | +<!-- IQ: =this.wis_mod -->0<!-- /IQ --> | +0 | **Mod** |
 | +0 | +0 | +0 | +0 | +0 | +0 | **Sav** |
 >
 >> \*+<!-- IQ: =this.wis_mod -->0<!-- /IQ --> (WIS mod) to Arcana and Religion
