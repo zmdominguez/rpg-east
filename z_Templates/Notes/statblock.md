@@ -20,8 +20,14 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:--- |
 | xx | xx  | xx | xx | xx | xx |  |
 | +0 | +0 | +0 | +0 | +0 | +0 | **Mod** |
-| +0 | +0 | +0 | +0 | +0 | +0 | **Sav** |
-> 
+| +0 | +0 | +0 | +0 | +0 | <!-- IQ: =this.wis -->+x<!-- /IQ --> | **Sav** |
+>
+>> \*<!-- IQ: =this.wis -->+x<!-- /IQ --> (WIS mod) to Arcana and Religion
+>
+> %% 
+> Add modifiers or stats here used in other places. For example, this WIS modifier is used for other checks:
+> wis:: +x 
+> %%
 >
 |  |  |
 | ---:|:--- |
@@ -32,6 +38,13 @@
 >
 > 
 >> ## Spells
+>>
+>> |  |  |
+| ---:|:--- |
+| **Modifier** | +0 |
+| **Spell Attack** | +0 |
+| **Save DC** | xx |
+>>
 | Level | Slots | Spells |
 | ---: | --- | --- | 
 | 1st | 3 | Spell 1, Spell 2 |
@@ -56,7 +69,7 @@
 >> **Class Feature Subtitle.** Description
 >> **Class Feature Subtitle.** Description
 >>
->> ## Background Traits
+>> ## <!-- IQ: =this.species -->-<!-- /IQ --> Traits
 | | |
 | --- | :--- |
 | **Trait** | Description |
