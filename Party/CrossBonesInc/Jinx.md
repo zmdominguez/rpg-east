@@ -78,12 +78,7 @@ tags:
 | **Celestial Resistance** | Resist necrotic and radiant damage |
 | **Healing Hands** |  1/long rest; Action, touch, heal PBd4 |
 | **Necrotic Shroud** | 1/long rest; Bonus action, 1 minute — creatures within 10ft DC 15 CHA (8 + CHA mod + PB) save or frightened 1 turn; deal +6 necrotic damage once per turn when hitting |
->> 
 >
->> ## Feats
->> 
->> #### Feat title
->> **Feat subtitle**. Feat description
 > ---
 > ## Equipment and Notable Items
 > **Equipment:** Traveler's clothes, light armor, dagger, cartographer's tools
