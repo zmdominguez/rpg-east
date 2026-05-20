@@ -46,9 +46,9 @@ tags:
 >> ## Spells
 | Level | Slots | Spells |
 | ---: | --- | --- | 
-| 1st | 4 | Shield<br />Chromatic Orb |
-| 2nd | 3 | Misty Step<br />Scorching Ray |
-| 3rd | 3 | Fireball<br />Fly |
+| 1st | 4 | Shield, Chromatic Orb |
+| 2nd | 3 | Misty Step, Scorching Ray |
+| 3rd | 3 | Fireball, Fly |
 | 4th | - | - |
 | 5th | - | - |
 >

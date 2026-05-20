@@ -34,7 +34,7 @@
 >> ## Spells
 | Level | Slots | Spells |
 | ---: | --- | --- | 
-| 1st | 3 | Spell 1<br />Spell 2 |
+| 1st | 3 | Spell 1, Spell 2 |
 | 2nd | - | - |
 | 3rd | - | - |
 | 4th | - | - |

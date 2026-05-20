@@ -43,9 +43,9 @@ tags:
 >> ## Spells
 | Level | Slots | Spells |
 | ---: | --- | --- | 
-| 1st | 4 | Charm Person<br />Dissonant Whispers<br />Healing Word<br />Heroism<br />Longstrider |
-| 2nd | 3 | Aid<br />Blindness/Deafness<br />Mirror Image<br />Pass Without Trace |
-| 3rd | 2 | Dispel Magic<br />Mass Healing Word |
+| 1st | 4 | Charm Person, Dissonant Whispers, Healing Word, Heroism, Longstrider |
+| 2nd | 3 | Aid, Blindness/Deafness, Mirror Image, Pass Without Trace |
+| 3rd | 2 | Dispel Magic, Mass Healing Word |
 | 4th | - | - |
 | 5th | - | - |
 >
