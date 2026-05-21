@@ -8,7 +8,7 @@
 > | **Player** | <!-- IQ: =this.player -->-<!-- /IQ --> |
 > | **Class** | <!-- IQ: =this.class -->-<!-- /IQ --> |
 > | **Species** | <!-- IQ: =this.species -->-<!-- /IQ --> | 
-> | **Level** | x | 
+> | **Level** | <!-- IQ: =this.level -->1<!-- /IQ --> | 
 > 
 > ---
 | HP | AC | Initiative |
@@ -19,9 +19,16 @@
 | STR | DEX | CON | INT | WIS | CHA |  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:--- |
 | xx | xx  | xx | xx | xx | xx |  |
-| +0 | +0 | +0 | +0 | +0 | +0 | **Mod** |
+| +0 | +0 | +0 | +0 | +<!-- IQ: =this.wis_mod -->0<!-- /IQ --> | +0 | **Mod** |
 | +0 | +0 | +0 | +0 | +0 | +0 | **Sav** |
-> 
+>
+>> \*+<!-- IQ: =this.wis_mod -->0<!-- /IQ --> (WIS mod) to Arcana and Religion
+>
+> %% 
+> Add modifiers or stats here used in other places. For example, this WIS modifier is used for other checks:
+> level:: 1
+> wis_mod:: 0 
+> %%
 >
 |  |  |
 | ---:|:--- |
@@ -32,6 +39,13 @@
 >
 > 
 >> ## Spells
+>>
+>> |  |  |
+| ---:|:--- |
+| **Modifier** | +0 |
+| **Spell Attack** | +0 |
+| **Save DC** | xx |
+>>
 | Level | Slots | Spells |
 | ---: | --- | --- | 
 | 1st | 3 | Spell 1, Spell 2 |
@@ -56,7 +70,7 @@
 >> **Class Feature Subtitle.** Description
 >> **Class Feature Subtitle.** Description
 >>
->> ## Background Traits
+>> ## <!-- IQ: =this.species -->-<!-- /IQ --> Traits
 | | |
 | --- | :--- |
 | **Trait** | Description |
