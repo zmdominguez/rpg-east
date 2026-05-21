@@ -41,6 +41,8 @@ SORT file.name ASC
 - [[O00 Owl Curse]]
 - [[S00 The Quiet Year]]
 - [[S04 Finding Pipe]]
+- [[S05 Finding Pipe]]
+- [[S06 Chaos in the Garden]]
 
 
 <!-- SerializedQuery END -->
@@ -71,6 +73,14 @@ FROM "Party"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
+<!-- SerializedQuery: LIST FROM "Party" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[Aeris Whisperwind]]
+- [[Kass]]
+- [[Mirr]]
+- [[Selune]]
+
+
+<!-- SerializedQuery END -->
 
 
 #### World
@@ -81,6 +91,11 @@ FROM "World/Locations"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
+<!-- SerializedQuery: LIST FROM "World/Locations" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[Rootmother's Garden]]
+
+
+<!-- SerializedQuery END -->
 
 
 

@@ -16,6 +16,17 @@ SORT file.name ASC
     - Who is the in Venn's cabin?
     - What does the white wolf want?
 
+- [[S05 Finding Pipe]]: 
+    - What will Cross Bones Inc do with Pipe if they capture her?
+    - Does Kass's stolen Blood Root have consequences?
+    - Will the Root Guardian distinguish the party from the attackers?
+
+- [[S06 Chaos in the Garden]]: 
+    - What are the long-term effects of blood root on the party members?
+    - Does Kass's double exposure to blood root change anything?
+    - How does Eman react when the party returns without Pipe?
+    - Where did the Root Guardian land with Jinx — and what happened to Pipe?
+
 
 
 <!-- SerializedQuery END -->

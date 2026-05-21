@@ -10,13 +10,13 @@
 
 <!-- QueryToSerialize: 
 TABLE WITHOUT ID player as Player, file.link AS Character, class as Class, species as Species
-FROM "Party/The Baddies"
+FROM "Party/The baddies"
 SORT file.name ASC
 -->
-<!-- SerializedQuery: TABLE WITHOUT ID player as Player, file.link AS Character, class as Class, species as Species FROM "Party/The Baddies" SORT file.name ASC -->
+<!-- SerializedQuery: TABLE WITHOUT ID player as Player, file.link AS Character, class as Class, species as Species FROM "Party/The baddies" SORT file.name ASC -->
 
-| Player | Character                                              | Class                                     | Species  |
-| ------ | ------------------------------------------------------ | ----------------------------------------- | -------- |
+| Player | Character                                                     | Class                                     | Species  |
+| ------ | ------------------------------------------------------------- | ----------------------------------------- | -------- |
 | Zarah  | [[Aeris Whisperwind]] | <ul><li>Bard</li></ul>                    | Wood Elf |
 | Marco  | [[Kass]]                           | \-                                        | \-       |
 | Fiona  | [[Mirr]]                           | <ul><li>Warlock</li><li>Fighter</li></ul> | Goliath  |
@@ -39,6 +39,8 @@ SORT file.name ASC
 ---
 ## 📚 Session Index
 
+### 👼 The Baddies
+
 <!-- QueryToSerialize: 
 LIST
 FROM "Campaign Journal/The Baddies"
@@ -50,6 +52,8 @@ SORT file.name ASC
 - [[S02 Hostage Hoax]]
 - [[S03 The Thelasian Webs]]
 - [[S04 Finding Pipe]]
+- [[S05 Finding Pipe]]
+- [[S06 Chaos in the Garden]]
 
 
 <!-- SerializedQuery END -->
