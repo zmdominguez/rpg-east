@@ -20,7 +20,7 @@ cssclasses: even-table-col-6
 > | **16** |        |       |     |       |       |
 > | **23** |        |   ❌   |     |       |       |
 
-> [!info|bg-plain no-i]+ March
+> [!info|bg-plain no-i]- March
 > |        | Canato | Fiona | Ju | Marco | Zarah | Vitor |  
 > |:------:|:------:|:-----:|:--:|:-----:|:-----:|:-----:|  
 > | **2**  |        |   ❌   | ❌  |       |       |       |  
@@ -29,7 +29,7 @@ cssclasses: even-table-col-6
 > | **23** |        |       |    |       |       |       |  
 > | **30** |       |       |    |       |       |   ❌   |
 
-> [!info|bg-plain no-i]+ April
+> [!info|bg-plain no-i]- April
 > |        | Canato | Fiona | Ju | Marco | Zarah | Vitor |
 > |:------:|:------:|:-----:|:--:|:-----:|:-----:|:-----:|
 > | **6**  |       |       | ❌  |       |       |   ❌   |
@@ -43,7 +43,7 @@ cssclasses: even-table-col-6
 > | **4**  |        |       |    |       |       |       |
 > | **11** |        |       |    |       |       |       |
 > | **18** |        |       |    |       |       |       |
-> | **25** |        |       |    |       |       |       |
+> | **25** |        |  ❌ |    |       |       |       |
 
 > [!info|bg-plain no-i]+ June
 > |        | Canato | Fiona | Ju | Marco | Zarah | Vitor |
