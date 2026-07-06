@@ -1,6 +1,6 @@
 ---
 name: Naven
-species:
+species: Elf
 occupation: Herbalist
 location: Thornhaven
 tags:

@@ -11,7 +11,7 @@ tags:
 
 ## 📝 Notes
 - Wife: Hun Out
-- Son: Kele Out - **Dead** by owls during [[O00 Owl Curse]]
+- Son: Kele Out - **Dead**, killed by owls during the Saving War (after [[O00 Owl Curse]])
 
 ## 🗣️ Mentioned in
 
