@@ -32,4 +32,4 @@ Approximately thirty years ago it was sealed by order of the regional authority.
 
 ## Notable Events
 
-- [[S07 Return to Thornhaven]] — [[Mirr]] identifies a piece in the Thornhaven morning market bearing the workshop's maker's mark. The stall owner reports it came from a frightened traveler passing through from the direction of the ruins.
+- *(No sessions yet)*

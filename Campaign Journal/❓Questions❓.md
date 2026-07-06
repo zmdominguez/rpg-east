@@ -16,7 +16,7 @@ SORT file.name ASC
     - Who is the in Venn's cabin?
     - What does the white wolf want?
 
-- [[S05 Finding Pipe]]: 
+- [[S05 The Rootmother's Garden]]: 
     - What will Cross Bones Inc do with Pipe if they capture her?
     - Does Kass's stolen Blood Root have consequences?
     - Will the Root Guardian distinguish the party from the attackers?

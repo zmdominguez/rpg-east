@@ -47,7 +47,7 @@ tags:
 	- Nell and her priests have been fighting the zombies
 	- They think zombies might be coming from the graveyard
 - Graveyard 🪦
-	- We see [[Sir Alawin Van Trafford]] — a skeleton man riding a skeleton horse, both wearing armour
+	- We see Sir Alawin Van Trafford — a skeleton man riding a skeleton horse, both wearing armour
 	- Poison mushrooms at the entrance
 	- Maybe [[Mills]] stole his arm?
 

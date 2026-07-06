@@ -33,7 +33,7 @@ SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "Campaign Journal" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
 - [[S04 Finding Pipe]]
-- [[S05 Finding Pipe]]
+- [[S05 The Rootmother's Garden]]
 - [[S06 Chaos in the Garden]]
 
 

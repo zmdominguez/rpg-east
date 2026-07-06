@@ -52,7 +52,7 @@ SORT file.name ASC
 - [[S02 Hostage Hoax]]
 - [[S03 The Thelasian Webs]]
 - [[S04 Finding Pipe]]
-- [[S05 Finding Pipe]]
+- [[S05 The Rootmother's Garden]]
 - [[S06 Chaos in the Garden]]
 
 
