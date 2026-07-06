@@ -25,6 +25,7 @@ Create a new session note for the RPG campaign.
    - Session number: `$session_number`
    - Campaign type: `$campaign` (The Baddies/CrossBones/OneShot, default: The Baddies)
    - Session title
+   - Campaign year (in-world year, e.g. "Year 5" — check `World/Timeline.md` if unsure)
    - Location(s) visited
    - Party members present
 
@@ -38,6 +39,7 @@ Create a new session note for the RPG campaign.
 ```markdown
 ---
 date: YYYY-MM-DD
+campaign_year: "Year N"
 location:
   - "[[Location1]]"
   - "[[Location2]]"
@@ -55,6 +57,7 @@ tags:
 > | Type | Stat |
 > | ---- | ---- |
 > | **Date** | <!-- IQ: =this.date -->YYYY-MM-DD<!-- /IQ --> |
+> | **Campaign Year** | <!-- IQ: =this.campaign_year -->Year N<!-- /IQ --> |
 > | **Location** | <!-- IQ: =this.location -->-<!-- /IQ --> |
 > | **DM** | <!-- IQ: =this.dm -->-<!-- /IQ --> |
 > | **Party** | <!-- IQ: =this.party -->-<!-- /IQ --> |

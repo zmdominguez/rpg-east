@@ -1,5 +1,6 @@
 ---
 date: <% tp.date.now("YYYY-MM-DD") %>
+campaign_year:
 location:
 dm:
 party:
@@ -13,6 +14,7 @@ tags:
 > | Type | Stat |
 > | ---- | ---- |
 > | **Date** | <!-- IQ: =this.date --><% tp.date.now("YYYY-MM-DD") %><!-- /IQ --> |
+> | **Campaign Year** | <!-- IQ: =this.campaign_year -->-<!-- /IQ --> |
 > | **Location** | <!-- IQ: =this.location -->-<!-- /IQ --> |
 > | **DM** | <!-- IQ: =this.dm -->-<!-- /IQ --> |
 > | **Party** | <!-- IQ: =this.party -->-<!-- /IQ --> |
