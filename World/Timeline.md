@@ -48,7 +48,7 @@
 ---
 
 ## Year 5 - Current Year
-*[[S01 Sir Alawin Van Trafford]] • [[S02 Hostage Hoax]] • [[S03 The Thelasian Webs]] • [[S04 Finding Pipe]] • [[S05 Finding Pipe]] • [[S06 Chaos in the Garden]]*
+*[[S01 Sir Alawin Van Trafford]] • [[S02 Hostage Hoax]] • [[S03 The Thelasian Webs]] • [[S04 Finding Pipe]] • [[S05 The Rootmother's Garden]] • [[S06 Chaos in the Garden]]*
 
 - Red webs are spotted on the tunnel to Thelasian lost city, [[Akor]] talk about "The Weaver". [[Dr Clair Bucklebub]] trade the city access for her position as a vessel.
 - **[[Pipe Ashford]] Sighted** - [[Venn]] spots a woman matching Pipe's description in the [[World/Thornhaven Region/Veiled Peaks|Veiled Peaks]] after three years missing. Both [[Roderick Ashford]] and [[Eman]] seek to find her.

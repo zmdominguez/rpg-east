@@ -15,7 +15,7 @@ Mountain range north of Thornhaven that provides water to the farmlands through 
 - [[Venn]] — Waterkeeper who maintains the irrigation channels; disappeared without a trace overnight during S05
 
 ## Notable Events
-- [[S05 Finding Pipe]] — The party passed through en route to [[Cloudbreak Pass]]; encountered a six-legged wolf in the mist and a wolf pack blocking the path. [[Venn]] disappeared overnight here without explanation.
+- [[S05 The Rootmother's Garden]] — The party passed through en route to [[Cloudbreak Pass]]; encountered a six-legged wolf in the mist and a wolf pack blocking the path. [[Venn]] disappeared overnight here without explanation.
 
 ## Notable Locations
 - Ice Bridge - Narrow crossing over a deep chasm

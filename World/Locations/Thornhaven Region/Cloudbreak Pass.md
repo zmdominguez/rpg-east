@@ -11,4 +11,4 @@ A natural thermal boundary high in the [[Veiled Peaks]] where cold mountain air 
 
 ## Notable Events
 
-- [[S05 Finding Pipe]] — The party followed an owl through the Pass to reach the desert plateau beyond
+- [[S05 The Rootmother's Garden]] — The party followed an owl through the Pass to reach the desert plateau beyond
