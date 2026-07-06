@@ -1,5 +1,6 @@
 ---
 date: 2026-01-19
+campaign_year: "Year 2"
 location: Thornhaven
 dm: Canato
 party:
@@ -18,6 +19,7 @@ tags:
 > | Type | Stat |
 > | ---- | ---- |
 > | **Date** | <!-- IQ: =this.date -->2026-01-19<!-- /IQ --> |
+> | **Campaign Year** | <!-- IQ: =this.campaign_year -->Year 2<!-- /IQ --> |
 > | **Location** | <!-- IQ: =this.location -->Thornhaven<!-- /IQ --> |
 > | **DM** | <!-- IQ: =this.dm -->Canato<!-- /IQ --> |
 > | **Party** | <!-- IQ: =this.party -->Kaepora - Fiona, Silverwing - Marco, Talonshade - Vitor, Moris - Zarah<!-- /IQ --> |
@@ -55,7 +57,7 @@ tags:
 		- "[[Eman]] has forgotten her mission, we need to rescue her" 
 	- We think [[Eman]] would let us know if something bad happened to her
 		- Is she planning something big??
-- [[Vian Out]] a guard stationed in the South Gate
+- [[Vian Out]] a guard stationed in the East Gate
 	- We give him fake names
 		- Kaepora = Bob
 		- Silverwing = Who
@@ -63,8 +65,8 @@ tags:
 		- Moris = Mona
 	- Play dice with him
 	- Dinner with his family
-		- Wife Han
-		- Son Kelly
+		- Wife Hun
+		- Son Kele
 			- Learning about Scarsith in school
 			- Best friend is Pete, a dragon-born (lizard people)
 	- Cursed owls live across the lake
@@ -96,7 +98,7 @@ tags:
 	- Started shouting "The owls are in the city"
 	- Runs towards the town hall
 	- City's army starts attacking the party
-- A huge golem appears and kills everyone
+- The army captain kills everyone
 
 📍 Thornhaven landmarks:
 - South-west side of town:

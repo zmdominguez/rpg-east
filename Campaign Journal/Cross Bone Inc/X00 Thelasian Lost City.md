@@ -1,5 +1,6 @@
 ---
 date: 2026-01-02
+campaign_year: "Year 4"
 location: Thornhaven
 dm: Fiona
 party:
@@ -17,6 +18,7 @@ tags:
 > | Type | Stat |
 > | ---- | ---- |
 > | **Date** | <!-- IQ: =this.date -->2026-01-02<!-- /IQ --> |
+> | **Campaign Year** | <!-- IQ: =this.campaign_year -->Year 4<!-- /IQ --> |
 > | **Location** | <!-- IQ: =this.location -->Thornhaven<!-- /IQ --> |
 > | **DM** | <!-- IQ: =this.dm -->Fiona<!-- /IQ --> |
 > | **Party** | <!-- IQ: =this.party -->[[Party/CrossBonesInc/Jinx.md\|Jinx]], [[Party/CrossBonesInc/Nyra.md\|Nyra]], [[Party/Retired/Reverend Aldric.md\|Reverend Aldric]]<!-- /IQ --> |

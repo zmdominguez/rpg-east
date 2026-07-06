@@ -1,5 +1,6 @@
 ---
 date: 2025-02-16
+campaign_year: "Year 5"
 location:
   - Thornhaven
   - "[[Veiled Peaks]]"
@@ -19,6 +20,7 @@ tags:
 > | Type | Stat |
 > | ---- | ---- |
 > | **Date** | <!-- IQ: =this.date -->2025-02-16<!-- /IQ --> |
+> | **Campaign Year** | <!-- IQ: =this.campaign_year -->Year 5<!-- /IQ --> |
 > | **Location** | <!-- IQ: =this.location -->Thornhaven, [[World/Locations/Thornhaven Region/Veiled Peaks.md\|Veiled Peaks]]<!-- /IQ --> |
 > | **DM** | <!-- IQ: =this.dm -->Canato<!-- /IQ --> |
 > | **Party** | <!-- IQ: =this.party -->[[Party/The baddies/Aeris Whisperwind.md\|Aeris Whisperwind]], [[Party/The baddies/Kass.md\|Kass]], [[Party/The baddies/Mirr.md\|Mirr]], [[Party/The baddies/Selune.md\|Selune]]<!-- /IQ --> |
@@ -58,7 +60,7 @@ tags:
 	- Recently heard she was spotted on the mountains by [[Venn]]
 	- His wife, Maren, died from an illness soon after they moved to Thornhaven
 	- [[Pipe Ashford]] became obsessed with [[Blood root]]
-	- Reward: 20 gold and a candelabra
+\t- Reward: 40 gold and a candelabra
 - The party inspected Pipe's room
 	- Pretty normal-looking, modest room
 	- Found several things that may be of significance:
