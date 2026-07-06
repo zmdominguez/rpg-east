@@ -16,7 +16,10 @@ tags:
 - Father of [[Pipe Ashford]]
 - Wife Maren died during the Quiet Year
 - Has been searching for Pipe for three years while everyone else gave up
-- Sent a letter to the party asking for help
+- Hired the party (S04 contract: 40gp) to find Pipe — paid in full during S07 without being asked
+- Pipe chose to stay in the [[Rootmother's Garden]]; he has accepted this
+- [[Selune]] delivered Pipe's letter in S07 — he read it twice, hands shaking: *"She sounds like her mother"*
+- Plans to "clean out the house" — the party warned [[Eman]] this is not a healthy sign
 
 ## 🗣️ Mentioned in
 
