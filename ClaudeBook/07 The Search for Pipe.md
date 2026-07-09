@@ -30,7 +30,7 @@ The Mayor of Thornhaven was an imposing figure—dark skin, striking green eyes,
 
 "One of our founding settlers vanished years ago," Eman explained. "Her family still grieves. I need people I can trust to find her and bring her home."
 
-She introduced them to Venn—a gruff dwarf in his 250s who clearly despised being in the city. As Thornhaven's Waterkeeper, he maintained the irrigation channels from the [[World/Thornhaven Region/Veiled Peaks|Veiled Peaks]] that fed the farmlands below. He had also built much of the city itself: the stone walls, most houses, the water channels, even the [[Scarsith Temple]].
+She introduced them to Venn—a gruff dwarf in his 250s who clearly despised being in the city. As Thornhaven's Waterkeeper, he maintained the irrigation channels from the [[Veiled Peaks|Veiled Peaks]] that fed the farmlands below. He had also built much of the city itself: the stone walls, most houses, the water channels, even the [[Scarsith Temple]].
 
 Venn gave them a map and little else. His information was shallow, his manner curt. He wanted nothing more than to return to his mountains.
 

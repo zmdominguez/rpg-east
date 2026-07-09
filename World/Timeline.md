@@ -48,13 +48,15 @@
 ---
 
 ## Year 5 - Current Year
-*[[S01 Sir Alawin Van Trafford]] • [[S02 Hostage Hoax]] • [[S03 The Thelasian Webs]] • [[S04 Finding Pipe]] • [[S05 The Rootmother's Garden]] • [[S06 Chaos in the Garden]]*
+*[[S01 Sir Alawin Van Trafford]] • [[S02 Hostage Hoax]] • [[S03 The Thelasian Webs]] • [[S04 Finding Pipe]] • [[S05 The Rootmother's Garden]] • [[S06 Chaos in the Garden]] • [[X01 Mr Mayfair's Magical Mystorium]] • [[X02 The Wizard's Tower]]*
 
 - Red webs are spotted on the tunnel to Thelasian lost city, [[Akor]] talk about "The Weaver". [[Dr Clair Bucklebub]] trade the city access for her position as a vessel.
-- **[[Pipe Ashford]] Sighted** - [[Venn]] spots a woman matching Pipe's description in the [[World/Thornhaven Region/Veiled Peaks|Veiled Peaks]] after three years missing. Both [[Roderick Ashford]] and [[Eman]] seek to find her.
+- **[[Pipe Ashford]] Sighted** - [[Venn]] spots a woman matching Pipe's description in the [[Veiled Peaks]] after three years missing. Both [[Roderick Ashford]] and [[Eman]] seek to find her.
 - **[[Pipe Ashford]] Found** - The party discovers Pipe alive in the [[Rootmother's Garden]] beyond [[Cloudbreak Pass]]. She refuses to return to [[Thornhaven]], having become the garden's guardian. She holds a book of [[Blood root]] research she will share with no one.
 - **[[Cross Bones Inc]] Assaults the Rootmother's Garden** - Hired by [[Eman]], Cross Bones attempts to abduct Pipe and seize her research. The assault is foiled when the party intercepts [[Nyra]]'s teleportation device and uses it to send the Root Guardian to the base of the [[Veiled Peaks]] — where [[Jinx]] had already teleported with Pipe. Pipe's current fate is unknown.
 - **First Known Blood Root Attunement Ritual** - The party performs an ancient druid ritual using [[Blood root]] to bind Rootmother's Garden items uniquely to each bearer. Long-term effects of blood root exposure on living subjects remain unknown.
+- **[[Mr Mayfair]]'s Fair Appears and Vanishes** - A legendary traveling fair appears overnight outside Thornhaven. Its owner, [[Mr Mayfair]], is killed by adventurers during a confrontation inside the maze. The fair and all its magic disappears with him. [[Toodle]], a construct he created three centuries ago, is recovered by [[Jinx]].
+- **Ley Line Convergence Confirmed Near Thornhaven** - [[Perseus Perchance]], a centuries-old wizard operating from a tower on the outskirts of Thornhaven, is discovered to have been secretly harnessing an ancient Ley line — a natural source of concentrated magical energy — for centuries. The Wizard's Tower is destroyed when a sliver of condensed Ley line energy is extracted to repower [[Toodle]], destabilising the entire source. Perseus departs to locate a new Ley line. His research, unpublished and now lost with the tower, suggests Ley lines may represent a transformative power source.
 
 ---
 

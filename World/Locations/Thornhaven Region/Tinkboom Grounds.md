@@ -3,7 +3,7 @@ The main agricultural operation feeding Thornhaven. Unlike traditional farms, Ti
 
 ## Key Features
 - **Mechanical harvesters:** Goblin-built machines that cut and gather crops
-- **Irrigation pumps:** Connected to [[Venn]]'s water channels from the [[World/Thornhaven Region/Veiled Peaks|Veiled Peaks]]
+- **Irrigation pumps:** Connected to [[Venn]]'s water channels from the [[Veiled Peaks|Veiled Peaks]]
 - **Seed distributors:** Wheeled devices that plant rows with precision
 - **The Workshop:** Central building where goblins design and repair their inventions
 
