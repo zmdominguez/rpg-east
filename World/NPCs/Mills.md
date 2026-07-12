@@ -28,6 +28,7 @@ SORT file.name ASC
 - [[S01 Sir Alawin Van Trafford]]
 - [[S02 Hostage Hoax]]
 - [[S04 Finding Pipe]]
+- [[S07 Return to Thornhaven]]
 
 
 <!-- SerializedQuery END -->

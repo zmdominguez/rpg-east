@@ -6,6 +6,8 @@ occupation: Guardian
 location: "[[Rootmother's Garden]]"
 tags:
   - npc
+aliases:
+  - Pipe
 ---
 ## 👨‍🎤 Description
 - Human woman, late 20s
@@ -43,6 +45,7 @@ SORT file.name ASC
 - [[S04 Finding Pipe]]
 - [[S05 The Rootmother's Garden]]
 - [[S06 Chaos in the Garden]]
+- [[S07 Return to Thornhaven]]
 
 
 <!-- SerializedQuery END -->

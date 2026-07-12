@@ -6,6 +6,8 @@ occupation: Archaeologist
 location: Thornhaven
 tags:
   - npc
+aliases:
+  - Dr Clair
 ---
 ## 👨‍🎤 Description
 - Archaeologist
@@ -27,6 +29,7 @@ SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "Campaign Journal" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
 - [[S03 The Thelasian Webs]]
+- [[S07 Return to Thornhaven]]
 - [[X00 Thelasian Lost City]]
 
 

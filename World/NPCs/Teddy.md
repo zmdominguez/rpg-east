@@ -28,6 +28,11 @@ SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "Campaign Journal" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
 - [[S07 Return to Thornhaven]]
+
+
+<!-- SerializedQuery END -->
+<!-- SerializedQuery: LIST FROM "Campaign Journal" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[S07 Return to Thornhaven]]
 <!-- /SerializedQuery -->
 
 ##### NPCs
@@ -37,6 +42,11 @@ FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
+<!-- SerializedQuery: LIST FROM "World/NPCs" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[Eman]]
+
+
+<!-- SerializedQuery END -->
 <!-- SerializedQuery: LIST FROM "World/NPCs" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
 
 <!-- /SerializedQuery -->
