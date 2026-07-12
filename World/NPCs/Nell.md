@@ -31,6 +31,7 @@ SORT file.name ASC
 - [[O01 Nell Invitation]]
 - [[O02 A Day at the Scarsith Temple]]
 - [[S01 Sir Alawin Van Trafford]]
+- [[S07 Return to Thornhaven]]
 
 
 <!-- SerializedQuery END -->
@@ -46,6 +47,8 @@ SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "World/NPCs" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
 - [[Bramwell]]
+- [[Brother Toben]]
+- [[Eman]]
 
 
 <!-- SerializedQuery END -->

@@ -21,9 +21,9 @@ tags:
 > 
 > | Type | Stat |
 > | ---- | ---- |
-> | **Date** | <!-- IQ: =this.date -->2026-06-01[[]()]()<!-- /IQ --> |
+> | **Date** | <!-- IQ: =this.date -->2026-06-01<!-- /IQ --> |
 > | **Campaign Year** | <!-- IQ: =this.campaign_year -->Year 5<!-- /IQ --> |
-> | **Location** | <!-- IQ: =this.location -->[[Thornhaven]], [[TownHall]], [[Scarsith Temple]], [[Cross Bones Pub]]<!-- /IQ --> |
+> | **Location** | <!-- IQ: =this.location -->[[World/Locations/Thornhaven.md\|Thornhaven]], [[World/Locations/Thornhaven City/TownHall.md\|TownHall]], [[World/Locations/Thornhaven Region/Scarsith Temple.md\|Scarsith Temple]], [[World/Locations/Thornhaven City/Cross Bones Pub.md\|Cross Bones Pub]]<!-- /IQ --> |
 > | **DM** | <!-- IQ: =this.dm -->Canato<!-- /IQ --> |
 > | **Party** | <!-- IQ: =this.party -->[[Party/The baddies/Aeris Whisperwind.md\|Aeris Whisperwind]], [[Party/The baddies/Kass.md\|Kass]], [[Party/The baddies/Mirr.md\|Mirr]], [[Party/The baddies/Selune.md\|Selune]]<!-- /IQ --> |
 
@@ -36,10 +36,11 @@ tags:
 - [[Eman]] accepted the failed contract gracefully, paid 50 gold pieces per party member, and asked for discretion about Pipe's location
 - [[Aeris Whisperwind]] accepted a seat as the adventurers' representative on Thornhaven's future city council
 - [[Selune]] delivered [[Pipe Ashford]]'s letter to [[Roderick Ashford]] — he read it with shaking hands and a smile; "She sounds like her mother"
-- Roderick paid the S04 contract in full (40gp) and gave the party "The item, canato to complete later"
+- Roderick paid the [[S04 Finding Pipe]] contract in full (40gp) and gave the party [[Maren's Weeping Candle]]
 - The party shared a meal with [[Nell]] at the [[Scarsith Temple]] — she asked them to carry a census message to the eastern farms, discreetly, as [[Eman]]'s office watches her couriers
-- [[Brother Toben]], a weathered old priest at the temple, approached [[Selune]] alone after the meal: *"The silver eclipse. Where did you see it?"*
-- [[Mills]] made her pitch at the [[Cross Bones Pub]]: investigate the Thelasian ruins near [[Aussen]], assess what [[Dr Clair Bucklebub]] is doing, recover what's leaving the dig — 100gp per party member, deadline at dawn
+- [[Brother Toben]], a weathered old priest at the temple, approached [[Selune]] alone after the meal: 
+	>*"The silver eclipse. Where did you see it?"*
+- [[Mills]] made his pitch at the [[Cross Bones Pub]]: investigate the Thelasian ruins near [[Aussen]], assess what [[Dr Clair Bucklebub]] is doing, recover what's leaving the dig — 100gp per party member, deadline at dawn
 - [[Aeris Whisperwind]] performed at the [[Cross Bones Pub]] to a packed crowd, telling Pipe's story in vague terms — confirmed she is alive, framed her absence as a personal quest
 - During the performance, Aeris spotted a face she recognised from the night her father Thalen Rook gave his final performance at the Elarion high court — the figure noticed and fled
 - An owl delivered a feather to [[Selune]] that night — her druid circle's ritual has begun; knowledge will come when the owl returns

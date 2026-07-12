@@ -27,6 +27,14 @@ SORT file.name ASC
     - How does Eman react when the party returns without Pipe?
     - Where did the Root Guardian land with Jinx — and what happened to Pipe?
 
+- [[S07 Return to Thornhaven]]: 
+    - What was the familiar face from Elarion doing in Thornhaven — did they follow Aeris, or arrive for their own reasons?
+    - Who is moving goods out of The Sealed Workshop, and what is Dr Clair Bucklebub actually doing at the Thelasian ruins?
+    - What does Mirr's Pactbreaker Shard detect about Eman — is she actively using extra-planar power, or is she herself the source?
+    - What will Selune's druid circle ritual reveal about her origins and the silver eclipse?
+    - What does Brother Toben know about the silver eclipse — and how long has he been waiting for this moment?
+    - What is the underground gathering in Aussen that Teddy invited the party to?
+
 
 
 <!-- SerializedQuery END -->
