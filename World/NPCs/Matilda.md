@@ -3,7 +3,7 @@ name: Matilda
 status: Active
 species: Otyugh
 occupation: Pet / Guard (unofficial)
-location: "[[Unknown]] (departed with [[Perseus Perchance]])"
+location: Unknown (departed with [[Perseus Perchance]])
 tags:
   - npc
 ---

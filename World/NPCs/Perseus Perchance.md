@@ -3,7 +3,7 @@ name: Perseus Perchance
 status: Active
 species: Unknown (centuries old, appears human)
 occupation: Wizard / Ley Line Researcher
-location: Unknown (departed to find new Ley line source)
+location: Unknown (departed to find new ley line source)
 tags:
   - npc
 aliases:
