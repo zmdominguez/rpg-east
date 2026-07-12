@@ -34,4 +34,4 @@ The owl came after dark. It landed on [[Selune]]'s windowsill, left a single whi
 
 ---
 
-[[09 The Rootmother's Garden|← The Rootmother's Garden]] | [[00 Index|Back to Index]] | [[11 The Wizard's Tower | The Wizard's Tower →]]
+[[09 The Rootmother's Garden|← The Rootmother's Garden]] | [[00 Index|Back to Index]] | [[11 The Wizard's Tower|The Wizard's Tower →]]

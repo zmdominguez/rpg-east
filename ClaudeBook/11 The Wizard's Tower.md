@@ -36,4 +36,4 @@ By dawn the party rode back into the city. Mayor Emma met them with fifty gold p
 
 ---
 
-[[10 Mr Mayfair's Magical Mystorium|← Mr Mayfair's Magical Mystorium]] | [[00 Index|Back to Index]] | 
+[[10 Return to Thornhaven|← Return to Thornhaven]] | [[00 Index|Back to Index]] | 
