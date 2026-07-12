@@ -1,11 +1,13 @@
 ---
 player: Zarah
 name: Aeris Whisperwind
-class: 
+class:
   - Bard
 species: Wood Elf
 tags:
   - party
+aliases:
+  - Aeris
 ---
 
 > [!statblocks|full]
@@ -23,7 +25,7 @@ tags:
 > ---
 | HP | AC | Initiative |
 |:---:|:---:|:---:|
-| 15 | 13 |  +<!-- IQ: =this.dex_mod -->2<!-- /IQ --> |
+| 19 | 13 |  +<!-- IQ: =this.dex_mod -->2<!-- /IQ --> |
 >
 | STR | DEX | CON | INT | WIS | CHA |  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:--- |

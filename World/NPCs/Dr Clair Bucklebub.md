@@ -6,6 +6,8 @@ occupation: Archaeologist
 location: Thornhaven
 tags:
   - npc
+aliases:
+  - Dr Clair
 ---
 ## 👨‍🎤 Description
 - Archaeologist

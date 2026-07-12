@@ -6,6 +6,8 @@ occupation: Guardian
 location: "[[Rootmother's Garden]]"
 tags:
   - npc
+aliases:
+  - Pipe
 ---
 ## 👨‍🎤 Description
 - Human woman, late 20s
