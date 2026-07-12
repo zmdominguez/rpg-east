@@ -89,7 +89,7 @@ tags:
 	- [[Mirr]] stays in [[Cross Bones Pub]] and meets up with [[Teddy]] as agreed
 		- Teddy invited the party to an underground gathering in [[Aussen]]
 - **Meal at [[Scarsith Temple]] with [[Nell]]:**
-	- The was able to get horses from the North Gate of town
+	- The party was able to get horses from the North Gate of town
 	- [[Nell]] received the party over a modest meal — bread, broth, roasted vegetables
 	- Spoke at length about the lower districts and the people the church feeds before making her ask
 	- Request: carry a census message to the eastern farms, discreetly — [[Eman]]'s office watches her couriers, and this particular message cannot go astray
