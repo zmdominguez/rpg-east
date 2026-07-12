@@ -31,6 +31,11 @@ FROM "Campaign Journal"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
+<!-- SerializedQuery: LIST FROM "Campaign Journal" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[X02 The Wizard's Tower]]
+
+
+<!-- SerializedQuery END -->
 
 ##### NPCs
 
@@ -40,6 +45,11 @@ FROM "World/NPCs"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
+<!-- SerializedQuery: LIST FROM "World/NPCs" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[Perseus Perchance]]
+
+
+<!-- SerializedQuery END -->
 
 #### Party
 
@@ -58,5 +68,10 @@ FROM "World/Locations"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
+<!-- SerializedQuery: LIST FROM "World/Locations" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[Wizard's Tower]]
+
+
+<!-- SerializedQuery END -->
 
 ---

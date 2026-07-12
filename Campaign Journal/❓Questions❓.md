@@ -35,6 +35,11 @@ SORT file.name ASC
     - What does Brother Toben know about the silver eclipse — and how long has he been waiting for this moment?
     - What is the underground gathering in Aussen that Teddy invited the party to?
 
+- [[X02 The Wizard's Tower]]: 
+    - What will Perseus Perchance discover in his continued Ley line research?
+    - Now that Toodles runs on Ley line energy, will her abilities or behaviour change?
+    - What was Perseus so close to unlocking — true stabilisation of Ley line power, or something else?
+
 
 
 <!-- SerializedQuery END -->
