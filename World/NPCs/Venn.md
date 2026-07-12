@@ -16,7 +16,7 @@ tags:
 - Very private about his personal life
 
 ## 📝 Notes
-- Maintains the irrigation channels from the [[World/Thornhaven Region/Veiled Peaks|Veiled Peaks]] that feed Thornhaven's farmlands
+- Maintains the irrigation channels from the [[Veiled Peaks|Veiled Peaks]] that feed Thornhaven's farmlands
 - Main builder of Thornhaven - built the rock fence, most houses, water channels, and [[Scarsith Temple]]
 - Has a cabin in the mountains where he stays most of the time
 - Hates being in the city

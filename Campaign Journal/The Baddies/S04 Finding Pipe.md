@@ -90,7 +90,7 @@ tags:
 	- Saw a woman who might be Pipe two weeks ago
 		- She looked at him for a few minutes before disappearing into the mist
 - The party accepted both quests (Eman's and Roderick's)
-- Bought winter gear and headed to the [[World/Thornhaven Region/Veiled Peaks|Veiled Peaks]]
+- Bought winter gear and headed to the [[Veiled Peaks|Veiled Peaks]]
 	- [[Selune]], [[Mirr]], and [[Aeris Whisperwind]] bought full winter gear (30 gold)
 	- [[Kass]] bought basic gear (5 gold)
 - Met [[Tok]] at [[Tinkboom Grounds]]

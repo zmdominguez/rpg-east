@@ -1,21 +1,24 @@
 ---
-name: Toodle
+name: Matilda
 status: Active
-species: Constructor
-occupation: ex-Mayfair host
-location: "[[Jinx|with Jinx]]"
+species: Otyugh
+occupation: Pet / Guard (unofficial)
+location: Unknown (departed with [[Perseus Perchance]])
 tags:
   - npc
 ---
 ## 👨‍🎤 Description
-- A magical construct that guides people through the mirror maze
+- Enormous Otyugh — large aberration with multiple tentacles and three mouths
+- Adorned with pink bows tied around her tentacles by [[Perseus Perchance]]
+- Not conventionally cute, but clearly beloved
 
 ## 📝 Notes
-- Summoned by [[Mr Mayfair]] 300 years ago
-- Left behind after the fair disappeared; [[Jinx]] took her powered-down body with him
-- Repowered in [[X02 The Wizard's Tower]] by [[Perseus Perchance]] using a sliver of condensed Ley line energy
-- Now runs on Ley line energy rather than her original power source; long-term effects unknown
-- Upon reactivation, immediately asked about [[Mr Mayfair]] and his daughter
+- Lived in the basement cavern of the [[Wizard's Tower]] outside [[Thornhaven]]
+- [[Perseus Perchance]]'s pet; he wrote about her almost daily in his journal
+- Can communicate only in simple impressions and feelings (not true speech)
+- Very hungry; calmed with food — an onion from [[Jinx]]'s lucky dip bag earned instant trust
+- [[Perseus Perchance]] retrieved her from the collapsing tower using a magical collar
+- Departed with Perseus after the tower's destruction in [[X02 The Wizard's Tower]]
 
 
 ## 🗣️ Mentioned in
@@ -29,12 +32,10 @@ WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "Campaign Journal" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
-- [[X01 Mr Mayfair's Magical Mystorium]]
 - [[X02 The Wizard's Tower]]
 
 
 <!-- SerializedQuery END -->
-
 
 ##### NPCs
 
@@ -45,12 +46,10 @@ WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "World/NPCs" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
-- [[Mr Mayfair]]
 - [[Perseus Perchance]]
 
 
 <!-- SerializedQuery END -->
-
 
 #### Party
 
@@ -60,7 +59,6 @@ FROM "Party"
 WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
-
 
 #### World
 
@@ -75,6 +73,5 @@ SORT file.name ASC
 
 
 <!-- SerializedQuery END -->
-
 
 ---
