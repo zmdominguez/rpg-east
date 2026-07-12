@@ -1,5 +1,6 @@
 ---
 date: 2025-12-08
+campaign_year: "Year 5"
 location: Thornhaven
 dm: Canato
 party:
@@ -17,6 +18,7 @@ tags:
 > | Type | Stat |
 > | ---- | ---- |
 > | **Date** | <!-- IQ: =this.date -->2025-12-08<!-- /IQ --> |
+> | **Campaign Year** | <!-- IQ: =this.campaign_year -->Year 5<!-- /IQ --> |
 > | **Location** | <!-- IQ: =this.location -->Thornhaven<!-- /IQ --> |
 > | **DM** | <!-- IQ: =this.dm -->Canato<!-- /IQ --> |
 > | **Party** | <!-- IQ: =this.party -->[[Party/The baddies/Aeris Whisperwind.md\|Aeris Whisperwind]], [[Party/The baddies/Kass.md\|Kass]], [[Party/The baddies/Mirr.md\|Mirr]], [[Party/The baddies/Selune.md\|Selune]]<!-- /IQ --> |
@@ -45,9 +47,9 @@ tags:
 	- Nell and her priests have been fighting the zombies
 	- They think zombies might be coming from the graveyard
 - Graveyard 🪦
-	- We see a skeleton man riding a skeleton horse, both wearing armour
+	- We see Sir Alawin Van Trafford — a skeleton man riding a skeleton horse, both wearing armour
 	- Poison mushrooms at the entrance
-	- Maybe Mills stole his arm?
+	- Maybe [[Mills]] stole his arm?
 
 
 ## 📓 Homework

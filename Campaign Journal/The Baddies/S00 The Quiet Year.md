@@ -1,5 +1,6 @@
 ---
 date: 2025-12-07
+campaign_year: "Year 0"
 location: Thornhaven
 dm: Canato
 party:
@@ -14,6 +15,7 @@ tags:
 > | Type | Stat |
 > | ---- | ---- |
 > | **Date** | <!-- IQ: =this.date -->2025-12-07<!-- /IQ --> |
+> | **Campaign Year** | <!-- IQ: =this.campaign_year -->Year 0<!-- /IQ --> |
 > | **Location** | <!-- IQ: =this.location -->Thornhaven<!-- /IQ --> |
 > | **DM** | <!-- IQ: =this.dm -->Canato<!-- /IQ --> |
 > | **Party** | <!-- IQ: =this.party -->Villagers<!-- /IQ --> |

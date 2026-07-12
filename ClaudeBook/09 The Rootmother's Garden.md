@@ -40,7 +40,7 @@ The garden was no longer a sanctuary.
 
 ---
 
-*Based on the events of [[S05 Finding Pipe]]*
+*Based on the events of [[S05 The Rootmother's Garden]]*
 
 ---
 

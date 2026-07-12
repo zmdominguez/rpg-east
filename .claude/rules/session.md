@@ -18,6 +18,7 @@ Use zero-padded numbers: S05, X01, O02.
 ```yaml
 ---
 date: YYYY-MM-DD
+campaign_year: "Year N"
 location:
   - "[[Location1]]"
   - "[[Location2]]"
@@ -29,7 +30,7 @@ tags:
   - session
 ---
 ```
-All wiki-links in YAML must be quoted.
+All wiki-links in YAML must be quoted. `campaign_year` is the in-world year (e.g. `"Year 5"`), distinct from the real-world session date.
 
 ## Infobox Block (immediately after frontmatter)
 ```markdown
@@ -39,6 +40,7 @@ All wiki-links in YAML must be quoted.
 > | Type | Stat |
 > | ---- | ---- |
 > | **Date** | <!-- IQ: =this.date -->YYYY-MM-DD<!-- /IQ --> |
+> | **Campaign Year** | <!-- IQ: =this.campaign_year -->Year N<!-- /IQ --> |
 > | **Location** | <!-- IQ: =this.location -->-<!-- /IQ --> |
 > | **DM** | <!-- IQ: =this.dm -->-<!-- /IQ --> |
 > | **Party** | <!-- IQ: =this.party -->-<!-- /IQ --> |

@@ -1,5 +1,6 @@
 ---
 date: 2026-03-23
+campaign_year: "Year 5"
 location: Thornhaven
 dm: Fiona
 party:
@@ -18,6 +19,7 @@ tags:
 > | Type | Stat |
 > | ---- | ---- |
 > | **Date** | <!-- IQ: =this.date -->2026-03-23<!-- /IQ --> |
+> | **Campaign Year** | <!-- IQ: =this.campaign_year -->Year 5<!-- /IQ --> |
 > | **Location** | <!-- IQ: =this.location -->Thornhaven<!-- /IQ --> |
 > | **DM** | <!-- IQ: =this.dm -->Fiona<!-- /IQ --> |
 > | **Party** | <!-- IQ: =this.party -->[[Party/CrossBonesInc/Jinx.md\|Jinx]], [[Party/CrossBonesInc/Nyra.md\|Nyra]], [[Party/Retired/Reverend Aldric.md\|Reverend Aldric]], [[Party/The baddies/Selune.md\|Selune]]<!-- /IQ --> |
@@ -94,7 +96,7 @@ tags:
 		- [[Toodle]]'s reflection in the mirror shows her hovering over a huge pile of bones
 		- The mirror shows each person's desire
 			- [[Reverend Aldric]] sees his family
-			- [[Jinx]] sees [[Reverend Aldric]] finally becoming his teacher
+			- [[Jinx]] sees [[Reverend Aldric]] finally becoming her teacher
 			- [[Nyra]] sees herself back in her hometown and not having to run anymore
 			- [[Selune]] sees herself with her family enjoying nature together
 			- The zombies also see their desires
@@ -124,7 +126,7 @@ tags:
 	- After [[Mr Mayfair]] died, the fair and all magic disappeared
 		- [[Toodle]] laid in the middle of the fairground, powered down
 		- [[Reverend Aldric]] gathered all the bones, and [[Mr Mayfair]]'s body, to be buried
-		- [[Jinx]] took [[Toodle]] with him
+		- [[Jinx]] took [[Toodle]] with her
 		- [[Reverend Aldric]] decided to retire from adventuring
 
 

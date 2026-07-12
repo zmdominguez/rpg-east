@@ -1,5 +1,6 @@
 ---
 date: 2026-02-24
+campaign_year: "Year 3"
 location: Thornhaven
 dm: Canato
 party:
@@ -17,6 +18,7 @@ tags:
 > | Type | Stat |
 > | ---- | ---- |
 > | **Date** | <!-- IQ: =this.date -->2026-02-24<!-- /IQ --> |
+> | **Campaign Year** | <!-- IQ: =this.campaign_year -->Year 3<!-- /IQ --> |
 > | **Location** | <!-- IQ: =this.location -->Thornhaven<!-- /IQ --> |
 > | **DM** | <!-- IQ: =this.dm -->Canato<!-- /IQ --> |
 > | **Party** | <!-- IQ: =this.party -->[[Party/Extras/Brynn Ashveil.md\|Brynn]], [[Party/Extras/Quickfoot.md\|Quickfoot]], [[Party/Extras/Caelan Duskrow.md\|Caelan Duskrow]]<!-- /IQ --> |

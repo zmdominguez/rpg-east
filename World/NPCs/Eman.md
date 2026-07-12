@@ -39,7 +39,7 @@ SORT file.name ASC
 - [[O02 A Day at the Scarsith Temple]]
 - [[S00 The Quiet Year]]
 - [[S04 Finding Pipe]]
-- [[S05 Finding Pipe]]
+- [[S05 The Rootmother's Garden]]
 - [[S06 Chaos in the Garden]]
 
 

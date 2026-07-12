@@ -41,7 +41,7 @@ SORT file.name ASC
 - [[O00 Owl Curse]]
 - [[S00 The Quiet Year]]
 - [[S04 Finding Pipe]]
-- [[S05 Finding Pipe]]
+- [[S05 The Rootmother's Garden]]
 - [[S06 Chaos in the Garden]]
 
 
