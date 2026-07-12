@@ -60,7 +60,7 @@ tags:
 	- Recently heard she was spotted on the mountains by [[Venn]]
 	- His wife, Maren, died from an illness soon after they moved to Thornhaven
 	- [[Pipe Ashford]] became obsessed with [[Blood root]]
-\t- Reward: 40 gold and a candelabra
+- Reward: 40 gold and a candelabra
 - The party inspected Pipe's room
 	- Pretty normal-looking, modest room
 	- Found several things that may be of significance:

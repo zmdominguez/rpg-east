@@ -1,6 +1,6 @@
 ---
 date: 2026-05-10
-campaign_year: "Year 5"
+campaign_year: Year 5
 location:
   - "[[Veiled Peaks]]"
   - "[[Cloudbreak Pass]]"
@@ -16,13 +16,13 @@ tags:
 ---
 
 > [!infobox|right n-th wikipedia]
-> # <!-- IQ: =this.file.name -->S05 Finding Pipe<!-- /IQ -->
+> # <!-- IQ: =this.file.name -->S05 The Rootmother's Garden<!-- /IQ -->
 > 
 > | Type | Stat |
 > | ---- | ---- |
-> | **Date** | <!-- IQ: =this.date -->2026-05-11<!-- /IQ --> |
+> | **Date** | <!-- IQ: =this.date -->2026-05-10<!-- /IQ --> |
 > | **Campaign Year** | <!-- IQ: =this.campaign_year -->Year 5<!-- /IQ --> |
-> | **Location** | <!-- IQ: =this.location -->[[Veiled Peaks]], [[Cloudbreak Pass]], [[Rootmother's Garden]]<!-- /IQ --> |
+> | **Location** | <!-- IQ: =this.location -->[[World/Locations/Thornhaven Region/Veiled Peaks.md\|Veiled Peaks]], [[World/Locations/Thornhaven Region/Cloudbreak Pass.md\|Cloudbreak Pass]], [[World/Locations/Thornhaven Region/Rootmother's Garden.md\|Rootmother's Garden]]<!-- /IQ --> |
 > | **DM** | <!-- IQ: =this.dm -->Canato<!-- /IQ --> |
 > | **Party** | <!-- IQ: =this.party -->[[Party/The baddies/Aeris Whisperwind.md\|Aeris Whisperwind]], [[Party/The baddies/Kass.md\|Kass]], [[Party/The baddies/Mirr.md\|Mirr]], [[Party/The baddies/Selune.md\|Selune]]<!-- /IQ --> |
 
