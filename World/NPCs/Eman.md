@@ -19,6 +19,8 @@ tags:
 - Went missing shortly after arrival with a note bearing a [[Blood root]] drawing
 - Hired [[Cross Bones Inc]] to retrieve [[Pipe Ashford]] from the [[Rootmother's Garden]] — the mission failed; the party and the Root Guardian repelled them
 - Her interest in Pipe is about power, not love
+- In S07, met with the party warmly after Cross Bones's failure — paid 50gp per party member (half the agreed sum) and asked for discretion about Pipe's whereabouts
+- Offered [[Aeris Whisperwind]] a seat as adventurers' representative on Thornhaven's future city council — accepted
 
 ## 🗣️ Mentioned in
 

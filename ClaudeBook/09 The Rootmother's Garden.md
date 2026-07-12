@@ -44,4 +44,4 @@ The garden was no longer a sanctuary.
 
 ---
 
-[[08 Interlude - The Scarsith Summons|← The Scarsith Summons]] | [[00 Index|Back to Index]] | [[10 Placeholder|Next Chapter →]]
+[[08 Interlude - The Scarsith Summons|← The Scarsith Summons]] | [[00 Index|Back to Index]] | [[10 Return to Thornhaven|Return to Thornhaven →]]

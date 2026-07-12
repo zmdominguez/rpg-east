@@ -1,24 +1,25 @@
 ---
-name: Nell
+name: Teddy
+status: Active
 species: Human
-occupation: Priestess
-location: Thornhaven
+occupation: City Guard
+location: "[[Thornhaven]]"
 tags:
   - npc
 ---
 ## 👨‍🎤 Description
 
+A young, amiable city guard. Friendly enough to be talked into a detour for a beer while on escort duty. Goes by "Daddy" as a nickname — origin unclear.
+
 ## 📝 Notes
-- High Priestess of [[Scarsith Temple]] in [[Thornhaven]]
-- Fights zombies with her priests
-- In S07, invited the party to share a meal at the temple — made her pitch over bread and broth
-- Asked the party to carry a census message to the eastern farms, discreetly — [[Eman]]'s office watches her couriers and this particular message cannot go astray
-- [[Brother Toben]] is one of her congregation
+
+- Encountered escorting the party toward [[TownHall]] on [[Eman]]'s invitation ([[S07 Return to Thornhaven]])
+- [[Mirr]] convinced him to stop for a beer rather than rush straight to the TownHall
+- Invited the party to an underground gathering in [[Aussen]]
 
 ## 🗣️ Mentioned in
 
 #### Sessions
-
 <!-- QueryToSerialize: 
 LIST
 FROM "Campaign Journal"
@@ -26,18 +27,10 @@ WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "Campaign Journal" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
-- [[❓Questions❓]]
-- [[🔮 Lore 🔮]]
-- [[O01 Nell Invitation]]
-- [[O02 A Day at the Scarsith Temple]]
-- [[S01 Sir Alawin Van Trafford]]
-
-
-<!-- SerializedQuery END -->
-
+- [[S07 Return to Thornhaven]]
+<!-- /SerializedQuery -->
 
 ##### NPCs
-
 <!-- QueryToSerialize: 
 LIST
 FROM "World/NPCs"
@@ -45,14 +38,10 @@ WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "World/NPCs" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
-- [[Bramwell]]
 
-
-<!-- SerializedQuery END -->
-
+<!-- /SerializedQuery -->
 
 #### Party
-
 <!-- QueryToSerialize: 
 LIST
 FROM "Party"
@@ -60,15 +49,10 @@ WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "Party" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
-- [[Brynn Ashveil]]
-- [[Quickfoot]]
 
-
-<!-- SerializedQuery END -->
-
+<!-- /SerializedQuery -->
 
 #### World
-
 <!-- QueryToSerialize: 
 LIST
 FROM "World/Locations"
@@ -76,12 +60,5 @@ WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "World/Locations" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
-- [[Scarsith Temple]]
-- [[Thornhaven]]
 
-
-<!-- SerializedQuery END -->
-
-
-
----
+<!-- /SerializedQuery -->

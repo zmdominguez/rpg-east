@@ -32,7 +32,10 @@
 9. [[09 The Rootmother's Garden|Chapter Six: The Rootmother's Garden]]
    *A missing woman found, a garden betrayed, and mercenaries in the night*
 
-10. [[99 Epilogue - Mysteries Unresolved|Epilogue: Mysteries Unresolved]]
+10. [[10 Return to Thornhaven|Chapter Seven: Return to Thornhaven]]
+   *A warm welcome, a familiar face in the crowd, and an owl in the night*
+
+11. [[99 Epilogue - Mysteries Unresolved|Epilogue: Mysteries Unresolved]]
    *Questions that linger in the shadows*
 
 ---
