@@ -1,6 +1,5 @@
 ---
 date: 2026-07-06
-campaign_year: Year 5
 location:
   - "[[Cross Bones Pub]]"
   - "[[Wizard's Tower]]"
