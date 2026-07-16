@@ -9,7 +9,7 @@ location:
 dm: Canato
 party:
   - "[[Aeris Whisperwind]]"
-  - "[[Kass]]"
+  - "[[Kass of House Hawk]]"
   - "[[Mirr]]"
   - "[[Selune]]"
 tags:
@@ -25,7 +25,7 @@ tags:
 > | **Campaign Year** | <!-- IQ: =this.campaign_year -->Year 5<!-- /IQ --> |
 > | **Location** | <!-- IQ: =this.location -->[[World/Locations/Thornhaven.md\|Thornhaven]], [[World/Locations/Thornhaven City/TownHall.md\|TownHall]], [[World/Locations/Thornhaven Region/Scarsith Temple.md\|Scarsith Temple]], [[World/Locations/Thornhaven City/Cross Bones Pub.md\|Cross Bones Pub]]<!-- /IQ --> |
 > | **DM** | <!-- IQ: =this.dm -->Canato<!-- /IQ --> |
-> | **Party** | <!-- IQ: =this.party -->[[Party/The baddies/Aeris Whisperwind.md\|Aeris Whisperwind]], [[Party/The baddies/Kass.md\|Kass]], [[Party/The baddies/Mirr.md\|Mirr]], [[Party/The baddies/Selune.md\|Selune]]<!-- /IQ --> |
+> | **Party** | <!-- IQ: =this.party -->[[Party/The baddies/Aeris Whisperwind.md\|Aeris Whisperwind]], [[Kass of House Hawk\|Kass of House Hawk]], [[Party/The baddies/Mirr.md\|Mirr]], [[Party/The baddies/Selune.md\|Selune]]<!-- /IQ --> |
 
 
 ## 💡Key Learnings
@@ -84,7 +84,7 @@ tags:
 	- Selune and Aeris drop by the library
 		- [[Dr Clair Bucklebub|Dr Clair]] is not there
 - Meanwhile, back in town:
-	- [[Kass]] wanted to get a new set of armour
+	- [[Kass of House Hawk]] wanted to get a new set of armour
 		- Tried to low-ball the armourer and pisses them off
 	- [[Mirr]] stays in [[Cross Bones Pub]] and meets up with [[Teddy]] as agreed
 		- Teddy invited the party to an underground gathering in [[Aussen]]

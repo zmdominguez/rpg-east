@@ -1,11 +1,11 @@
 ---
 date: 2025-12-08
-campaign_year: "Year 5"
+campaign_year: Year 5
 location: Thornhaven
 dm: Canato
 party:
   - "[[Aeris Whisperwind]]"
-  - "[[Kass]]"
+  - "[[Kass of House Hawk]]"
   - "[[Mirr]]"
   - "[[Selune]]"
 tags:
@@ -21,7 +21,7 @@ tags:
 > | **Campaign Year** | <!-- IQ: =this.campaign_year -->Year 5<!-- /IQ --> |
 > | **Location** | <!-- IQ: =this.location -->Thornhaven<!-- /IQ --> |
 > | **DM** | <!-- IQ: =this.dm -->Canato<!-- /IQ --> |
-> | **Party** | <!-- IQ: =this.party -->[[Party/The baddies/Aeris Whisperwind.md\|Aeris Whisperwind]], [[Party/The baddies/Kass.md\|Kass]], [[Party/The baddies/Mirr.md\|Mirr]], [[Party/The baddies/Selune.md\|Selune]]<!-- /IQ --> |
+> | **Party** | <!-- IQ: =this.party -->[[Party/The baddies/Aeris Whisperwind.md\|Aeris Whisperwind]], [[Kass of House Hawk\|Kass of House Hawk]], [[Party/The baddies/Mirr.md\|Mirr]], [[Party/The baddies/Selune.md\|Selune]]<!-- /IQ --> |
 
 ## 💡Key Learnings 
 

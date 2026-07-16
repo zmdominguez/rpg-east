@@ -1,12 +1,12 @@
 ---
 date: 2026-05-11
-campaign_year: "Year 5"
+campaign_year: Year 5
 location:
   - "[[Rootmother's Garden]]"
 dm: Canato
 party:
   - "[[Aeris Whisperwind]]"
-  - "[[Kass]]"
+  - "[[Kass of House Hawk]]"
   - "[[Mirr]]"
   - "[[Selune]]"
 tags:
@@ -22,20 +22,20 @@ tags:
 > | **Campaign Year** | <!-- IQ: =this.campaign_year -->Year 5<!-- /IQ --> |
 > | **Location** | <!-- IQ: =this.location -->[[World/Locations/Thornhaven Region/Rootmother's Garden.md\|Rootmother's Garden]]<!-- /IQ --> |
 > | **DM** | <!-- IQ: =this.dm -->Canato<!-- /IQ --> |
-> | **Party** | <!-- IQ: =this.party -->[[Party/The baddies/Aeris Whisperwind.md\|Aeris Whisperwind]], [[Party/The baddies/Kass.md\|Kass]], [[Party/The baddies/Mirr.md\|Mirr]], [[Party/The baddies/Selune.md\|Selune]]<!-- /IQ --> |
+> | **Party** | <!-- IQ: =this.party -->[[Party/The baddies/Aeris Whisperwind.md\|Aeris Whisperwind]], [[Kass of House Hawk\|Kass of House Hawk]], [[Party/The baddies/Mirr.md\|Mirr]], [[Party/The baddies/Selune.md\|Selune]]<!-- /IQ --> |
 
 
 ## 💡Key Learnings
 
 - The Desert Yeti died quickly in the opening chaos
-- [[Kass]] and [[Aeris Whisperwind]] stole [[Nyra]]'s teleportation device and threw it near the Root Guardian — the Guardian was teleported to the base of the mountain, where [[Jinx]] had landed with [[Pipe Ashford]]
+- [[Kass of House Hawk]] and [[Aeris Whisperwind]] stole [[Nyra]]'s teleportation device and threw it near the Root Guardian — the Guardian was teleported to the base of the mountain, where [[Jinx]] had landed with [[Pipe Ashford]]
 - [[Nyra]] fled when she realised [[Jinx]] and the Guardian were both gone and [[Eman]]'s mission had failed
 - [[Pipe Ashford]] is shaken but safe — she will not be naive about the garden's security again
 - Pipe can activate more guardian statues in the garden but never bothered — she will not make that mistake again
 - Pipe exchanged magic items from the Rootmother's Garden for the party accepting her decision to stay
 - [[Selune]] recalled an ancient druid ritual — the party performed a blood root sacrifice to attune the items uniquely to each of them
 - The blood root sacrifice has unknown long-term effects on the party
-- [[Kass]] has now had double exposure to blood root (stole some in S05, sacrificed more in S06)
+- [[Kass of House Hawk]] has now had double exposure to blood root (stole some in S05, sacrificed more in S06)
 - [[Selune]] still carries Pipe's letter addressed to [[Roderick Ashford]]
 - The party must now return to [[Thornhaven]] and face [[Eman]]'s wrath
 
@@ -50,7 +50,7 @@ tags:
 - Session resumed mid-combat from S05: garden burning, Pipe unconscious, Root Guardian animated
 - Desert Yeti charged aggressively but went down fast
 - [[Jinx]] had grabbed Pipe and was fleeing toward the garden exit
-- [[Kass]] and [[Aeris Whisperwind]] worked together to pry [[Nyra]]'s teleportation device off her
+- [[Kass of House Hawk]] and [[Aeris Whisperwind]] worked together to pry [[Nyra]]'s teleportation device off her
 	- Threw the device close enough to the Root Guardian for it to trigger
 	- Root Guardian was teleported to the base of the mountain — same destination as [[Jinx]] and Pipe
 - [[Nyra]] assessed the situation: Jinx gone, Guardian gone, no muscle to bring Pipe to [[Eman]]
@@ -64,7 +64,7 @@ tags:
 - **The exchange:**
 	- Pipe offered magic items from the Rootmother's Garden in exchange for the party accepting her choice
 	- [[Aeris Whisperwind]] received the **Whisperwind Quill**
-	- [[Kass]] received the **Stoneheart Gauntlet**
+	- [[Kass of House Hawk]] received the **Stoneheart Gauntlet**
 	- [[Mirr]] received the **Pactbreaker Shard**
 	- [[Selune]] received the **Moonpetal Circlet**
 - **The blood root ritual:**
@@ -72,7 +72,7 @@ tags:
 	- The party sacrificed some of their life force using blood root to bind the items uniquely to themselves
 	- Items are attuned to each bearer only — they cannot be used by anyone else
 	- The ritual's long-term effects from blood root exposure remain unknown
-	- [[Kass]] had prior exposure (stole blood root in S05) — double exposure, unknown implications
+	- [[Kass of House Hawk]] had prior exposure (stole blood root in S05) — double exposure, unknown implications
 - Party departed the garden at dawn, heading back toward [[Thornhaven]]
 
 - [question:: What are the long-term effects of blood root on the party members?]

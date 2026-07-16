@@ -18,7 +18,7 @@ SORT file.name ASC
 | Player | Character                                                     | Class                                     | Species  |
 | ------ | ------------------------------------------------------------- | ----------------------------------------- | -------- |
 | Zarah  | [[Aeris Whisperwind]] | <ul><li>Bard</li></ul>                    | Wood Elf |
-| Marco  | [[Kass]]                           | \-                                        | \-       |
+| Marco  | [[Kass of House Hawk]]                           | \-                                        | \-       |
 | Fiona  | [[Mirr]]                           | <ul><li>Warlock</li><li>Fighter</li></ul> | Goliath  |
 | Ju     | [[Selune]]                       | <ul><li>Druid</li></ul>                   | Wood Elf |
 

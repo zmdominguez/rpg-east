@@ -78,7 +78,7 @@ SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "Party" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
 - [[Aeris Whisperwind]]
-- [[Kass]]
+- [[Kass of House Hawk]]
 - [[Mirr]]
 - [[Selune]]
 
