@@ -29,6 +29,7 @@ SORT file.name ASC
 - [[S02 Hostage Hoax]]
 - [[S04 Finding Pipe]]
 - [[S07 Return to Thornhaven]]
+- [[S08 Following the Owl]]
 
 
 <!-- SerializedQuery END -->
@@ -69,6 +70,7 @@ SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "World/Locations" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
 - [[Cross Bones Pub]]
+- [[Thornhaven]]
 
 
 <!-- SerializedQuery END -->

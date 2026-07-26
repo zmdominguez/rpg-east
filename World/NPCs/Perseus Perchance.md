@@ -73,6 +73,7 @@ WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "World/Locations" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[Thornhaven]]
 - [[Wizard's Tower]]
 
 

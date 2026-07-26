@@ -15,7 +15,7 @@ tags:
 > | ---- | ---- |
 > | **Player** | <!-- IQ: =this.player -->Ju<!-- /IQ --> |
 > | **Class** | <!-- IQ: =this.class -->Ranger<!-- /IQ --> |
-> | **Species** | <!-- IQ: =this.species -->Unknown<!-- /IQ --> |
+> | **Species** | <!-- IQ: =this.species -->Unknown (appears as a child; claims to be 112 years old)<!-- /IQ --> |
 
 ## 🕯️ Backstory
 

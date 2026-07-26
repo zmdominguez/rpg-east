@@ -42,6 +42,7 @@ SORT file.name ASC
 - [[S05 The Rootmother's Garden]]
 - [[S06 Chaos in the Garden]]
 - [[S07 Return to Thornhaven]]
+- [[X02 The Wizard's Tower]]
 
 
 <!-- SerializedQuery END -->
@@ -84,6 +85,7 @@ WHERE contains(file.outlinks, [[]])
 SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "World/Locations" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
+- [[Saving War Altar]]
 - [[Thornhaven]]
 - [[TownHall]]
 
