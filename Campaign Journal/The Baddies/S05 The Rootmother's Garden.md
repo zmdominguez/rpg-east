@@ -1,6 +1,6 @@
 ---
 date: 2026-05-10
-campaign_year: Year 5
+campaign_year: "Year 5"
 location:
   - "[[Veiled Peaks]]"
   - "[[Cloudbreak Pass]]"
