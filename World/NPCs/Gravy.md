@@ -59,6 +59,7 @@ SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "World/Locations" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
 - [[Halfheight Forest]]
+- [[Thornhaven]]
 
 
 <!-- SerializedQuery END -->

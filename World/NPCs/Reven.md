@@ -58,6 +58,8 @@ SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "World/Locations" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
 - [[Army Building]]
+- [[Jail]]
+- [[Thornhaven]]
 
 
 <!-- SerializedQuery END -->

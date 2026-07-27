@@ -55,6 +55,7 @@ SORT file.name ASC
 - [[S05 The Rootmother's Garden]]
 - [[S06 Chaos in the Garden]]
 - [[S07 Return to Thornhaven]]
+- [[S08 Following the Owl]]
 
 
 <!-- SerializedQuery END -->
@@ -70,6 +71,7 @@ SORT file.name ASC
 <!-- SerializedQuery: LIST FROM "Campaign Journal/Cross Bone Inc" SORT file.name ASC -->
 - [[X00 Thelasian Lost City]]
 - [[X01 Mr Mayfair's Magical Mystorium]]
+- [[X02 The Wizard's Tower]]
 
 
 <!-- SerializedQuery END -->

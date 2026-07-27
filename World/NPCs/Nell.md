@@ -32,6 +32,7 @@ SORT file.name ASC
 - [[O02 A Day at the Scarsith Temple]]
 - [[S01 Sir Alawin Van Trafford]]
 - [[S07 Return to Thornhaven]]
+- [[S08 Following the Owl]]
 
 
 <!-- SerializedQuery END -->

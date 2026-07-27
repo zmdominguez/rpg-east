@@ -35,6 +35,15 @@ SORT file.name ASC
     - What does Brother Toben know about the silver eclipse — and how long has he been waiting for this moment?
     - What is the underground gathering in Aussen that Teddy invited the party to?
 
+- [[S08 Following the Owl]]: 
+    - Who is Sera Voss, and what does she know about the night Thalen Rook disappeared from the Elarion high court?
+    - What is the "Queen" that the Root Beetles are guarding — and is it connected to what is consuming the root network northwest?
+    - What has been corrupting the Root Beetles and steering them toward Halfheight Forest for months?
+    - What will Selune's druid circle ritual reveal about her origins and the silver eclipse?
+    - What are the consequences of the party not answering Mills, Nell, and Teddy while they followed the owl?
+    - What do the blood root dreams mean — and are they getting worse?
+    - Can the dead owl be restored — and does its death affect Selune's ritual?
+
 - [[X02 The Wizard's Tower]]: 
     - What will Perseus Perchance discover in his continued Ley line research?
     - Now that Toodles runs on Ley line energy, will her abilities or behaviour change?
