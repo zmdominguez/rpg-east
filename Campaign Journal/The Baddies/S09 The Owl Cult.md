@@ -34,10 +34,11 @@ tags:
 - **Merin** interrupted the ritual by removing the infant before the seal could be placed. He died of old age three years later without revealing where he had left the child. The incomplete ritual has been slowly bleeding out of Selune ever since — items she carries have been slowly cursed, her magic draining thread by thread
 - The Stone Guardians **Keth** and **Silael** held the ritual seal for thirty years and returned it to [[Selune]] once the party proved their intent through sacrifice. Silael also lifted the first of five blood root curse layers from the party's attuned items
 - New mechanics for the whole party: **Root Sense** (detect blood root within 30m) and individual **Moon Phase marks** on their forearms, each unique
-- [[Mirr]]'s pact weapon drops from her hands the moment she tries to summon it — she is bound to pursue **Velthara** and stop the blood root consumption; each time she strays from that goal, she will suffer
+- [[Mirr]]'s pact weapon drops from her hands the moment she tries to summon it — she cannot hold any weapon while the binding holds; she can headbutt things; this has already been noted as relevant
+- [[Selune]] is bound to pursue **Velthara** and stop the blood root consumption — each time she strays from that goal, she suffers; Mirr's dropped pact weapon is the first and clearest signal of this
 - **Kass** lost all his feathers after returning from the underground chamber — something the ritual completed or reversed in him. He can no longer fly (movement 15 ft)
 - [[Aeris Whisperwind|Aeris]]'s voice has changed — something shifted in the stone chamber. Singing now requires concentration and a percentage roll; the muscle memory is intact but the voice isn't quite hers yet. Bardic puberty. The military dad would be so disappointed
-- A beetle armour specialist in the settlement will deliver to [[Thornhaven]]: full carapace armour for Scree, and weapons from the Alpha's horn; estimated delivery via Crossbones. The party left the crystal eye to monitor progress (they meant it as surveillance; it's also possible they just gave an old owl cultist a live feed of their belongings)
+- A beetle armour specialist in the settlement will deliver to [[Thornhaven]]: full carapace armour for Scree, and weapons from the Alpha's horn; estimated delivery via Crossbones.
 
 
 ## 🤝 Who Did We Meet?
@@ -61,15 +62,10 @@ tags:
 	- Inspiring Leader (level + CHA = 9 temporary HP) distributed; Bardic Inspiration dice handed out; Heroic Inspiration to two allies
 	- Party is rested. Party is not emotionally prepared for what is about to happen
 
-- **Naming the bird:**
-	- With Guillermi dead, the party's remaining bird companion needed a name
-	- After brief deliberation: **Scree**
-	- Scree the falcon immediately begins flying very badly into things. The party considers whether he could wear beetle carapace. The answer is yes, but it will have to wait
-
 - **Following the moon — meeting Pip:**
 	- The forest's bird-silence persists. Selune's root-sense returns the further they walk from the beetle nest, the forest's song slowly coming back underfoot
 	- Pip drops from the trees behind them. She had been observing since last night
-	- Selune recognises the name — it was mentioned by the tree she named Celestia during Speak with Plants. The rest of the party did not know this because Selune forgot to translate that part (the animals and plants are talking, she cannot be expected to also do subtitles)
+	- Selune recognises the name — it was mentioned by the tree named Celestia during Speak with Plants. The rest of the party did not know this because Selune forgot to translate that part (the animals and plants are talking, she cannot be expected to also do subtitles)
 	- Pip's arm: feathers from elbow to shoulder, grey-brown, worn to the touch, rooted in skin. The wings behind her back are partial — she probably can't fly. The transformation is ongoing
 	- She confirms the beetles have been a growing problem. The silk is wrong — crimson-tinged, spreading toward the lake. She had hoped the settlement could deal with it eventually. She acknowledges the party solved it violently and without warning, which is basically the same as helping
 	- Pip walks them toward the settlement, following the moon's bearing without being asked
@@ -87,8 +83,8 @@ tags:
 	- This is not a trick. He is asking what you value enough to surrender. The settlement has been robbed by city people before — they ate the food, left with a recovered bowl and a carved spear, and called it fair trade
 	- [[Aeris Whisperwind|Aeris]] wrote a song, on the spot, about the lost child from the interrupted ritual thirty years ago — the search, the waiting, the forest still holding the shape of something unfinished. Kole acknowledged she understood what she was approaching
 	- Kass tied one of his own down feathers to one of Scree's and placed them together. Kole recognised this as something that meant something to his people even if Kass did not yet have the full picture
-	- [[Mirr]] offered her really good stick. *(This is a genuinely good stick. She has referenced it multiple times. It is important to her. Kole understood this and accepted it. The stick has now been surrendered to an ancient threshold guardian and Mirr does not have it anymore. She was told she could find a better one. She has not found a better one yet.)*
-	- Kass offered his loyalty. He noted he didn't know these people. He also noted he's an orphan who doesn't have anything anyway. Kole held the loyalty where it was, physically, for a moment — and let it pass through. Kass is now loyal to the Owl Cult on some level neither of them fully understands yet
+	- [[Mirr]] offered her really good stick. *(This is a genuinely good stick. She has referenced it multiple times. It is important to her. Kole understood this as a genuine cost. He acknowledged it without taking it — this was the offer, not the giving.)*
+	- [[Selune]] offered her loyalty. Kole held the loyalty where it was, physically, for a moment — and let it pass through. Selune is now loyal to the Owl Cult on some level neither of them fully understands yet
 	- Kole stepped aside without another word. He followed them at a distance for the rest of the evening
 
 - **Waiting for Gravy:**
@@ -132,7 +128,7 @@ tags:
 - **The stone:**
 	- Warm under her palm. Not sun-warm — *alive* warm. Something pressing out from inside
 	- Her root-sense did not expand. It opened. Not just the forest — the whole network, north, south, east, west, beneath every hill, further than she could follow. Ancient and vast and waiting
-	- Within it, northwest, a direction and a quality: **WEST**. And a name: **VILPATA**
+	- Within it, a direction: **Northwest**. And a name: **Velthara**
 	- The feeling associated with whatever waits there, filtered through root and earth and centuries of memory, is the closest thing the network has to *dread*
 	- Something has been pulling at the threads there, steady and constant, for a very long time. The roots have been trying to tell someone. Selune is the someone
 	- She lifted her hand. The network went quiet
@@ -147,17 +143,17 @@ tags:
 	- *"The Vessel has returned. We have been waiting thirty years."*
 	- The stone wall began to move
 	- The party had a brief strategic meeting about whether to fight two ancient stone guardians in an enclosed space with no exits. The vote was split between "yes" and "let's hear them out first"
-	- Kef, the stone guardian, introduced himself. He explained:
+	- Keth, the stone guardian, introduced himself. He explained:
 		- The seal Merin interrupted was meant to be placed in Selune
 		- Without it, whatever she carries bleeds out slowly — as she dreams, as she casts, as she lives. Five layers. One removed each time the ritual's purpose is served
 		- The guardians hold the seal. They can give it freely — but not to strangers who haven't proven they understand what they're carrying
 
 - **The offerings (round two):**
-	- Kef: *"Leave something you value. Or defeat us. Or leave."*
-	- [[Aeris Whisperwind|Aeris]] wrote another song, this time in the chamber — the whole shape of what they'd learned tonight, the thirty-year wait, the lost child returned. Kef recognised it as something she cared about. She didn't even have to give it; the act of creating it was enough
-	- Scree's feather tied with a personal feather — placed there again with what it means to their people
-	- Kass offered loyalty again, this time with more information than the first time. He's still an orphan. He still has nothing much to give. He gave it anyway
-	- Mirr offered her stick. Wait — she already gave that to Kole. She does not have the stick anymore. She offered what she had. *(She would like the record to show that she has given up a great deal tonight)*
+	- Keth: *"Leave something you value. Or defeat us. Or leave."*
+	- [[Aeris Whisperwind|Aeris]] wrote another song, this time in the chamber — the whole shape of what they'd learned tonight, the thirty-year wait, the lost child returned. Keth recognised it as something she cared about. She didn't even have to give it; the act of creating it was enough
+	- Scree's feather tied with a personal feather — placed at the altar with what it means to their people
+	- Kass offered loyalty, with more information than he had given Kole. He's still an orphan. He still has nothing much to give. He gave it anyway
+	- Mirr offered her really good stick. *(The good stick. The one she has been carrying. The one she told Kole she would give. She gave it here. It is gone. She would like the record to show that she has given up a great deal tonight.)*
 	- Keth accepted. He stepped back. Silael stepped forward
 
 - **The seal and the first curse layer:**
@@ -168,8 +164,8 @@ tags:
 	- Silael handed the party a bracelet made from knotted grass on the way out. It lets you reroll one die per day before seeing the result, and you must use the new roll. Mirr took it with the energy of someone accepting a compliment from the dentist who just drilled three cavities
 
 - **Consequences:**
-	- [[Mirr]] tries to summon her pact weapon. It falls from her hand. She tries again. Same result. She is bound to pursue **Velthara** and stop the blood root consumption — every time she drifts from that goal, she suffers. The weapon is the first signal
-	- She cannot hold any weapon while the binding holds. She can, however, headbutt things. This is relevant
+	- [[Mirr]] tries to summon her pact weapon. It falls from her hand. She tries again. Same result. She cannot hold any weapon while the binding holds. She can, however, headbutt things. This is relevant
+	- Selune is bound to pursue **Velthara** and stop the blood root consumption — every time she drifts from that goal, she suffers. The weapon is the first signal
 	- Kass returns from the underground chamber to find he has lost all his feathers — something the ritual completed or reversed in him. He can no longer fly. Movement speed is 15 ft. He was not expecting this. He is processing it with the composure of a man who drank boiling tea without flinching, which is to say: not well, but privately
 	- [[Aeris Whisperwind|Aeris]]'s voice is different. Not gone — the muscle memory is still there, the instrument still responds, the chords still know where to go. But singing now requires concentration and a percentage roll. Her voice is going through something. The table agreed this is bardic puberty. This is not a medical diagnosis but it is accurate
 	- Everyone has moon phase marks on their forearms. They each chose their phase: [[Selune]] — the Silver Eclipse (already on her forehead; it felt right); others chose first quarter, waning, new moon. The marks flicker faintly if sunlight hits the sensor. This is apparently a known issue with the Owl Cult's moon marking system
@@ -183,7 +179,6 @@ tags:
 	- As the party emerges from the chamber, Gravy has not left
 	- He reaches into his wing and produces a crystal ball the size of a pool ball, shaped like an eye
 	- It functions as a surveillance camera — the person attuned to it can see what the eye sees, visual only, no sound
-	- The party immediately voted to leave it in the beetle armour specialist's workshop to monitor delivery. This is either brilliant security or just leaving a live feed of an old halfling tinkering with carapace in someone's group inventory. Both things can be true
 
 - **Staying the night, plans for dawn:**
 	- Pip cooked at the fire pit. The party did not sleep (some of them), but they rested
