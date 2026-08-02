@@ -82,7 +82,7 @@ tags:
 	- His question: *"Outsiders come here to take. What would you leave?"*
 	- This is not a trick. He is asking what you value enough to surrender. The settlement has been robbed by city people before — they ate the food, left with a recovered bowl and a carved spear, and called it fair trade
 	- [[Aeris Whisperwind|Aeris]] wrote a song, on the spot, about the lost child from the interrupted ritual thirty years ago — the search, the waiting, the forest still holding the shape of something unfinished. Kole acknowledged she understood what she was approaching
-	- Kass tied one of his own down feathers to one of Scree's and placed them together. Kole recognised this as something that meant something to his people even if Kass did not yet have the full picture
+	- Kass offered one of his own down feathers. Kole recognised this as something that meant something to his people even if Kass did not yet have the full picture
 	- [[Mirr]] offered her really good stick. *(This is a genuinely good stick. She has referenced it multiple times. It is important to her. Kole understood this as a genuine cost. He acknowledged it without taking it — this was the offer, not the giving.)*
 	- [[Selune]] offered her loyalty. Kole held the loyalty where it was, physically, for a moment — and let it pass through. Selune is now loyal to the Owl Cult on some level neither of them fully understands yet
 	- Kole stepped aside without another word. He followed them at a distance for the rest of the evening
@@ -151,8 +151,8 @@ tags:
 - **The offerings (round two):**
 	- Keth: *"Leave something you value. Or defeat us. Or leave."*
 	- [[Aeris Whisperwind|Aeris]] wrote another song, this time in the chamber — the whole shape of what they'd learned tonight, the thirty-year wait, the lost child returned. Keth recognised it as something she cared about. She didn't even have to give it; the act of creating it was enough
-	- Scree's feather tied with a personal feather — placed at the altar with what it means to their people
-	- Kass offered loyalty, with more information than he had given Kole. He's still an orphan. He still has nothing much to give. He gave it anyway
+	- Kass placed one of his own down feathers at the altar — what it means to his people, given here for real
+	- [[Selune]] offered her loyalty. She gave it here, not just as a statement
 	- Mirr offered her really good stick. *(The good stick. The one she has been carrying. The one she told Kole she would give. She gave it here. It is gone. She would like the record to show that she has given up a great deal tonight.)*
 	- Keth accepted. He stepped back. Silael stepped forward
 
