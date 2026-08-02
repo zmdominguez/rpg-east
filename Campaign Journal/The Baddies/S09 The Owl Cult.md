@@ -28,14 +28,14 @@ tags:
 ## 💡Key Learnings
 
 - [[Selune]] was the infant taken from the Silver Eclipse ritual thirty years ago by an Owl Cult elder named **Merin** — she carries the ritual's unfinished encoding, and her return to the stone completed the transmission
-- The root network delivered a direction (**West**) and a name (**Vilpata**) — the network's closest word for what waits there is *dread*; something has been pulling at the threads steadily for a long time
+- The root network delivered a direction (**Northwest**) and a name: **Velthara** — the network's closest word for what waits there is *dread*; something has been pulling at the threads steadily for a long time
 - The Owl Cult's halfling transformation is not a curse — it is the biological expression of a god's gift, deliberately chosen, and has been ongoing for generations
 - The standing stone (the **Silver Eclipse**) is where the ground thinks. Every root thread in [[Halfheight Forest]] converges there. It predates the forest's name
 - **Merin** interrupted the ritual by removing the infant before the seal could be placed. He died of old age three years later without revealing where he had left the child. The incomplete ritual has been slowly bleeding out of Selune ever since — items she carries have been slowly cursed, her magic draining thread by thread
-- The Stone Guardians **Kef** and **Silly** held the seal for thirty years. Silly lifted the first of five curse layers after the party proved their intent through sacrifice
+- The Stone Guardians **Keth** and **Silael** held the ritual seal for thirty years and returned it to [[Selune]] once the party proved their intent through sacrifice. Silael also lifted the first of five blood root curse layers from the party's attuned items
 - New mechanics for the whole party: **Root Sense** (detect blood root within 30m) and individual **Moon Phase marks** on their forearms, each unique
-- [[Selune]]'s pact weapon drops from her hands the moment she tries to summon it — she is bound to pursue **Vilpata** and stop the blood root consumption; each time she strays from that goal, she will suffer
-- Kass's falcon **Scree** lost all its feathers in the glade after the ritual completed. Scree can no longer fly (movement 15 ft)
+- [[Mirr]]'s pact weapon drops from her hands the moment she tries to summon it — she is bound to pursue **Velthara** and stop the blood root consumption; each time she strays from that goal, she will suffer
+- **Kass** lost all his feathers after returning from the underground chamber — something the ritual completed or reversed in him. He can no longer fly (movement 15 ft)
 - [[Aeris Whisperwind|Aeris]]'s voice has changed — something shifted in the stone chamber. Singing now requires concentration and a percentage roll; the muscle memory is intact but the voice isn't quite hers yet. Bardic puberty. The military dad would be so disappointed
 - A beetle armour specialist in the settlement will deliver to [[Thornhaven]]: full carapace armour for Scree, and weapons from the Alpha's horn; estimated delivery via Crossbones. The party left the crystal eye to monitor progress (they meant it as surveillance; it's also possible they just gave an old owl cultist a live feed of their belongings)
 
@@ -48,9 +48,9 @@ tags:
 
 **[[Gravy]].** The Elder. An owl, permanently. Great grey, barn-white heart-shaped face, 2.4 metres of absolute authority. His first words were directed only at Selune: *"You carry the stone's smell."* He speaks in short statements with long pauses and treats questions as things that will answer themselves if you wait long enough. He was present at the ritual thirty years ago. He watched the crimson light scatter the circle. He did not know the child had survived. He does now.
 
-**Kef.** Stone guardian of the underground chamber. Introduced himself, waited patiently while the party debated whether to fight two stone constructs, and accepted their offerings with gravity. Has been holding the seal for thirty years. Has done a better job of it than anyone asked.
+**Keth.** Stone guardian of the underground chamber. Introduced himself, waited patiently while the party debated whether to fight two stone constructs, and accepted their offerings with gravity. Has been holding the ritual seal for thirty years. Has done a better job of it than anyone asked.
 
-**Silly.** An elf, silver and white, waiting behind Kef in the chamber. Said very little. Touched Selune's head and lifted the first layer of the curse without ceremony. Gave the party a bracelet on the way out — after everything — which Mirr accepted with the enthusiasm of someone who has been asked to tip after a bad haircut.
+**Silael.** An elf, silver and white, waiting behind Keth in the chamber. Said very little. Touched Selune's head, returned the ritual seal, and lifted the first blood root curse layer without ceremony. Gave the party a bracelet on the way out — after everything — which Mirr accepted with the enthusiasm of someone who has been asked to tip after a bad haircut.
 
 
 ## 📝 Session Notes
@@ -158,18 +158,19 @@ tags:
 	- Scree's feather tied with a personal feather — placed there again with what it means to their people
 	- Kass offered loyalty again, this time with more information than the first time. He's still an orphan. He still has nothing much to give. He gave it anyway
 	- Mirr offered her stick. Wait — she already gave that to Kole. She does not have the stick anymore. She offered what she had. *(She would like the record to show that she has given up a great deal tonight)*
-	- Kef accepted. He stepped back. Silly stepped forward
+	- Keth accepted. He stepped back. Silael stepped forward
 
-- **The seal — first layer:**
-	- Silly touched Selune's forehead. Quiet
-	- The items the party has been carrying from the Rootmother's Garden — their attuned blood root items — the first layer of creeping curse lifted. Quietly, cleanly
+- **The seal and the first curse layer:**
+	- Silael touched Selune's forehead. Quiet
+	- The ritual seal was returned to Selune — the encoding she has been carrying since infancy is now complete
+	- Simultaneously, the first of five blood root curse layers on the party's attuned items was lifted. Quietly, cleanly
 	- Everyone rolled HP recovery. Everyone was glad for it
-	- Silly handed the party a bracelet made from knotted grass on the way out. It lets you reroll one die per day before seeing the result, and you must use the new roll. Mirr took it with the energy of someone accepting a compliment from the dentist who just drilled three cavities
+	- Silael handed the party a bracelet made from knotted grass on the way out. It lets you reroll one die per day before seeing the result, and you must use the new roll. Mirr took it with the energy of someone accepting a compliment from the dentist who just drilled three cavities
 
 - **Consequences:**
-	- [[Selune]] tries to summon her pact weapon. It falls from her hand. She tries again. Same result. She is bound to find Vilpata and stop the blood root consumption — every time she drifts from that goal, she suffers. The weapon is the first signal
+	- [[Mirr]] tries to summon her pact weapon. It falls from her hand. She tries again. Same result. She is bound to pursue **Velthara** and stop the blood root consumption — every time she drifts from that goal, she suffers. The weapon is the first signal
 	- She cannot hold any weapon while the binding holds. She can, however, headbutt things. This is relevant
-	- Kass returns to the glade to find Scree has lost all his feathers. Scree cannot fly. Scree's movement speed is 15. Scree is fine about this in the way that birds are fine about things, which is to say Scree does not appear to have processed it yet
+	- Kass returns from the underground chamber to find he has lost all his feathers — something the ritual completed or reversed in him. He can no longer fly. Movement speed is 15 ft. He was not expecting this. He is processing it with the composure of a man who drank boiling tea without flinching, which is to say: not well, but privately
 	- [[Aeris Whisperwind|Aeris]]'s voice is different. Not gone — the muscle memory is still there, the instrument still responds, the chords still know where to go. But singing now requires concentration and a percentage roll. Her voice is going through something. The table agreed this is bardic puberty. This is not a medical diagnosis but it is accurate
 	- Everyone has moon phase marks on their forearms. They each chose their phase: [[Selune]] — the Silver Eclipse (already on her forehead; it felt right); others chose first quarter, waning, new moon. The marks flicker faintly if sunlight hits the sensor. This is apparently a known issue with the Owl Cult's moon marking system
 
@@ -188,28 +189,28 @@ tags:
 	- Pip cooked at the fire pit. The party did not sleep (some of them), but they rested
 	- The party was unanimously opposed to drinking anything else the Owl Cult offered, on principle
 	- The beetle nerd — a halfling artisan who has apparently made the Root Beetles his entire professional identity — offered to work with the Alpha's horn and carapace. He needs one day. He will deliver:
-		- Full carapace armour for Scree (the now-featherless, non-flying bird who really could use some protection)
-		- Selune's commission: a rhino-style helmet with the horn bent to it, so she can charge with her head. The DM confirmed this counts as an attack. Selune does not need hands for this
+		- Full carapace armour for Scree (the bird, who continues to fly badly and could use armour)
+		- [[Mirr]]'s commission: a rhino-style helmet with the horn bent to it, so she can charge with her head. The DM confirmed this counts as an attack. Mirr does not need hands for this, which is fortunate given the situation with her hands
 		- Delivery destination: [[Thornhaven]] via Crossbones connection
 	- At dawn, the Owl Cult will escort the party to the forest's edge
 	- The horses were left at the treeline. They should still be there
-	- **Next priority: find a cleric who specialises in curse removal.** Selune needs the remaining four seal layers, and ideally needs her weapon hand back before whatever is waiting in the West gets any closer
+	- **Next priority: find a cleric who specialises in curse removal.** Mirr needs her weapon hand back before whatever is waiting to the Northwest gets any closer
 
-- [question:: Who or what is Vilpata, and what is it consuming in the root network northwest of Halfheight Forest?]
-- [question:: What are the remaining four layers of the seal, and what does Selune need to do to lift each one?]
+- [question:: What or who is Velthara, and what is it consuming in the root network to the northwest of Halfheight Forest?]
+- [question:: What are the remaining four blood root curse layers, and what does the party need to do to lift each one?]
 - [question:: What happened to Merin's understanding of why the infant was needed for the Silver Eclipse ritual — and does anyone else still alive know?]
 - [question:: Will [[Aeris Whisperwind|Aeris]] make it to the Fat Pig Tavern to meet [[Sera Voss]] before the three-day deadline passes?]
-- [question:: What does Kass's double blood root exposure mean now that his familiar is physically changing?]
+- [question:: What does Kass's double blood root exposure mean — and what does the ritual completing have to do with him losing his feathers?]
 - [question:: Is the Red Temple's priestess [[Nell]] — who originally whispered something to Selune about the silver eclipse — connected to what the Owl Cult knows?]
 
 
 ## 📓 Homework
 
-- [ ] Find a cleric who specialises in curse removal — Selune needs her weapon hand back
-- [ ] Head West to investigate Vilpata and the root network dread
+- [ ] Find a cleric who specialises in curse removal — Mirr needs her weapon hand back
+- [ ] Head Northwest to investigate Velthara and the root network dread
 - [ ] Aeris: [[Sera Voss]] deadline — Fat Pig Tavern, come alone (deadline has likely passed or is passing)
-- [ ] Collect beetle armour delivery from Crossbones: Scree's carapace suit + Selune's rhino helmet
+- [ ] Collect beetle armour delivery from Crossbones: Scree's carapace suit + Mirr's rhino helmet
 - [ ] Check the crystal eye feed to confirm the beetle artisan is actually working on the order
-- [ ] Selune: visit [[Brother Toben]] — now has concrete information: direction West, the name Vilpata, the network's dread
+- [ ] Selune: visit [[Brother Toben]] — now has concrete information: direction Northwest, the name Velthara, the network's dread
 - [ ] Address paused threads: [[Mills]] (Thelasian ruins), [[Nell]] (census mission), [[Teddy]] (Aussen gathering)
 - [ ] Mirr: find a better stick
