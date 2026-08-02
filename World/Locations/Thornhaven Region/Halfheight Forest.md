@@ -14,8 +14,7 @@ Home of the Owl Cult — a halfling community living in root houses and tree pla
 - [[Gravy]] — Elder of the Owl Cult; permanently owl, 2.4m great grey barn owl
 - [[Pip]] — Halfling scout with partial feather transformation; first contact for outsiders
 - [[Kole]] — Threshold guardian; stands at the path to the inner glade, tests all who approach
-- [[Keth]] — Stone guardian of the underground chamber beneath the glade
-- [[Silael]] — Spirit guardian of the underground chamber; holds the ritual seal
+- Keth and Silael — Stone guardians of the underground chamber; held the ritual seal for thirty years and returned it to [[Selune]] in S09
 
 ## Notes
 
