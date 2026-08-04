@@ -6,7 +6,7 @@ Dawn broke over the [[Veiled Peaks]] to silence. [[Venn]] was gone — no tracks
 
 They moved on.
 
-The six-legged wolf came out of the white nothing without warning. [[Kass]] was somewhere behind them, lost in the fog, so [[Mirr]], [[Selune]], and [[Aeris Whisperwind]] held it alone. Kass found them by sound — arriving mid-fight with unhurried calm, as though she had never been worried. The wolf died. They pressed deeper into the mist.
+The six-legged wolf came out of the white nothing without warning. [[Kass of House Hawk]] was somewhere behind them, lost in the fog, so [[Mirr]], [[Selune]], and [[Aeris Whisperwind]] held it alone. Kass found them by sound — arriving mid-fight with unhurried calm, as though she had never been worried. The wolf died. They pressed deeper into the mist.
 
 It was Kass who spotted the pack next — dark shapes moving in exactly the direction they were heading. Selune stopped and studied the mountain. She found an owl perched on a grey stone, tearing at a lizard. A desert lizard. Something with no right to exist in this snow.
 

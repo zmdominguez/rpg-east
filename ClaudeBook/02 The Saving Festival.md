@@ -9,7 +9,7 @@ The [[Cross Bones Pub]], founded by [[Mills Senior]] and now run by his son [[Mi
 It was the eve of a great festival, a celebration commemorating the army's victorious battle against the Owls. Four adventurers found themselves at Mills' tavern:
 
 - **[[Mirr]]**, a Warlock-Fighter of formidable skill
-- **[[Kass]]**, a capable warrior
+- **[[Kass of House Hawk]]**, a capable warrior
 - **[[Aeris Whisperwind]]**, a Wood Elf Bard who served as the pub's regular musician
 - **[[Selune]]**, a Druid attuned to the natural world
 

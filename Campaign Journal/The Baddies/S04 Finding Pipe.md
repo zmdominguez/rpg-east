@@ -1,13 +1,13 @@
 ---
 date: 2025-02-16
-campaign_year: "Year 5"
+campaign_year: Year 5
 location:
   - Thornhaven
   - "[[Veiled Peaks]]"
 dm: Canato
 party:
   - "[[Aeris Whisperwind]]"
-  - "[[Kass]]"
+  - "[[Kass of House Hawk]]"
   - "[[Mirr]]"
   - "[[Selune]]"
 tags:
@@ -23,7 +23,7 @@ tags:
 > | **Campaign Year** | <!-- IQ: =this.campaign_year -->Year 5<!-- /IQ --> |
 > | **Location** | <!-- IQ: =this.location -->Thornhaven, [[World/Locations/Thornhaven Region/Veiled Peaks.md\|Veiled Peaks]]<!-- /IQ --> |
 > | **DM** | <!-- IQ: =this.dm -->Canato<!-- /IQ --> |
-> | **Party** | <!-- IQ: =this.party -->[[Party/The baddies/Aeris Whisperwind.md\|Aeris Whisperwind]], [[Party/The baddies/Kass.md\|Kass]], [[Party/The baddies/Mirr.md\|Mirr]], [[Party/The baddies/Selune.md\|Selune]]<!-- /IQ --> |
+> | **Party** | <!-- IQ: =this.party -->[[Party/The baddies/Aeris Whisperwind.md\|Aeris Whisperwind]], [[Kass of House Hawk\|Kass of House Hawk]], [[Party/The baddies/Mirr.md\|Mirr]], [[Party/The baddies/Selune.md\|Selune]]<!-- /IQ --> |
 
 
 ## 💡Key Learnings
@@ -51,7 +51,7 @@ tags:
 	- A guard knocked with an official summons to [[TownHall]] for 10am
 	- [[Mirr]] answered the door naked
 - The party decided to find the letter's author that night
-	- [[Kass]] went to find [[Selune]] in the forest
+	- [[Kass of House Hawk]] went to find [[Selune]] in the forest
 	- They arrived at [[Roderick Ashford]]'s house around midnight
 - **Roderick's story:**
 	- His daughter [[Pipe Ashford]] went missing three years ago
@@ -92,7 +92,7 @@ tags:
 - The party accepted both quests (Eman's and Roderick's)
 - Bought winter gear and headed to the [[Veiled Peaks|Veiled Peaks]]
 	- [[Selune]], [[Mirr]], and [[Aeris Whisperwind]] bought full winter gear (30 gold)
-	- [[Kass]] bought basic gear (5 gold)
+	- [[Kass of House Hawk]] bought basic gear (5 gold)
 - Met [[Tok]] at [[Tinkboom Grounds]]
 	- Very technologically advanced
 	- Goblins are running the farms

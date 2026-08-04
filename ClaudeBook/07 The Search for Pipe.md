@@ -12,7 +12,7 @@ But there was another message. A letter slipped beneath the door, written in a s
 
 The party chose not to wait for morning.
 
-[[Kass]] ventured into the forest to retrieve [[Selune]], while the others set out through the darkened streets to find the letter's author. They arrived at the home of [[Roderick Ashford]] near midnight.
+[[Kass of House Hawk]] ventured into the forest to retrieve [[Selune]], while the others set out through the darkened streets to find the letter's author. They arrived at the home of [[Roderick Ashford]] near midnight.
 
 The man who answered was a shadow of what he must once have been. Elderly, fragile, with hands that trembled as he spoke. But his eyes—his eyes still held hope.
 
