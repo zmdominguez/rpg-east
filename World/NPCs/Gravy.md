@@ -35,6 +35,7 @@ SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "Campaign Journal" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
 - [[O00 Owl Curse]]
+- [[S09 The Owl Cult]]
 
 
 <!-- SerializedQuery END -->

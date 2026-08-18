@@ -3,7 +3,6 @@ LIST lore
 WHERE lore
 -->
 <!-- SerializedQuery: LIST lore WHERE lore -->
-- [[Halfheight Forest]]: The owls were once people, transformed as punishment
 - [[X00 Thelasian Lost City]]: There is a stone tablet in the swamp that opens to an ancient Thelasian settlement
 - [[O00 Owl Curse]]: 
     - [[Eman]] is a Druid from the Owl cult who should help the cult against the #pioneer but decided to rule the city

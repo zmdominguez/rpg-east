@@ -56,6 +56,7 @@ SORT file.name ASC
 - [[S06 Chaos in the Garden]]
 - [[S07 Return to Thornhaven]]
 - [[S08 Following the Owl]]
+- [[S09 The Owl Cult]]
 
 
 <!-- SerializedQuery END -->

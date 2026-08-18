@@ -44,6 +44,14 @@ SORT file.name ASC
     - What do the blood root dreams mean — and are they getting worse?
     - Can the dead owl be restored — and does its death affect Selune's ritual?
 
+- [[S09 The Owl Cult]]: 
+    - What or who is Velthara, and what is it consuming in the root network to the northwest of Halfheight Forest?
+    - What are the remaining four blood root curse layers, and what does the party need to do to lift each one?
+    - What happened to Merin's understanding of why the infant was needed for the Silver Eclipse ritual — and does anyone else still alive know?
+    - Will [[Aeris Whisperwind|Aeris]] make it to the Fat Pig Tavern to meet [[Sera Voss]] before the three-day deadline passes?
+    - What does Kass's double blood root exposure mean — and what does the ritual completing have to do with him losing his feathers?
+    - Is the Red Temple's priestess [[Nell]] — who originally whispered something to Selune about the silver eclipse — connected to what the Owl Cult knows?
+
 - [[X02 The Wizard's Tower]]: 
     - What will Perseus Perchance discover in his continued Ley line research?
     - Now that Toodles runs on Ley line energy, will her abilities or behaviour change?
