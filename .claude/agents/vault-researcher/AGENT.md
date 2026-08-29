@@ -26,7 +26,6 @@ Party/
   Extras/         — Extra/supporting characters
   Retired/        — Retired characters
 Items/            — Magic items and artifacts
-ClaudeBook/       — Published narrative chapters
 personalNotes/    — DM-only hidden lore (always check here before saying something is undocumented)
                     If personalNotes/lore/dm-context.md exists, read it for DM-only lore context
 ```

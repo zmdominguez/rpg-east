@@ -36,7 +36,6 @@ Party/
   Extras/         — Extra/supporting characters
   Retired/        — Retired characters
 Items/            — Magic items and artifacts
-ClaudeBook/       — Published narrative chapters (no frontmatter, has nav links)
 personalNotes/    — DM-only (never included in PRs or player-facing content; see dm-context.md)
   sessions/
     upcoming/     — Pre-session prep folders (numbered files: 00-index, 01-scene, 02-combat…)
@@ -60,12 +59,6 @@ personalNotes/    — DM-only (never included in PRs or player-facing content; s
 ## 🤝 Who Did We Meet? — NPCs introduced
 ## 📝 Session Notes    — Play-by-play
 ## 📓 Homework         — Player tasks
-```
-
-## ClaudeBook Structure
-No YAML frontmatter. Narrative prose with wiki-links. Navigation footer:
-```
-[[Previous Chapter|← Prev]] | [[00 Index|Index]] | [[Next Chapter|Next →]]
 ```
 
 ## DM Context

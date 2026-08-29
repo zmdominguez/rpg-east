@@ -24,7 +24,6 @@ Find all mentions of an NPC across the vault.
    - Other NPC files in `NPCs/`
    - World locations in `World/`
    - Party character notes in `Party/`
-   - ClaudeBook narratives
 
 3. For each mention, extract:
    - File name and path
