@@ -29,6 +29,7 @@ SORT file.name ASC
 <!-- SerializedQuery: LIST FROM "Campaign Journal" WHERE contains(file.outlinks, [[]]) SORT file.name ASC -->
 - [[S07 Return to Thornhaven]]
 - [[S08 Following the Owl]]
+- [[S09 The Owl Cult]]
 
 
 <!-- SerializedQuery END -->

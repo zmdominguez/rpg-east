@@ -30,6 +30,7 @@ SORT file.name ASC
 - [[S04 Finding Pipe]]
 - [[S07 Return to Thornhaven]]
 - [[S08 Following the Owl]]
+- [[S09 The Owl Cult]]
 
 
 <!-- SerializedQuery END -->
