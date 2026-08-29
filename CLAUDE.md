@@ -22,26 +22,7 @@ This is an Obsidian vault for managing a tabletop RPG campaign called "East RPG.
 - `World/Locations/` - Locations organized by region
 - `World/Timeline.md` - Major world history
 - `Items/` - Magical items and resources
-- `ClaudeBook/` - Narrative chapters for web publishing (no YAML frontmatter)
 - `z_Templates/` - Reusable Obsidian templates
-
-## ClaudeBook Format
-ClaudeBook files are plain narrative markdown with **no YAML frontmatter**. Structure:
-```markdown
-# Chapter Title
-
----
-
-[Narrative prose with [[wiki-links]]]
-
----
-
-*Based on the events of [[S## Session Title]]*
-
----
-
-[[Previous Chapter|← Prev]] | [[00 Index|Back to Index]] | [[Next Chapter|Next →]]
-```
 
 ## Key Conventions
 - Wiki-links: `[[Name]]` for cross-references
@@ -52,7 +33,6 @@ ClaudeBook files are plain narrative markdown with **no YAML frontmatter**. Stru
 ## Available Skills
 - `/rpg-summarize-session` - Create session note in `Campaign Journal/` from a summary
 - `/rpg-new-npc` - Create NPC with full template
-- `/rpg-write-chapter` - Write a ClaudeBook narrative chapter from a session note (output → `ClaudeBook/`, NOT `Campaign Journal/`)
 - `/rpg-plot-hooks` - Extract unresolved mysteries across vault
 - `/rpg-validate-links` - Check for broken wiki-links (uses Obsidian CLI when available)
 - `/rpg-validate-dataview` - Check Dataview Serializer markers are valid and rendered (run before PR)
